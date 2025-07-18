@@ -1,73 +1,73 @@
-# Диаграмма 2: Интеграция когнитивных архитектур с Information Dynamics
+# Diagram 2: Cognitive Architecture Integration with Information Dynamics
 
-## Описание
-Данная диаграмма показывает, как существующие когнитивные архитектуры интегрируются с компонентами теории Information Dynamics, создавая единую Unified Cognitive-Information Architecture (UCIA).
+## Description
+This diagram shows how existing cognitive architectures integrate with Information Dynamics theory components, creating a unified Cognitive-Information Architecture (UCIA).
 
-## Mermaid код для генерации диаграммы
+## Mermaid Code for Diagram Generation
 
 ```mermaid
 graph TD
-    %% Когнитивные архитектуры
-    ACT["🧠 ACT-R<br/>Adaptive Control of Thought<br/>• Продукционные правила<br/>• Буферы памяти<br/>• Гибридная архитектура"]
+    %% Cognitive architectures
+    ACT["🧠 ACT-R<br/>Adaptive Control of Thought<br/>• Production rules<br/>• Memory buffers<br/>• Hybrid architecture"]
     
-    EPIC["⚡ EPIC<br/>Executive Process-Interactive Control<br/>• Параллельная обработка<br/>• Исполнительный контроль<br/>• Множественные ресурсы"]
+    EPIC["⚡ EPIC<br/>Executive Process-Interactive Control<br/>• Parallel processing<br/>• Executive control<br/>• Multiple resources"]
     
-    GWT["🌐 Global Workspace Theory<br/>• Глобальная трансляция<br/>• Сознательный доступ<br/>• Коалиции модулей"]
+    GWT["🌐 Global Workspace Theory<br/>• Global broadcasting<br/>• Conscious access<br/>• Module coalitions"]
     
-    PERCEIVER["🔄 Perceiver Architecture<br/>• Cross-attention механизм<br/>• Универсальная архитектура<br/>• Transformer-based"]
+    PERCEIVER["🔄 Perceiver Architecture<br/>• Cross-attention mechanism<br/>• Universal architecture<br/>• Transformer-based"]
     
-    UMM["🤖 Unified Mind Model<br/>• LLM-основанная<br/>• Мультимодальность<br/>• Когнитивное моделирование"]
+    UMM["🤖 Unified Mind Model<br/>• LLM-based<br/>• Multimodality<br/>• Cognitive modeling"]
     
-    %% Information Dynamics компоненты
-    G_COMP["🌊 G_info<br/>Информационная проводимость"]
-    R_COMP["🚧 R_info<br/>Информационное сопротивление"] 
-    L_COMP["🔄 L_info<br/>Информационная индуктивность"]
-    C_COMP["🏪 C_info<br/>Информационная емкость"]
+    %% Information Dynamics components
+    G_COMP["🌊 G_info<br/>Information Conductivity"]
+    R_COMP["🚧 R_info<br/>Information Resistance"] 
+    L_COMP["🔄 L_info<br/>Information Inductance"]
+    C_COMP["🏪 C_info<br/>Information Capacity"]
     
-    %% Связи ACT-R
+    %% ACT-R connections
     ACT --> G_COMP
     ACT --> R_COMP
     ACT --> L_COMP
     ACT --> C_COMP
     
-    %% Связи EPIC
+    %% EPIC connections
     EPIC --> G_COMP
     EPIC --> R_COMP
     
-    %% Связи GWT
+    %% GWT connections
     GWT --> G_COMP
     GWT --> C_COMP
     
-    %% Связи Perceiver
+    %% Perceiver connections
     PERCEIVER --> G_COMP
     PERCEIVER --> L_COMP
     
-    %% Связи UMM
+    %% UMM connections
     UMM --> G_COMP
     UMM --> R_COMP
     UMM --> L_COMP
     UMM --> C_COMP
     
-    %% Интегративная модель
-    UCIA["🔗 UCIA<br/>Unified Cognitive-Information Architecture<br/>Интегративная модель"]
+    %% Integrative model
+    UCIA["🔗 UCIA<br/>Unified Cognitive-Information Architecture<br/>Integrative model"]
     
     G_COMP --> UCIA
     R_COMP --> UCIA
     L_COMP --> UCIA  
     C_COMP --> UCIA
     
-    %% Применения
-    EDU["🎓 Образование<br/>Адаптивное обучение<br/>Персонализация"]
+    %% Applications
+    EDU["🎓 Education<br/>Adaptive learning<br/>Personalization"]
     
-    UI["💻 Интерфейсы<br/>Когнитивная эргономика<br/>Usability"]
+    UI["💻 Interfaces<br/>Cognitive ergonomics<br/>Usability"]
     
-    AI["🤖 ИИ-системы<br/>Когнитивное моделирование<br/>Human-AI взаимодействие"]
+    AI["🤖 AI Systems<br/>Cognitive modeling<br/>Human-AI interaction"]
     
     UCIA --> EDU
     UCIA --> UI
     UCIA --> AI
     
-    %% Стили
+    %% Styles
     classDef architecture fill:#E6F3FF,stroke:#0066CC,stroke-width:2px
     classDef component fill:#FFE6CC,stroke:#CC6600,stroke-width:2px
     classDef integration fill:#E6FFE6,stroke:#006600,stroke-width:2px
@@ -79,126 +79,126 @@ graph TD
     class EDU,UI,AI application
 ```
 
-## Когнитивные архитектуры
+## Cognitive Architectures
 
 ### 🧠 ACT-R (Adaptive Control of Thought-Rational)
-- **Тип**: Гибридная символьно-коннекционистская архитектура
-- **Ключевые особенности**:
-  - Продукционные правила для процедурного знания
-  - Специализированные буферы памяти (visual, auditory, goal)
-  - Декларативная и процедурная память
-- **Связь с Information Dynamics**: Наиболее полная интеграция со всеми компонентами G, R, L, C
+- **Type**: Hybrid symbolic-connectionist architecture
+- **Key Features**:
+  - Production rules for procedural knowledge
+  - Specialized memory buffers (visual, auditory, goal)
+  - Declarative and procedural memory
+- **Information Dynamics Connection**: Most complete integration with all components G, R, L, C
 
 ### ⚡ EPIC (Executive Process-Interactive Control)  
-- **Тип**: Архитектура параллельной обработки
-- **Ключевые особенности**:
-  - Исполнительный контроль когнитивных процессов
-  - Множественные ресурсы обработки
-  - Временные ограничения и планирование
-- **Связь с Information Dynamics**: Акцент на проводимости (G) и сопротивлении (R)
+- **Type**: Parallel processing architecture
+- **Key Features**:
+  - Executive control of cognitive processes
+  - Multiple processing resources
+  - Temporal constraints and scheduling
+- **Information Dynamics Connection**: Focus on conductivity (G) and resistance (R)
 
 ### 🌐 Global Workspace Theory (GWT)
-- **Тип**: Архитектура глобального рабочего пространства
-- **Ключевые особенности**:
-  - Глобальная трансляция между модулями
-  - Сознательный доступ к информации
-  - Коалиции специализированных процессоров
-- **Связь с Information Dynamics**: Фокус на проводимости (G) и емкости (C)
+- **Type**: Global workspace architecture
+- **Key Features**:
+  - Global broadcasting between modules
+  - Conscious access to information
+  - Coalitions of specialized processors
+- **Information Dynamics Connection**: Focus on conductivity (G) and capacity (C)
 
 ### 🔄 Perceiver Architecture
-- **Тип**: Современная нейросетевая архитектура
-- **Ключевые особенности**:
-  - Cross-attention механизм Transformer
-  - Универсальная обработка модальностей
-  - Масштабируемость и гибкость
-- **Связь с Information Dynamics**: Проводимость (G) и индуктивность (L)
+- **Type**: Modern neural network architecture
+- **Key Features**:
+  - Cross-attention Transformer mechanism
+  - Universal modality processing
+  - Scalability and flexibility
+- **Information Dynamics Connection**: Conductivity (G) and inductance (L)
 
 ### 🤖 Unified Mind Model (UMM)
-- **Тип**: LLM-основанная когнитивная архитектура
-- **Ключевые особенности**:
-  - Мультимодальная обработка
-  - Языковое когнитивное моделирование
-  - Интеграция символьных и коннекционистских подходов
-- **Связь с Information Dynamics**: Полная интеграция всех компонентов
+- **Type**: LLM-based cognitive architecture
+- **Key Features**:
+  - Multimodal processing
+  - Language-based cognitive modeling
+  - Integration of symbolic and connectionist approaches
+- **Information Dynamics Connection**: Full integration of all components
 
-## Соответствия компонентов
+## Component Correspondences
 
-### 🌊 G_info - Информационная проводимость
-**Соответствия в архитектурах:**
-- **ACT-R**: Активация declarative memory, spreading activation
-- **EPIC**: Пропускная способность перцептивных процессоров
-- **GWT**: Эффективность глобальной трансляции
+### 🌊 G_info - Information Conductivity
+**Architectural correspondences:**
+- **ACT-R**: Declarative memory activation, spreading activation
+- **EPIC**: Perceptual processor throughput
+- **GWT**: Global broadcasting efficiency
 - **Perceiver**: Attention weights, cross-modal connectivity
 - **UMM**: Token processing efficiency, context utilization
 
-### 🚧 R_info - Информационное сопротивление
-**Соответствия в архитектурах:**
+### 🚧 R_info - Information Resistance
+**Architectural correspondences:**
 - **ACT-R**: Cognitive effort, rule conflict resolution
 - **EPIC**: Resource limitations, scheduling conflicts
-- **GWT**: Модульная изоляция, ограничения bandwidth
+- **GWT**: Modular isolation, bandwidth constraints
 - **Perceiver**: Computational complexity, attention constraints
 - **UMM**: Processing bottlenecks, context switching overhead
 
-### 🔄 L_info - Информационная индуктивность  
-**Соответствия в архитектурах:**
+### 🔄 L_info - Information Inductance  
+**Architectural correspondences:**
 - **ACT-R**: Learning mechanisms, chunk strengthening
 - **EPIC**: Temporal dynamics, scheduling inertia
 - **GWT**: Coalition formation time, conscious access delay
 - **Perceiver**: Sequence dependencies, temporal modeling
 - **UMM**: Context persistence, memory consolidation
 
-### 🏪 C_info - Информационная емкость
-**Соответствия в архитектурах:**
+### 🏪 C_info - Information Capacity
+**Architectural correspondences:**
 - **ACT-R**: Declarative memory capacity, chunk limits
 - **EPIC**: Buffer capacities, resource pools
 - **GWT**: Global workspace capacity, broadcasting limits
 - **Perceiver**: Context window, parameter capacity
 - **UMM**: Working memory span, knowledge storage
 
-## Интегративная модель UCIA
+## UCIA Integrative Model
 
 ### 🔗 Unified Cognitive-Information Architecture
-**Принципы интеграции:**
+**Integration principles:**
 
-1. **Многоуровневая структура**:
-   - Микроуровень: Нейронные механизмы
-   - Мезоуровень: Когнитивные процессы  
-   - Макроуровень: Информационные потоки
+1. **Multi-level structure**:
+   - Micro-level: Neural mechanisms
+   - Meso-level: Cognitive processes  
+   - Macro-level: Information flows
 
-2. **Динамическое взаимодействие**:
-   - G ↔ R: Адаптивная регуляция пропускной способности
-   - L ↔ C: Временная динамика накопления информации
-   - Все компоненты: Взаимная модуляция
+2. **Dynamic interaction**:
+   - G ↔ R: Adaptive throughput regulation
+   - L ↔ C: Temporal dynamics of information accumulation
+   - All components: Mutual modulation
 
-3. **Контекстная адаптация**:
-   - Задачно-зависимая конфигурация
-   - Индивидуальные различия
-   - Средовые факторы
+3. **Contextual adaptation**:
+   - Task-dependent configuration
+   - Individual differences
+   - Environmental factors
 
-## Практические применения
+## Practical Applications
 
-### 🎓 Образование
-- **Адаптивные обучающие системы**: Подстройка под G, R, L, C ученика
-- **Персонализация контента**: Оптимизация информационного напряжения
-- **Диагностика обучения**: Измерение когнитивных параметров
+### 🎓 Education
+- **Adaptive learning systems**: Tuning to student's G, R, L, C parameters
+- **Content personalization**: Information voltage optimization
+- **Learning diagnostics**: Cognitive parameter measurement
 
-### 💻 Интерфейсы и UX
-- **Когнитивная эргономика**: Минимизация R_info, оптимизация G_info
-- **Адаптивные интерфейсы**: Динамическая подстройка под пользователя
-- **Usability testing**: Количественные метрики когнитивной нагрузки
+### 💻 Interfaces and UX
+- **Cognitive ergonomics**: R_info minimization, G_info optimization
+- **Adaptive interfaces**: Dynamic user adaptation
+- **Usability testing**: Quantitative cognitive load metrics
 
-### 🤖 ИИ-системы
-- **Human-AI взаимодействие**: Совместимость когнитивных архитектур
-- **Когнитивное моделирование**: Симуляция человеческих информационных процессов
-- **Explainable AI**: Интерпретация через Information Dynamics
+### 🤖 AI Systems
+- **Human-AI interaction**: Cognitive architecture compatibility
+- **Cognitive modeling**: Human information process simulation
+- **Explainable AI**: Information Dynamics interpretation
 
-## Как создать диаграмму
+## How to Create the Diagram
 
-1. Скопируйте код из блока Mermaid
-2. Вставьте в любой редактор, поддерживающий Mermaid
-3. Или используйте онлайн-редактор: https://mermaid.live/
-4. Для экспорта в SVG: используйте функцию экспорта в Mermaid Live Editor
+1. Copy code from the Mermaid block
+2. Paste into any Mermaid-supporting editor
+3. Or use online editor: https://mermaid.live/
+4. For SVG export: use export function in Mermaid Live Editor
 
-## Файлы проекта
-- **Связанный литературный обзор**: `research/literature_review_1.2.1.md`
-- **Теоретические модели**: `theory/formal_model_conductivity.md`, `theory/formal_model_resistance.md`, `theory/formal_model_inductance.md` 
+## Related Project Files
+- **Related literature review**: `research/literature_review_1.2.1.md`
+- **Theoretical models**: `theory/formal_model_conductivity.md`, `theory/formal_model_resistance.md`, `theory/formal_model_inductance.md` 

@@ -1,38 +1,38 @@
-# Диаграмма 5: Обзор прогресса проекта Information Dynamics
+# Diagram 5: Information Dynamics Project Progress Overview
 
-## Описание
-Данная диаграмма показывает общий прогресс выполнения проекта по исследованию Information Dynamics, завершенные этапы и следующие приоритеты.
+## Description
+This diagram shows the overall progress of the Information Dynamics research project, completed stages, and upcoming priorities.
 
-## Mermaid код для генерации диаграммы
+## Mermaid Code for Diagram Generation
 
 ```mermaid
 graph TD
-    %% Завершенные задачи раздела 1.1
-    A["🎯 ЭТАП 1.1 ЗАВЕРШЕН<br/>Базовые концепции"]
+    %% Completed tasks section 1.1
+    A["🎯 STAGE 1.1 COMPLETE<br/>Basic concepts"]
     
-    B["✅ 1.1.1<br/>Информационное напряжение<br/>• Cognitive load<br/>• Information pressure<br/>• Концептуальные мосты"]
+    B["✅ 1.1.1<br/>Information voltage<br/>• Cognitive load<br/>• Information pressure<br/>• Conceptual bridges"]
     
-    C["✅ 1.1.2<br/>Когнитивное сопротивление<br/>• Broadbent filter model<br/>• CLT формализация<br/>• Resistance models"]
+    C["✅ 1.1.2<br/>Cognitive resistance<br/>• Broadbent filter model<br/>• CLT formalization<br/>• Resistance models"]
     
-    D["✅ 1.1.3<br/>Информационная индуктивность<br/>• Mental chronometry<br/>• Belief persistence<br/>• Path dependence"]
+    D["✅ 1.1.3<br/>Information inductance<br/>• Mental chronometry<br/>• Belief persistence<br/>• Path dependence"]
     
-    E["✅ 1.1.4<br/>Качество информации<br/>• Factual density<br/>• Semantic quality<br/>• Credibility assessment"]
+    E["✅ 1.1.4<br/>Information quality<br/>• Factual density<br/>• Semantic quality<br/>• Credibility assessment"]
     
-    %% Завершенные задачи раздела 1.2
-    F["🎯 ЭТАП 1.2 ЗАВЕРШЕН<br/>Существующие формализмы"]
+    %% Completed tasks section 1.2
+    F["🎯 STAGE 1.2 COMPLETE<br/>Existing formalisms"]
     
-    G["✅ 1.2.1<br/>Когнитивные архитектуры<br/>• ACT-R, EPIC, GWT<br/>• UCIA модель<br/>• Интеграция G,R,L,C"]
+    G["✅ 1.2.1<br/>Cognitive architectures<br/>• ACT-R, EPIC, GWT<br/>• UCIA model<br/>• G,R,L,C integration"]
     
-    H["✅ 1.2.2<br/>Социальные метрики<br/>• Эхо-камеры<br/>• Фильтр-пузыри<br/>• G_social, R_social"]
+    H["✅ 1.2.2<br/>Social metrics<br/>• Echo chambers<br/>• Filter bubbles<br/>• G_social, R_social"]
     
-    I["✅ 1.2.3<br/>Трансформация контента<br/>• Viral mutations<br/>• Семантический дрифт<br/>• Информационные трансформаторы"]
+    I["✅ 1.2.3<br/>Content transformation<br/>• Viral mutations<br/>• Semantic drift<br/>• Information transformers"]
     
-    %% Завершенные задачи раздела 2.1
-    J["🎯 ЭТАП 2.1 ЗАВЕРШЕН<br/>Базовые математические модели"]
+    %% Completed tasks section 2.1
+    J["🎯 STAGE 2.1 COMPLETE<br/>Basic mathematical models"]
     
-    K["✅ 2.1.1<br/>Закон Ома для информации<br/>• V_info = U_info / R_info<br/>• Динамический режим<br/>• Полный импеданс"]
+    K["✅ 2.1.1<br/>Ohm's law for information<br/>• V_info = U_info / R_info<br/>• Dynamic mode<br/>• Full impedance"]
     
-    %% Связи выполненных этапов
+    %% Completed stage connections
     A --> B
     A --> C
     A --> D
@@ -44,8 +44,8 @@ graph TD
     
     J --> K
     
-    %% Интеграция в общую модель
-    INTEGRATION["🔗 ПОЛНАЯ ИНТЕГРАЦИЯ<br/>Information Dynamics Theory<br/>✅ Все компоненты G, R, L, C, U определены<br/>✅ Закон Ома формализован<br/>✅ Социальные эффекты учтены"]
+    %% Integration into unified model
+    INTEGRATION["🔗 FULL INTEGRATION<br/>Information Dynamics Theory<br/>✅ All components G, R, L, C, U defined<br/>✅ Ohm's law formalized<br/>✅ Social effects included"]
     
     B --> INTEGRATION
     C --> INTEGRATION
@@ -56,44 +56,44 @@ graph TD
     I --> INTEGRATION
     K --> INTEGRATION
     
-    %% Текущие приоритеты
-    CURRENT["🚧 ТЕКУЩИЕ ПРИОРИТЕТЫ"]
+    %% Current priorities
+    CURRENT["🚧 CURRENT PRIORITIES"]
     
-    TASK_1_3_1["📋 Задача 1.3.1<br/>Концептуальный словарь<br/>Статус: В очереди<br/>Приоритет: Высокий"]
+    TASK_1_3_1["📋 Task 1.3.1<br/>Conceptual glossary<br/>Status: Queued<br/>Priority: High"]
     
-    TASK_2_1_2["📋 Задача 2.1.2<br/>Информационная емкость<br/>Статус: В очереди<br/>Приоритет: Средний"]
+    TASK_2_1_2["📋 Task 2.1.2<br/>Information capacity<br/>Status: Queued<br/>Priority: Medium"]
     
-    TASK_2_1_3["📋 Задача 2.1.3<br/>Временная динамика<br/>Статус: В очереди<br/>Приоритет: Средний"]
+    TASK_2_1_3["📋 Task 2.1.3<br/>Temporal dynamics<br/>Status: Queued<br/>Priority: Medium"]
     
     INTEGRATION --> CURRENT
     CURRENT --> TASK_1_3_1
     CURRENT --> TASK_2_1_2
     CURRENT --> TASK_2_1_3
     
-    %% Будущие этапы
-    FUTURE["🔮 БУДУЩИЕ ЭТАПЫ"]
+    %% Future stages
+    FUTURE["🔮 FUTURE STAGES"]
     
-    STAGE_3["🧪 ЭТАП 3<br/>Экспериментальный дизайн<br/>• Валидация G, R, L модели<br/>• A/B тестирование<br/>• Эмпирические данные"]
+    STAGE_3["🧪 STAGE 3<br/>Experimental design<br/>• G, R, L model validation<br/>• A/B testing<br/>• Empirical data"]
     
-    STAGE_4["📊 ЭТАП 4<br/>Анализ данных<br/>• Статистическая валидация<br/>• R² > 0.6 для предсказаний<br/>• Корреляционный анализ"]
+    STAGE_4["📊 STAGE 4<br/>Data analysis<br/>• Statistical validation<br/>• R² > 0.6 for predictions<br/>• Correlation analysis"]
     
-    STAGE_5["🛠️ ЭТАП 5<br/>Инструменты и симуляции<br/>• Python-библиотека InfoDynamics<br/>• Симуляторы информационных цепей<br/>• Практические приложения"]
+    STAGE_5["🛠️ STAGE 5<br/>Tools and simulations<br/>• InfoDynamics Python library<br/>• Information circuit simulators<br/>• Practical applications"]
     
     CURRENT --> FUTURE
     FUTURE --> STAGE_3
     FUTURE --> STAGE_4
     FUTURE --> STAGE_5
     
-    %% Практические применения
-    APPLICATIONS["🎯 ПРИМЕНЕНИЯ ГОТОВЫ"]
+    %% Practical applications
+    APPLICATIONS["🎯 APPLICATIONS READY"]
     
-    APP_EDU["🎓 Образование<br/>• Адаптивные системы<br/>• Персонализация контента<br/>• Когнитивная нагрузка"]
+    APP_EDU["🎓 Education<br/>• Adaptive systems<br/>• Content personalization<br/>• Cognitive load"]
     
-    APP_UX["💻 UX/UI<br/>• Информационная архитектура<br/>• Минимизация R_info<br/>• Оптимизация G_info"]
+    APP_UX["💻 UX/UI<br/>• Information architecture<br/>• R_info minimization<br/>• G_info optimization"]
     
-    APP_SOCIAL["📱 Соцсети<br/>• Алгоритмы рекомендаций<br/>• Борьба с дезинформацией<br/>• Контент-стратегии"]
+    APP_SOCIAL["📱 Social Networks<br/>• Recommendation algorithms<br/>• Misinformation combat<br/>• Content strategies"]
     
-    APP_CORP["🏢 Корпорации<br/>• Внутренние коммуникации<br/>• Преодоление силосов<br/>• Информационная эффективность"]
+    APP_CORP["🏢 Corporations<br/>• Internal communications<br/>• Silo overcoming<br/>• Information efficiency"]
     
     INTEGRATION --> APPLICATIONS
     APPLICATIONS --> APP_EDU
@@ -101,16 +101,16 @@ graph TD
     APPLICATIONS --> APP_SOCIAL
     APPLICATIONS --> APP_CORP
     
-    %% Метрики достижений
-    METRICS["📈 КЛЮЧЕВЫЕ ДОСТИЖЕНИЯ"]
+    %% Achievement metrics
+    METRICS["📈 KEY ACHIEVEMENTS"]
     
-    METRIC_1["✅ 100% Этапа 1.1<br/>4/4 задачи завершены<br/>Все базовые концепции определены"]
+    METRIC_1["✅ 100% Stage 1.1<br/>4/4 tasks completed<br/>All basic concepts defined"]
     
-    METRIC_2["✅ 100% Этапа 1.2<br/>3/3 задачи завершены<br/>Интеграция с существующими теориями"]
+    METRIC_2["✅ 100% Stage 1.2<br/>3/3 tasks completed<br/>Integration with existing theories"]
     
-    METRIC_3["✅ 50% Этапа 2.1<br/>1/3 задачи завершена<br/>Основной закон формализован"]
+    METRIC_3["✅ 50% Stage 2.1<br/>1/3 tasks completed<br/>Core law formalized"]
     
-    METRIC_4["📊 Общий прогресс: ~60%<br/>8/13 ключевых задач завершено<br/>Готовность к экспериментам"]
+    METRIC_4["📊 Overall progress: ~60%<br/>8/13 key tasks completed<br/>Ready for experiments"]
     
     INTEGRATION --> METRICS
     METRICS --> METRIC_1
@@ -118,7 +118,7 @@ graph TD
     METRICS --> METRIC_3
     METRICS --> METRIC_4
     
-    %% Стили
+    %% Styles
     classDef completed fill:#90EE90,stroke:#006400,stroke-width:2px
     classDef integration fill:#87CEEB,stroke:#4682B4,stroke-width:2px
     classDef current fill:#FFE4B5,stroke:#FF8C00,stroke-width:2px
@@ -134,103 +134,103 @@ graph TD
     class METRICS,METRIC_1,METRIC_2,METRIC_3,METRIC_4 metrics
 ```
 
-## Завершенные этапы
+## Completed Stages
 
-### 🎯 Этап 1.1: Базовые концепции (100% завершено)
-- **1.1.1 Информационное напряжение**: Систематизированы cognitive load, information pressure
-- **1.1.2 Когнитивное сопротивление**: Формализованы Broadbent filter model, CLT
-- **1.1.3 Информационная индуктивность**: Определены temporal delays, belief persistence
-- **1.1.4 Качество информации**: Разработана многомерная модель U_info
+### 🎯 Stage 1.1: Basic concepts (100% complete)
+- **1.1.1 Information voltage**: Systematized cognitive load, information pressure
+- **1.1.2 Cognitive resistance**: Formalized Broadbent filter model, CLT
+- **1.1.3 Information inductance**: Defined temporal delays, belief persistence
+- **1.1.4 Information quality**: Developed multidimensional U_info model
 
-### 🎯 Этап 1.2: Существующие формализмы (100% завершено)
-- **1.2.1 Когнитивные архитектуры**: Интеграция ACT-R, EPIC, GWT с G,R,L,C
-- **1.2.2 Социальные метрики**: Формализация эхо-камер, фильтр-пузырей
-- **1.2.3 Трансформация контента**: Концепция информационных трансформаторов
+### 🎯 Stage 1.2: Existing formalisms (100% complete)
+- **1.2.1 Cognitive architectures**: ACT-R, EPIC, GWT integration with G,R,L,C
+- **1.2.2 Social metrics**: Echo chamber and filter bubble formalization
+- **1.2.3 Content transformation**: Information transformers concept
 
-### 🎯 Этап 2.1: Базовые математические модели (33% завершено)
-- **2.1.1 Закон Ома для информации**: ✅ Полная формализация V_info = U_info / Z_info
-- **2.1.2 Информационная емкость**: 🚧 В очереди
-- **2.1.3 Временная динамика**: 🚧 В очереди
+### 🎯 Stage 2.1: Basic mathematical models (33% complete)
+- **2.1.1 Ohm's law for information**: ✅ Full formalization V_info = U_info / Z_info
+- **2.1.2 Information capacity**: 🚧 Queued
+- **2.1.3 Temporal dynamics**: 🚧 Queued
 
-## Текущие приоритеты
+## Current Priorities
 
-### 📋 Задача 1.3.1: Концептуальный словарь
-- **Статус**: В очереди (высокий приоритет)
-- **Цель**: Интеграция всех найденных концепций в единый словарь
-- **Результат**: Научно обоснованный глоссарий терминов
+### 📋 Task 1.3.1: Conceptual glossary
+- **Status**: Queued (high priority)
+- **Goal**: Integration of all found concepts into unified dictionary
+- **Result**: Scientifically grounded terminology glossary
 
-### 📋 Задача 2.1.2: Информационная емкость
-- **Статус**: В очереди (средний приоритет)  
-- **Цель**: Формализация C_info компонента
-- **Базис**: Memory capacity, motivation, organization
+### 📋 Task 2.1.2: Information capacity
+- **Status**: Queued (medium priority)  
+- **Goal**: C_info component formalization
+- **Basis**: Memory capacity, motivation, organization
 
-### 📋 Задача 2.1.3: Временная динамика
-- **Статус**: В очереди (средний приоритет)
-- **Цель**: Динамические эффекты в информационных потоках
-- **Базис**: Частотный анализ, переходные процессы
+### 📋 Task 2.1.3: Temporal dynamics
+- **Status**: Queued (medium priority)
+- **Goal**: Dynamic effects in information flows
+- **Basis**: Frequency analysis, transient processes
 
-## Будущие этапы
+## Future Stages
 
-### 🧪 Этап 3: Экспериментальный дизайн
-- Валидация моделей G, R, L на реальных данных
-- A/B тестирование информационных интерфейсов
-- Сбор эмпирических данных для корреляционного анализа
+### 🧪 Stage 3: Experimental design
+- G, R, L model validation on real data
+- A/B testing of information interfaces
+- Empirical data collection for correlation analysis
 
-### 📊 Этап 4: Анализ данных
-- Статистическая валидация всех моделей
-- Достижение R² > 0.6 для предсказательных моделей
-- Корреляционный анализ между теоретическими и наблюдаемыми величинами
+### 📊 Stage 4: Data analysis
+- Statistical validation of all models
+- Achieving R² > 0.6 for predictive models
+- Correlation analysis between theoretical and observed values
 
-### 🛠️ Этап 5: Инструменты и симуляции
-- Python-библиотека InfoDynamics
-- Симуляторы информационных цепей и сетей
-- Практические приложения для индустрии
+### 🛠️ Stage 5: Tools and simulations
+- InfoDynamics Python library
+- Information circuit and network simulators
+- Practical industry applications
 
-## Готовые практические применения
+## Ready Practical Applications
 
-### 🎓 Образование
-- Адаптивные обучающие системы на основе G, R, L, C
-- Персонализация контента под когнитивные характеристики
-- Оптимизация учебных материалов по информационной нагрузке
+### 🎓 Education
+- Adaptive learning systems based on G, R, L, C
+- Content personalization for cognitive characteristics
+- Learning material optimization by information load
 
-### 💻 UX/UI дизайн
-- Информационная архитектура интерфейсов
-- Минимизация R_info (когнитивного сопротивления)
-- Оптимизация G_info (информационной проводимости)
+### 💻 UX/UI Design
+- Interface information architecture
+- R_info (cognitive resistance) minimization
+- G_info (information conductivity) optimization
 
-### 📱 Социальные сети
-- Алгоритмы рекомендаций на основе Information Dynamics
-- Борьба с дезинформацией через анализ трансформаций
-- Контент-стратегии с учетом социальных эффектов
+### 📱 Social Networks
+- Recommendation algorithms based on Information Dynamics
+- Misinformation combat through transformation analysis
+- Content strategies considering social effects
 
-### 🏢 Корпоративные коммуникации
-- Оптимизация внутренних информационных потоков
-- Преодоление информационных силосов
-- Измерение эффективности коммуникаций
+### 🏢 Corporate Communications
+- Internal information flow optimization
+- Information silo overcoming
+- Communication efficiency measurement
 
-## Ключевые достижения
+## Key Achievements
 
-### 📈 Метрики прогресса
-- **Общий прогресс**: ~60% (8 из 13 ключевых задач)
-- **Теоретическая база**: 100% готова к экспериментам
-- **Практические применения**: Готовы к внедрению
-- **Научная новизна**: Первая количественная теория информационных потоков
+### 📈 Progress metrics
+- **Overall progress**: ~60% (8 of 13 key tasks)
+- **Theoretical foundation**: 100% ready for experiments
+- **Practical applications**: Ready for implementation
+- **Scientific novelty**: First quantitative theory of information flows
 
-### 🏆 Главные результаты
-1. **Полная формализация закона Ома для информации** с всеми компонентами
-2. **Интеграция с существующими когнитивными теориями** (ACT-R, CLT, GWT)
-3. **Социальная расширенная модель** для эхо-камер и фильтр-пузырей
-4. **Концепция информационных трансформаторов** для анализа контента
-5. **Готовые экспериментальные предсказания** для валидации
+### 🏆 Main results
+1. **Complete Ohm's law formalization for information** with all components
+2. **Integration with existing cognitive theories** (ACT-R, CLT, GWT)
+3. **Extended social model** for echo chambers and filter bubbles
+4. **Information transformers concept** for content analysis
+5. **Ready experimental predictions** for validation
 
-## Как создать диаграмму
+## How to Create the Diagram
 
-1. Скопируйте код из блока Mermaid
-2. Вставьте в любой редактор, поддерживающий Mermaid
-3. Или используйте онлайн-редактор: https://mermaid.live/
-4. Для экспорта в SVG: используйте функцию экспорта в Mermaid Live Editor
+1. Copy code from the Mermaid block
+2. Paste into any Mermaid-supporting editor
+3. Or use online editor: https://mermaid.live/
+4. For SVG export: use export function in Mermaid Live Editor
 
-## Связанные файлы проекта
-- **Бэклог**: `backlog.md`
-- **Все литературные обзоры**: `research/literature_review_*.md`
-- **Теоретические модели**: `theory/formal_model_*.md`, `theory/ohms_law_information.md` 
+## Related Project Files
+- **Backlog**: `backlog.md`
+- **All literature reviews**: `research/literature_review_*.md`
+- **Theoretical models**: `theory/formal_model_*.md`, `theory/ohms_law_information.md` 

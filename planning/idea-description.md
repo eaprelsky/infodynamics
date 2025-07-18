@@ -1,35 +1,35 @@
-# Описание идеи
+# Idea Description
 
-Мне в голову пришла идея о новой дисциплине, которую можно условно назвать "информационная динамика". 
+I came up with an idea for a new discipline that could be called "Information Dynamics."
 
-Это аналог радиоэлектроники, но описывает движение не электрического тока, а информации.
+This is an analog of electronics, but describes the movement of information rather than electrical current.
 
-Я рассмотрю движение информации через  людей, но аналогичным образом можно рассматривать информацию, проходящую через когнитивных агентов, информационные системы и все  это вместе.
+I will examine information movement through people, but in a similar way one could consider information passing through cognitive agents, information systems, and all of these together.
 
-Информация идёт, попадает в медленного человека и застревает надолго.
+Information flows, encounters a slow person, and gets stuck for a long time.
 
-Это элемент, который создает в информационных цепях инерцию, он аналогичен по функции индукционной катушке.
+This is an element that creates inertia in information circuits, functionally analogous to an inductor coil.
 
-Аналогично, есть человек-резистор. Например, человек, склонный тщательно фильтровать информацию. Он много слушает других, но сам передаёт дальше лишь немногую часть от этого. У него есть когнитивное сопротивление.
+Similarly, there is a person-resistor. For example, a person inclined to carefully filter information. They listen to a lot from others, but transmit only a small portion of it further. They have cognitive resistance.
 
-Человек-проводник транслирует другим всю информацию, которая в неё попадает.
+A person-conductor transmits to others all the information that enters them.
 
-Генераторы создают новую информацию. Но у них может быть разное напряжение, то есть способность распространять созданную ими информацию многим людям. 
+Generators create new information. But they can have different voltage, meaning different abilities to spread their created information to many people.
 
-Трансформаторы понижают или повышают когнитивное напряжение, то есть преобразуют сложное в доступное и обратно. Это, например, популяризаторы науки, учителя и так далее.
+Transformers step down or step up cognitive voltage, that is, they convert complex information into accessible form and vice versa. These are, for example, science popularizers, teachers, and so on.
 
-Дальше есть огромный пласт неизведанного, связанный с тем, что информация вся разная по качеству и содержанию.
+Furthermore, there is a huge layer of the unexplored, related to the fact that information varies greatly in quality and content.
 
-Например, у информации может быть сентимент (эмоциональная окраска). 
+For example, information can have sentiment (emotional coloring).
 
-У информации может быть тембр. Не хорошее, не плохое, просто разное по звучанию, как виолончель отличается от вувузелы.
+Information can have timbre. Not good or bad, just different in sound, like how a cello differs from a vuvuzela.
 
-Программная разработка уже сейчас занимается инженерией информационных систем, то есть  сложных систем, преобразующих информацию. 
+Software development already deals with information systems engineering, that is, complex systems that transform information.
 
-Но информационная динамика предполагает работу с информацией на другом уровне. Это работа не с данными, не с их форматом и структурой.
+But Information Dynamics involves working with information at a different level. This is not work with data, not with their format and structure.
 
-Речь идёт, скорее, про изучение информации как уникального природного явления. 
+Rather, it's about studying information as a unique natural phenomenon.
 
-Со всем многообразием его свойств мы сможем познакомиться, когда когнитивные технологии станут дешевыми и легко доступными, но в принципе, здесь есть место для исследований и построения теорий хоть сейчас.
+We will be able to become acquainted with all the diversity of its properties when cognitive technologies become cheap and easily accessible, but in principle, there is room for research and theory building even now.
 
-Области применения информационной динамики — корпоративная психология и HR, образование, продажи, проектное управление, государственное управление, социальная инженерия.
+Application areas of Information Dynamics include corporate psychology and HR, education, sales, project management, public administration, and social engineering.

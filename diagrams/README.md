@@ -1,130 +1,130 @@
-# Диаграммы проекта Information Dynamics
+# Information Dynamics Project Diagrams
 
-Данная папка содержит все диаграммы проекта по исследованию теории "Информационная динамика" с подробными описаниями и кодом для их генерации.
+This folder contains all diagrams for the Information Dynamics theory research project with detailed descriptions and code for their generation.
 
-## 📋 Список диаграмм
+## 📋 Diagram List
 
-### 01. [Полный закон Ома для информации](./01_ohms_law_complete.md)
-- **Описание**: Основная диаграмма теории с интеграцией всех компонентов G, R, L, C, U
-- **Ключевые элементы**: Статический/динамический режимы, практические применения
-- **Статус**: ✅ Готово
+### 01. [Complete Ohm's Law for Information](./01_ohms_law_complete.md)
+- **Description**: Main theory diagram integrating all components G, R, L, C, U
+- **Key Elements**: Static/dynamic modes, practical applications
+- **Status**: ✅ Complete
 
-### 02. [Интеграция когнитивных архитектур](./02_cognitive_architectures.md)  
-- **Описание**: Связь существующих когнитивных архитектур с Information Dynamics
-- **Ключевые элементы**: ACT-R, EPIC, GWT, Perceiver, UMM → UCIA
-- **Статус**: ✅ Готово
+### 02. [Cognitive Architecture Integration](./02_cognitive_architectures.md)  
+- **Description**: Connection between existing cognitive architectures and Information Dynamics
+- **Key Elements**: ACT-R, EPIC, GWT, Perceiver, UMM → UCIA
+- **Status**: ✅ Complete
 
-### 03. [Социальные сети и информационная проводимость](./03_social_networks.md)
-- **Описание**: Эхо-камеры, фильтр-пузыри и их влияние на информационные потоки
-- **Ключевые элементы**: G_social, R_social, L_social, экспериментальные предсказания
-- **Статус**: ✅ Готово
+### 03. [Social Networks and Information Conductivity](./03_social_networks.md)
+- **Description**: Echo chambers, filter bubbles and their impact on information flows
+- **Key Elements**: G_social, R_social, L_social, experimental predictions
+- **Status**: ✅ Complete
 
-### 04. [Информационные трансформаторы](./04_information_transformers.md)
-- **Описание**: Механизмы трансформации контента при передаче
-- **Ключевые элементы**: 4 типа трансформаторов, viral mutations, семантический дрифт
-- **Статус**: ✅ Готово
+### 04. [Information Transformers](./04_information_transformers.md)
+- **Description**: Content transformation mechanisms during transmission
+- **Key Elements**: 4 transformer types, viral mutations, semantic drift
+- **Status**: ✅ Complete
 
-### 05. [Обзор прогресса проекта](./05_progress_overview.md)
-- **Описание**: Текущий статус выполнения проекта и планы развития
-- **Ключевые элементы**: Завершенные этапы, текущие приоритеты, метрики достижений
-- **Статус**: ✅ Готово
+### 05. [Project Progress Overview](./05_progress_overview.md)
+- **Description**: Current project completion status and development plans
+- **Key Elements**: Completed stages, current priorities, achievement metrics
+- **Status**: ✅ Complete
 
-## 🛠️ Как использовать диаграммы
+## 🛠️ How to Use the Diagrams
 
-### Для просмотра:
-1. Откройте любой `.md` файл
-2. Скопируйте код из блока `mermaid`
-3. Вставьте в редактор с поддержкой Mermaid:
-   - [Mermaid Live Editor](https://mermaid.live/) (онлайн)
-   - Obsidian (локально)
-   - GitHub/GitLab (встроенная поддержка)
-   - Notion (плагин)
-   - VS Code (расширение Mermaid)
+### For Viewing:
+1. Open any `.md` file
+2. Copy code from the `mermaid` block
+3. Paste into a Mermaid-supporting editor:
+   - [Mermaid Live Editor](https://mermaid.live/) (online)
+   - Obsidian (local)
+   - GitHub/GitLab (built-in support)
+   - Notion (plugin)
+   - VS Code (Mermaid extension)
 
-### Для экспорта в SVG:
-1. Используйте [Mermaid Live Editor](https://mermaid.live/)
-2. Вставьте код диаграммы
-3. Нажмите кнопку "Download SVG"
-4. Сохраните файл в эту папку
+### For SVG Export:
+1. Use [Mermaid Live Editor](https://mermaid.live/)
+2. Paste diagram code
+3. Click "Download SVG" button
+4. Save file to this folder
 
-### Для создания PNG:
-1. Откройте SVG в браузере
-2. Сделайте скриншот или используйте:
-   - Inkscape (бесплатно)
+### For PNG Creation:
+1. Open SVG in browser
+2. Take screenshot or use:
+   - Inkscape (free)
    - Adobe Illustrator
-   - Онлайн конверторы SVG→PNG
+   - Online SVG→PNG converters
 
-## 📊 Структура описаний
+## 📊 Description Structure
 
-Каждый файл диаграммы содержит:
+Each diagram file contains:
 
-- **Описание**: Краткое объяснение назначения диаграммы
-- **Mermaid код**: Полный код для генерации диаграммы
-- **Детальное описание компонентов**: Объяснение каждого элемента
-- **Практические применения**: Где и как использовать
-- **Связанные файлы**: Ссылки на соответствующие теоретические модели
-- **Инструкции по созданию**: Пошаговое руководство
+- **Description**: Brief explanation of diagram purpose
+- **Mermaid Code**: Complete code for diagram generation
+- **Detailed Component Description**: Explanation of each element
+- **Practical Applications**: Where and how to use
+- **Related Files**: Links to corresponding theoretical models
+- **Creation Instructions**: Step-by-step guide
 
-## 🔗 Связь с проектом
+## 🔗 Project Connections
 
-### Теоретические основы:
-- `theory/ohms_law_information.md` → Диаграмма 01
-- `theory/formal_model_*.md` → Диаграммы 01, 02, 03
-- `research/literature_review_1.2.*.md` → Диаграммы 02, 03, 04
+### Theoretical Foundations:
+- `theory/ohms_law_information.md` → Diagram 01
+- `theory/formal_model_*.md` → Diagrams 01, 02, 03
+- `research/literature_review_1.2.*.md` → Diagrams 02, 03, 04
 
-### Практические применения:
-- Образование → Все диаграммы
-- UX/UI дизайн → Диаграммы 01, 03
-- Социальные сети → Диаграммы 03, 04
-- Корпоративные коммуникации → Диаграммы 01, 02
+### Practical Applications:
+- Education → All diagrams
+- UX/UI Design → Diagrams 01, 03
+- Social Networks → Diagrams 03, 04
+- Corporate Communications → Diagrams 01, 02
 
-### Экспериментальные основы:
-- Каждая диаграмма содержит проверяемые гипотезы
-- Операционализированные переменные
-- Метрики для валидации
+### Experimental Foundations:
+- Each diagram contains testable hypotheses
+- Operationalized variables
+- Validation metrics
 
-## 📈 Эволюция диаграмм
+## 📈 Diagram Evolution
 
-### Версия 1.0 (текущая):
-- ✅ Основные компоненты определены
-- ✅ Интеграция с существующими теориями
-- ✅ Практические применения выявлены
-- ✅ Экспериментальные предсказания сформулированы
+### Version 1.0 (current):
+- ✅ Core components defined
+- ✅ Integration with existing theories
+- ✅ Practical applications identified
+- ✅ Experimental predictions formulated
 
-### Планируемые обновления:
-- 🔄 Добавление диаграммы экспериментального дизайна (Этап 3)
-- 🔄 Визуализация результатов валидации (Этап 4)
-- 🔄 Архитектура программных инструментов (Этап 5)
-- 🔄 Кейсы реальных применений
+### Planned Updates:
+- 🔄 Adding experimental design diagram (Stage 3)
+- 🔄 Validation results visualization (Stage 4)
+- 🔄 Software tools architecture (Stage 5)
+- 🔄 Real application case studies
 
-## 💡 Рекомендации по использованию
+## 💡 Usage Recommendations
 
-### Для исследователей:
-- Начните с диаграммы 01 (общий обзор)
-- Изучите диаграмму 02 (связь с когнитивными теориями)
-- Используйте диаграммы 03-04 для специфических доменов
+### For Researchers:
+- Start with diagram 01 (general overview)
+- Study diagram 02 (connection to cognitive theories)
+- Use diagrams 03-04 for specific domains
 
-### Для практиков:
-- Диаграмма 01: понимание общих принципов
-- Диаграмма 03: оптимизация социальных платформ
-- Диаграмма 04: управление контентом и коммуникациями
+### For Practitioners:
+- Diagram 01: understanding general principles
+- Diagram 03: optimizing social platforms
+- Diagram 04: content and communication management
 
-### Для студентов:
-- Диаграмма 05: текущий статус проекта
-- Диаграмма 02: связь с традиционными теориями
-- Диаграмма 01: основные концепции
+### For Students:
+- Diagram 05: current project status
+- Diagram 02: connection to traditional theories
+- Diagram 01: core concepts
 
-## 📧 Обратная связь
+## 📧 Feedback
 
-Если вы нашли ошибки в диаграммах или у вас есть предложения по улучшению:
-1. Создайте issue в репозитории проекта
-2. Предложите изменения в соответствующем `.md` файле
-3. Добавьте комментарии к специфическим частям диаграмм
+If you found errors in diagrams or have improvement suggestions:
+1. Create an issue in the project repository
+2. Propose changes in the corresponding `.md` file
+3. Add comments to specific diagram parts
 
-## 📚 Связанная документация
+## 📚 Related Documentation
 
-- **Основная идея**: `../idea-description.md`
-- **План проекта**: `../plan-0.md`
-- **Бэклог задач**: `../backlog.md`
-- **Методология**: `../optics.md`
-- **Инструкции**: `../run.md` 
+- **Main Idea**: `../planning/idea-description.md`
+- **Project Plan**: `../planning/plan-0.md`
+- **Task Backlog**: `../backlog.md`
+- **Methodology**: `../planning/optics.md`
+- **Instructions**: `../planning/run.md` 

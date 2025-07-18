@@ -1,58 +1,58 @@
-# 🧠 Information Dynamics: Теория информационных потоков в когнитивных системах
+# 🧠 Information Dynamics: Mathematical Theory of Information Flow in Cognitive Systems
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status: Research](https://img.shields.io/badge/Status-Research-orange.svg)](https://github.com/your-repo/infodynamics)
 
-**Information Dynamics** — это научно-исследовательский проект, разрабатывающий математическую теорию информационных потоков в когнитивных системах по аналогии с электрическими цепями.
+**Information Dynamics** is a research project developing a mathematical theory of information flow through cognitive systems using electrical circuit analogies.
 
-## 🎯 Краткое описание
+## 🎯 Overview
 
-Проект создает **формальную математическую модель**, описывающую:
-- Как информация распространяется через когнитивные агенты
-- Почему одна информация воспринимается лучше другой
-- Как оптимизировать информационные процессы в образовании, интерфейсах, коммуникациях
+The project creates a **formal mathematical model** that describes:
+- How information spreads through cognitive agents
+- Why some information is perceived better than others
+- How to optimize information processes in education, interfaces, and communications
 
-**Ключевая идея:** Информация подчиняется законам, аналогичным электричеству - есть "напряжение", "сопротивление", "проводимость" и "емкость".
+**Key Insight:** Information follows laws analogous to electricity - there's "voltage," "resistance," "conductivity," and "capacity."
 
-## ⚡ Основные концепции
+## ⚡ Core Concepts
 
-| Электричество | Information Dynamics | Описание |
-|--------------|---------------------|----------|
-| **Напряжение (V)** | **Info Voltage (U_info)** | Качество и влиятельность информации |
-| **Ток (I)** | **Info Flow (V_info)** | Скорость распространения информации |
-| **Сопротивление (R)** | **Info Resistance (R_info)** | Когнитивные барьеры восприятия |
-| **Проводимость (G)** | **Info Conductivity (G_info)** | Способность воспринимать информацию |
-| **Индуктивность (L)** | **Info Inductance (L_info)** | Инерция и задержки в восприятии |
-| **Емкость (C)** | **Info Capacity (C_info)** | Способность накапливать знания |
+| Electricity | Information Dynamics | Description |
+|-------------|---------------------|-------------|
+| **Voltage (V)** | **Info Voltage (U_info)** | Quality and influence of information |
+| **Current (I)** | **Info Flow (V_info)** | Speed of information spread |
+| **Resistance (R)** | **Info Resistance (R_info)** | Cognitive barriers to perception |
+| **Conductivity (G)** | **Info Conductivity (G_info)** | Ability to perceive information |
+| **Inductance (L)** | **Info Inductance (L_info)** | Inertia and delays in perception |
+| **Capacitance (C)** | **Info Capacity (C_info)** | Ability to accumulate knowledge |
 
-### Закон Ома для информации:
+### Ohm's Law for Information:
 ```
 V_info = U_info / Z_info
-где Z_info = R_info + jωL_info + 1/(jωC_info)
+where Z_info = R_info + jωL_info + 1/(jωC_info)
 ```
 
-## 🚀 Быстрый старт
+## 🚀 Quick Start
 
-### Установка
+### Installation
 ```bash
-# Клонировать репозиторий
+# Clone repository
 git clone https://github.com/your-repo/infodynamics.git
 cd infodynamics
 
-# Создать conda окружение
+# Create conda environment
 conda env create -f environment.yml
 conda activate info-dynamics
 
-# Или через pip
+# Or via pip
 pip install -r requirements.txt
 ```
 
-### Базовое использование
+### Basic Usage
 ```python
 from infodynamics.models import calculate_conductivity, calculate_voltage
 
-# Рассчитать информационную проводимость пользователя
+# Calculate user's information conductivity
 user_profile = {
     "working_memory": 7.2,
     "attention_selectivity": 0.8,
@@ -61,7 +61,7 @@ user_profile = {
 }
 G_info = calculate_conductivity(user_profile)
 
-# Рассчитать информационное напряжение контента
+# Calculate content's information voltage
 content = {
     "factual_density": 0.8,
     "semantic_quality": 0.9,
@@ -70,143 +70,143 @@ content = {
 }
 U_info = calculate_voltage(content)
 
-# Предсказать скорость восприятия
+# Predict perception speed
 flow_rate = U_info / (1/G_info)  # V_info = U_info * G_info
-print(f"Информационный поток: {flow_rate:.2f}")
+print(f"Information flow rate: {flow_rate:.2f}")
 ```
 
-## 📁 Структура проекта
+## 📁 Project Structure
 
 ```
 infodynamics/
-├── 📄 README.md                    # Этот файл
-├── 📄 SETUP.md                     # Подробная установка
-├── 📄 requirements.txt             # Python зависимости
-├── 📄 environment.yml              # Conda окружение
+├── 📄 README.md                    # This file
+├── 📄 SETUP.md                     # Detailed installation
+├── 📄 requirements.txt             # Python dependencies
+├── 📄 environment.yml              # Conda environment
 ├── 
-├── 📁 infodynamics/                # Основной Python пакет
-│   ├── models/                     # Математические модели (G, R, L, C)
-│   ├── utils/                      # Утилиты и вспомогательные функции
-│   └── validation/                 # Валидационные инструменты
+├── 📁 infodynamics/                # Main Python package
+│   ├── models/                     # Mathematical models (G, R, L, C)
+│   ├── utils/                      # Utilities and helper functions
+│   └── validation/                 # Validation tools
 ├── 
-├── 📁 scripts/                     # Скрипты для данных и установки
-│   └── data_download/              # Загрузка открытых датасетов
+├── 📁 scripts/                     # Data and setup scripts
+│   └── data_download/              # Open dataset downloads
 ├── 
-├── 📁 tools/                       # Готовые инструменты
-│   ├── data_utils/                 # Утилиты для работы с данными
-│   └── calculators/                # Калькуляторы G, R, L, C
+├── 📁 tools/                       # Ready-to-use tools
+│   ├── data_utils/                 # Data utilities
+│   └── calculators/                # G, R, L, C calculators
 ├── 
-├── 📁 demos/                       # Примеры использования
-│   └── notebooks/                  # Jupyter notebooks с демо
+├── 📁 demos/                       # Usage examples
+│   └── notebooks/                  # Jupyter notebook demos
 ├── 
-├── 📁 analysis/                    # Анализ и валидация
-│   ├── validation/                 # Эмпирическая валидация на данных
-│   ├── figures/                    # Графики и визуализации
-│   └── notebooks/                  # Исследовательские notebook'ы
+├── 📁 analysis/                    # Analysis and validation
+│   ├── validation/                 # Empirical validation on data
+│   ├── figures/                    # Charts and visualizations
+│   └── notebooks/                  # Research notebooks
 ├── 
-├── 📁 theory/                      # Теоретические модели
-├── 📁 research/                    # Литературные обзоры
-├── 📁 experiments/                 # Экспериментальные дизайны
-├── 📁 docs/                        # Документация
-├── 📁 paper/                       # Научные публикации
-└── 📁 data/                        # Данные для валидации
+├── 📁 theory/                      # Theoretical models
+├── 📁 research/                    # Literature reviews
+├── 📁 experiments/                 # Experimental designs
+├── 📁 docs/                        # Documentation
+├── 📁 paper/                       # Scientific publications
+└── 📁 data/                        # Validation data
 ```
 
-## 🧪 Валидация теории
+## 🧪 Theory Validation
 
-Проект включает **эмпирическую валидацию** на открытых данных:
+The project includes **empirical validation** on open data:
 
-- **Stanford Self-Regulation Dataset** - когнитивные задачи
-- **HCP Connectome Project** - рабочая память и внимание  
-- **MOOC Learning Analytics** - образовательные процессы
-- **Social Media Datasets** - вирусное распространение информации
+- **Stanford Self-Regulation Dataset** - cognitive tasks
+- **HCP Connectome Project** - working memory and attention  
+- **MOOC Learning Analytics** - educational processes
+- **Social Media Datasets** - viral information spread
 
 ```bash
-# Запустить валидацию на Stanford данных
+# Run validation on Stanford data
 python analysis/validation/stanford_real_validation.py
 
-# Создать отчет по всем валидациям
+# Generate comprehensive validation report
 python tools/generate_validation_report.py
 ```
 
-## 📊 Результаты
+## 📊 Results
 
-Основные **валидированные предсказания**:
-- ✅ **G_info коррелирует с рабочей памятью** (r=0.64, p<0.001)
-- ✅ **R_info предсказывает трудности обучения** (R²=0.41)
-- ✅ **L_info связана с resistance to change** (r=0.58, p<0.001)
-- ✅ **Закон Ома объясняет 67% вариации** в скорости восприятия
+Key **validated predictions**:
+- ✅ **G_info correlates with working memory** (r=0.64, p<0.001)
+- ✅ **R_info predicts learning difficulties** (R²=0.41)
+- ✅ **L_info relates to resistance to change** (r=0.58, p<0.001)
+- ✅ **Ohm's Law explains 67% of variance** in perception speed
 
-## 🎯 Практические применения
+## 🎯 Practical Applications
 
-### 🎓 Образование
-- **Адаптивное обучение**: персонализация контента по G_info учащегося
-- **Оптимизация когнитивной нагрузки**: балансировка R_info
-- **Прогнозирование трудностей**: раннее выявление проблем
+### 🎓 Education
+- **Adaptive learning**: Personalize content based on learner's G_info
+- **Cognitive load optimization**: Balance R_info levels
+- **Difficulty prediction**: Early identification of learning problems
 
-### 💻 UX/UI дизайн  
-- **Информационная архитектура**: оптимизация U_info контента
-- **Персонализация интерфейсов**: адаптация под G_info пользователя
-- **A/B тестирование**: предсказание эффективности дизайна
+### 💻 UX/UI Design  
+- **Information architecture**: Optimize content U_info
+- **Interface personalization**: Adapt to user's G_info
+- **A/B testing**: Predict design effectiveness
 
-### 📱 Социальные сети
-- **Модерация контента**: выявление информационных перегрузок
-- **Борьба с дезинформацией**: анализ U_info постов
-- **Вирусность контента**: предсказание распространения
+### 📱 Social Media
+- **Content moderation**: Detect information overload
+- **Misinformation combat**: Analyze post U_info
+- **Virality prediction**: Forecast content spread
 
-### 🏢 Корпоративные коммуникации
-- **Оптимизация документооборота**: снижение R_info
-- **Тренинги и обучение**: максимизация эффективности
-- **Change management**: управление L_info организации
+### 🏢 Corporate Communications
+- **Document flow optimization**: Reduce R_info
+- **Training effectiveness**: Maximize learning efficiency
+- **Change management**: Control organizational L_info
 
-## 📚 Документация
+## 📚 Documentation
 
-- [**Подробная установка**](SETUP.md) - пошаговая настройка окружения
-- [**Теоретические основы**](theory/) - математические модели  
-- [**API документация**](docs/api/) - описание функций
-- [**Туториалы**](docs/tutorials/) - пошаговые руководства
-- [**Примеры**](demos/) - готовые к запуску демо
+- [**Detailed Setup**](SETUP.md) - Step-by-step environment setup
+- [**Theoretical Foundations**](theory/) - Mathematical models  
+- [**API Documentation**](docs/api/) - Function descriptions
+- [**Tutorials**](docs/tutorials/) - Step-by-step guides
+- [**Examples**](demos/) - Ready-to-run demos
 
-## 📖 Научные публикации
+## 📖 Scientific Publications
 
-Основные теоретические работы:
-- [**Закон Ома для информации**](theory/ohms_law_information.md)
-- [**Информационные трансформаторы**](theory/information_transformers_model.md)
-- [**Законы Кирхгофа для информационных цепей**](theory/kirchhoff_laws_information.md)
-- [**Энергетическая модель**](theory/information_energy_model.md)
+Core theoretical works:
+- [**Ohm's Law for Information**](theory/ohms_law_information.md)
+- [**Information Transformers**](theory/information_transformers_model.md)
+- [**Kirchhoff's Laws for Information Circuits**](theory/kirchhoff_laws_information.md)
+- [**Energy Model**](theory/information_energy_model.md)
 
-Эмпирические исследования:
-- [**Валидация на Stanford данных**](analysis/validation/STANFORD_VALIDATION_REPORT.md)
-- [**Экспериментальные дизайны**](experiments/)
+Empirical studies:
+- [**Stanford Data Validation**](analysis/validation/STANFORD_VALIDATION_REPORT.md)
+- [**Experimental Designs**](experiments/)
 
-## 🤝 Как участвовать
+## 🤝 Contributing
 
-1. **Исследователи**: используйте модели в своих исследованиях
-2. **Разработчики**: интегрируйте в свои продукты  
-3. **Студенты**: изучайте и экспериментируйте
-4. **Организации**: применяйте в практических задачах
+1. **Researchers**: Use models in your research
+2. **Developers**: Integrate into your products  
+3. **Students**: Study and experiment
+4. **Organizations**: Apply to practical problems
 
 ```bash
-# Форкнуть репозиторий
-# Создать feature branch
-# Добавить свои эксперименты/улучшения
-# Создать pull request
+# Fork repository
+# Create feature branch
+# Add your experiments/improvements
+# Create pull request
 ```
 
-## 📄 Лицензия
+## 📄 License
 
-MIT License - см. [LICENSE](LICENSE) для подробностей.
+MIT License - see [LICENSE](LICENSE) for details.
 
-## 📧 Контакты
+## 📧 Contact
 
-- **GitHub Issues**: для вопросов и багов
-- **Email**: [ваш email] для коллабораций
-- **ResearchGate**: [ваш профиль] для научных обсуждений
+- **GitHub Issues**: For questions and bugs
+- **Email**: [your email] for collaborations
+- **ResearchGate**: [your profile] for scientific discussions
 
 ---
 
 > **"Information Dynamics: Making the invisible patterns of human cognition visible and quantifiable"**
 
-**Статус проекта**: 🔬 Активная исследовательская фаза  
-**Версия**: 1.0.0-alpha  
-**Последнее обновление**: Январь 2025 
+**Project Status**: 🔬 Active research phase  
+**Version**: 1.0.0-alpha  
+**Last Updated**: January 2025 

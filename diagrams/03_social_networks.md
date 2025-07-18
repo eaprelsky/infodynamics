@@ -1,39 +1,39 @@
-# Диаграмма 3: Социальные сети и информационная проводимость
+# Diagram 3: Social Networks and Information Conductivity
 
-## Описание
-Данная диаграмма показывает, как феномены социальных сетей (эхо-камеры, фильтр-пузыри, селективное воздействие) интегрируются с компонентами Information Dynamics для создания социальной модели информационных потоков.
+## Description
+This diagram shows how social network phenomena (echo chambers, filter bubbles, selective exposure) integrate with Information Dynamics components to create a social model of information flows.
 
-## Mermaid код для генерации диаграммы
+## Mermaid Code for Diagram Generation
 
 ```mermaid
 graph TD
-    %% Социальные феномены
-    ECHO["📢 Эхо-камеры<br/>Echo Chambers<br/>• Гомофилия<br/>• Идеологическая изоляция<br/>• Повторяемость контента"]
+    %% Social phenomena
+    ECHO["📢 Echo Chambers<br/>Echo Chambers<br/>• Homophily<br/>• Ideological isolation<br/>• Content repetition"]
     
-    FILTER["🔍 Фильтр-пузыри<br/>Filter Bubbles<br/>• Алгоритмическая персонализация<br/>• Селективное воздействие<br/>• Предсказуемость контента"]
+    FILTER["🔍 Filter Bubbles<br/>Filter Bubbles<br/>• Algorithmic personalization<br/>• Selective exposure<br/>• Content predictability"]
     
-    SELECTIVE["🎯 Селективное воздействие<br/>Selective Exposure<br/>• Поиск подтверждения<br/>• Избегание диссонанса<br/>• Мотивированное познание"]
+    SELECTIVE["🎯 Selective Exposure<br/>Selective Exposure<br/>• Confirmation seeking<br/>• Dissonance avoidance<br/>• Motivated cognition"]
     
-    %% Метрики
-    H_INDEX["📊 Метрики эхо-камер<br/>• Гомофилия-индекс: H<br/>• Идеологическая изоляция: I<br/>• Повторяемость: R<br/>Echo_strength = (H+I+R)/3"]
+    %% Metrics
+    H_INDEX["📊 Echo Chamber Metrics<br/>• Homophily index: H<br/>• Ideological isolation: I<br/>• Repetition: R<br/>Echo_strength = (H+I+R)/3"]
     
-    F_INDEX["📊 Метрики фильтр-пузырей<br/>• Алгоритмическая изоляция: A<br/>• Разнообразие источников: D<br/>• Предсказуемость: P<br/>Filter_strength = A×D×P"]
+    F_INDEX["📊 Filter Bubble Metrics<br/>• Algorithmic isolation: A<br/>• Source diversity: D<br/>• Predictability: P<br/>Filter_strength = A×D×P"]
     
-    S_INDEX["📊 Метрики селективности<br/>• Коэффициент подтверждения: C<br/>• Избегание диссонанса: A<br/>• Поиск подтверждения: S"]
+    S_INDEX["📊 Selectivity Metrics<br/>• Confirmation coefficient: C<br/>• Dissonance avoidance: A<br/>• Confirmation seeking: S"]
     
-    %% Связи феноменов с метриками
+    %% Phenomena to metrics connections
     ECHO --> H_INDEX
     FILTER --> F_INDEX
     SELECTIVE --> S_INDEX
     
-    %% Information Dynamics компоненты
-    G_SOCIAL["🌊 G_social<br/>Социальная проводимость<br/>G = G_base × (1-Echo_strength) × (1-Filter_strength)<br/>× Openness_coefficient"]
+    %% Information Dynamics components
+    G_SOCIAL["🌊 G_social<br/>Social Conductivity<br/>G = G_base × (1-Echo_strength) × (1-Filter_strength)<br/>× Openness_coefficient"]
     
-    R_SOCIAL["🚧 R_social<br/>Социальное сопротивление<br/>R = R_cognitive + R_network + R_algorithmic<br/>R_network = k1×Homophily + k2×Isolation"]
+    R_SOCIAL["🚧 R_social<br/>Social Resistance<br/>R = R_cognitive + R_network + R_algorithmic<br/>R_network = k1×Homophily + k2×Isolation"]
     
-    L_SOCIAL["🔄 L_social<br/>Социальная индуктивность<br/>L = L_individual + Group_think_delay<br/>+ Consensus_building_time"]
+    L_SOCIAL["🔄 L_social<br/>Social Inductance<br/>L = L_individual + Group_think_delay<br/>+ Consensus_building_time"]
     
-    %% Связи метрик с компонентами
+    %% Metrics to components connections
     H_INDEX --> R_SOCIAL
     H_INDEX --> G_SOCIAL
     
@@ -43,36 +43,36 @@ graph TD
     S_INDEX --> G_SOCIAL
     S_INDEX --> L_SOCIAL
     
-    %% Интегрированная модель
-    SOCIAL_MODEL["🔗 Интегрированная модель<br/>V_social(ω) = U_social(ω) / Z_social(ω)<br/>Z_social = R_social + jωL_social + 1/(jωC_social)"]
+    %% Integrated model
+    SOCIAL_MODEL["🔗 Integrated Model<br/>V_social(ω) = U_social(ω) / Z_social(ω)<br/>Z_social = R_social + jωL_social + 1/(jωC_social)"]
     
     G_SOCIAL --> SOCIAL_MODEL
     R_SOCIAL --> SOCIAL_MODEL
     L_SOCIAL --> SOCIAL_MODEL
     
-    %% Практические применения
-    PLATFORM["🏗️ Платформы<br/>• Снижение эхо-камер<br/>• Балансировка персонализации<br/>• Метрики здоровья экосистемы"]
+    %% Practical applications
+    PLATFORM["🏗️ Platforms<br/>• Echo chamber reduction<br/>• Personalization balance<br/>• Ecosystem health metrics"]
     
-    EDUCATION["🎓 Образование<br/>• Преодоление фильтр-пузырей<br/>• Критическое мышление<br/>• Открытость к новым идеям"]
+    EDUCATION["🎓 Education<br/>• Filter bubble overcoming<br/>• Critical thinking<br/>• Openness to new ideas"]
     
-    CORPORATE["🏢 Корпорации<br/>• Диагностика информационных силосов<br/>• Преодоление департаментских эхо-камер<br/>• Эффективность коммуникаций"]
+    CORPORATE["🏢 Corporations<br/>• Information silo diagnosis<br/>• Departmental echo chamber overcoming<br/>• Communication efficiency"]
     
     SOCIAL_MODEL --> PLATFORM
     SOCIAL_MODEL --> EDUCATION
     SOCIAL_MODEL --> CORPORATE
     
-    %% Экспериментальные предсказания
-    EXP1["🔬 Гипотеза 1<br/>G_info = k / (1 + Echo_strength)<br/>Тест: Скорость распространения<br/>vs гомофилия групп"]
+    %% Experimental predictions
+    EXP1["🔬 Hypothesis 1<br/>G_info = k / (1 + Echo_strength)<br/>Test: Propagation speed<br/>vs group homophily"]
     
-    EXP2["🔬 Гипотеза 2<br/>R_info = R_base × e^(Filter_strength)<br/>Тест: A/B персонализация<br/>vs время обдумывания"]
+    EXP2["🔬 Hypothesis 2<br/>R_info = R_base × e^(Filter_strength)<br/>Test: A/B personalization<br/>vs reflection time"]
     
-    EXP3["🔬 Гипотеза 3<br/>L_social ∝ log(group_size)<br/>Тест: Размер группы<br/>vs время принятия решений"]
+    EXP3["🔬 Hypothesis 3<br/>L_social ∝ log(group_size)<br/>Test: Group size<br/>vs decision time"]
     
     SOCIAL_MODEL --> EXP1
     SOCIAL_MODEL --> EXP2
     SOCIAL_MODEL --> EXP3
     
-    %% Стили
+    %% Styles
     classDef phenomenon fill:#FFE6E6,stroke:#CC0000,stroke-width:2px
     classDef metrics fill:#E6F3FF,stroke:#0066CC,stroke-width:2px
     classDef component fill:#FFE6CC,stroke:#CC6600,stroke-width:2px
@@ -88,162 +88,162 @@ graph TD
     class EXP1,EXP2,EXP3 experiment
 ```
 
-## Социальные феномены
+## Social Phenomena
 
-### 📢 Эхо-камеры (Echo Chambers)
-- **Определение**: Среды, где люди встречают только информацию, отражающую их убеждения
-- **Ключевые механизмы**:
-  - **Гомофилия**: Предпочтение единомышленников
-  - **Идеологическая изоляция**: Ограничение разнообразия источников
-  - **Повторяемость контента**: Циркуляция одних и тех же идей
+### 📢 Echo Chambers
+- **Definition**: Environments where people encounter only information reflecting their beliefs
+- **Key Mechanisms**:
+  - **Homophily**: Preference for like-minded individuals
+  - **Ideological Isolation**: Limiting source diversity
+  - **Content Repetition**: Circulation of the same ideas
 
-### 🔍 Фильтр-пузыри (Filter Bubbles)  
-- **Определение**: Алгоритмическая персонализация, создающая уникальную информационную вселенную
-- **Ключевые механизмы**:
-  - **Алгоритмическая персонализация**: Машинное обучение предпочтений
-  - **Селективное воздействие**: Подача релевантного контента
-  - **Предсказуемость контента**: Высокая точность прогнозирования интересов
+### 🔍 Filter Bubbles
+- **Definition**: Algorithmic personalization creating unique information universes
+- **Key Mechanisms**:
+  - **Algorithmic Personalization**: Machine learning of preferences
+  - **Selective Exposure**: Serving relevant content
+  - **Content Predictability**: High accuracy of interest prediction
 
-### 🎯 Селективное воздействие (Selective Exposure)
-- **Определение**: Тенденция искать информацию, подтверждающую существующие убеждения
-- **Ключевые механизмы**:
-  - **Поиск подтверждения**: Активный поиск поддерживающих данных
-  - **Избегание диссонанса**: Уклонение от противоречащей информации
-  - **Мотивированное познание**: Предвзятая обработка информации
+### 🎯 Selective Exposure
+- **Definition**: Tendency to seek information confirming existing beliefs
+- **Key Mechanisms**:
+  - **Confirmation Seeking**: Active search for supporting data
+  - **Dissonance Avoidance**: Avoiding contradictory information
+  - **Motivated Cognition**: Biased information processing
 
-## Количественные метрики
+## Quantitative Metrics
 
-### 📊 Метрики эхо-камер
+### 📊 Echo Chamber Metrics
 ```
-Гомофилия-индекс: H = same_opinion_connections / total_connections
-Идеологическая изоляция: I = 1 - cross_ideology_exposure / total_exposure  
-Повторяемость: R = repeated_messages / unique_messages
+Homophily index: H = same_opinion_connections / total_connections
+Ideological isolation: I = 1 - cross_ideology_exposure / total_exposure  
+Repetition: R = repeated_messages / unique_messages
 Echo_strength = (H + I + R) / 3
 ```
 
-### 📊 Метрики фильтр-пузырей
+### 📊 Filter Bubble Metrics
 ```
-Алгоритмическая изоляция: A = personalized_content / total_content
-Разнообразие источников: D = 1 - Shannon_entropy(source_distribution)
-Предсказуемость: P = accuracy_of_content_prediction
+Algorithmic isolation: A = personalized_content / total_content
+Source diversity: D = 1 - Shannon_entropy(source_distribution)
+Predictability: P = accuracy_of_content_prediction
 Filter_strength = A × D × P
 ```
 
-### 📊 Метрики селективности
+### 📊 Selectivity Metrics
 ```
-Коэффициент подтверждения: C = confirming_content_time / total_content_time
-Избегание диссонанса: A = 1 - challenging_content_engagement / total_engagement
-Поиск подтверждения: S = confirmation_seeking_behavior / exploration_behavior
+Confirmation coefficient: C = confirming_content_time / total_content_time
+Dissonance avoidance: A = 1 - challenging_content_engagement / total_engagement
+Confirmation seeking: S = confirmation_seeking_behavior / exploration_behavior
 ```
 
-## Компоненты Information Dynamics
+## Information Dynamics Components
 
-### 🌊 G_social - Социальная проводимость
+### 🌊 G_social - Social Conductivity
 ```
 G_social = G_base × Network_effect × Algorithm_effect × User_effect
 
-где:
+where:
 Network_effect = (1 - Echo_strength) × (1 - Filter_strength)
 Algorithm_effect = Diversity_index × Recommendation_neutrality  
 User_effect = Openness_coefficient × Curiosity_index
 ```
 
-### 🚧 R_social - Социальное сопротивление
+### 🚧 R_social - Social Resistance
 ```
 R_social = R_cognitive + R_network + R_algorithmic
 
-где:
-R_cognitive = базовое когнитивное сопротивление пользователя
+where:
+R_cognitive = user's baseline cognitive resistance
 R_network = k1 × Homophily_index + k2 × Ideological_isolation
 R_algorithmic = k3 × Personalization_degree + k4 × Filter_strength
 ```
 
-### 🔄 L_social - Социальная индуктивность
+### 🔄 L_social - Social Inductance
 ```
 L_social = L_individual + Group_think_delay + Consensus_building_time
 
-где:
-Group_think_delay = размер_группы × степень_согласованности
-Consensus_building_time = сложность_решения / коллективный_интеллект
+where:
+Group_think_delay = group_size × agreement_degree
+Consensus_building_time = decision_complexity / collective_intelligence
 ```
 
-## Интегрированная модель
+## Integrated Model
 
-### 🔗 Социальный закон Ома
+### 🔗 Social Ohm's Law
 ```
 V_social(ω) = U_social(ω) / Z_social(ω)
 
-где:
+where:
 Z_social(ω) = R_social + jωL_social + 1/(jωC_social)
 ```
 
-**Физический смысл:**
-- **V_social**: Скорость распространения информации в социальной сети
-- **U_social**: Социальное информационное напряжение (влиятельность + качество)
-- **Z_social**: Комплексное социальное сопротивление
+**Physical meaning:**
+- **V_social**: Information propagation speed in social networks
+- **U_social**: Social information voltage (influence + quality)
+- **Z_social**: Complex social impedance
 
-## Практические применения
+## Practical Applications
 
-### 🏗️ Оптимизация платформ
-- **Снижение эхо-камер**: Целевая G_social = 0.7-0.8
-- **Балансировка персонализации**: Оптимальный баланс релевантности и разнообразия
-- **Метрики здоровья экосистемы**: Мониторинг Echo_strength и Filter_strength
+### 🏗️ Platform Optimization
+- **Echo chamber reduction**: Target G_social = 0.7-0.8
+- **Personalization balance**: Optimal balance of relevance and diversity
+- **Ecosystem health metrics**: Monitoring Echo_strength and Filter_strength
 
-### 🎓 Образовательные системы
-- **Преодоление фильтр-пузырей**: Принудительное разнообразие источников
-- **Критическое мышление**: Снижение R_social через тренировку
-- **Открытость к новым идеям**: Повышение G_social через практику
+### 🎓 Educational Systems
+- **Filter bubble overcoming**: Forced source diversity
+- **Critical thinking**: R_social reduction through training
+- **Openness to new ideas**: G_social enhancement through practice
 
-### 🏢 Корпоративные коммуникации
-- **Диагностика силосов**: Измерение R_network между отделами
-- **Преодоление эхо-камер**: Кросс-функциональные команды
-- **Эффективность коммуникаций**: Оптимизация информационных потоков
+### 🏢 Corporate Communications
+- **Silo diagnosis**: Measuring R_network between departments
+- **Echo chamber overcoming**: Cross-functional teams
+- **Communication efficiency**: Information flow optimization
 
-## Экспериментальные предсказания
+## Experimental Predictions
 
-### 🔬 Гипотеза 1: Обратная зависимость проводимости от эхо-камер
+### 🔬 Hypothesis 1: Inverse relationship between conductivity and echo chambers
 ```
-Предсказание: G_info = k / (1 + Echo_strength)
-Тест: Измерить скорость распространения нейтральной информации 
-      в группах с разной степенью гомофилии
-Ожидаемый результат: r < -0.6, p < 0.01
-```
-
-### 🔬 Гипотеза 2: Экспоненциальный рост сопротивления от фильтр-пузырей
-```
-Предсказание: R_info = R_base × e^(Filter_strength)
-Тест: A/B тестирование с разными уровнями персонализации
-      Измерить время обдумывания и скептицизм
-Ожидаемый результат: Экспоненциальная зависимость
+Prediction: G_info = k / (1 + Echo_strength)
+Test: Measure neutral information propagation speed 
+      in groups with varying homophily degrees
+Expected result: r < -0.6, p < 0.01
 ```
 
-### 🔬 Гипотеза 3: Логарифмический рост индуктивности от размера группы
+### 🔬 Hypothesis 2: Exponential resistance growth from filter bubbles
 ```
-Предсказание: L_social ∝ log(group_size)
-Тест: Измерить время принятия решений в группах 2-200 человек
-Ожидаемый результат: Логарифмическая зависимость времени консенсуса
+Prediction: R_info = R_base × e^(Filter_strength)
+Test: A/B testing with different personalization levels
+      Measure reflection time and skepticism
+Expected result: Exponential relationship
 ```
 
-## Валидационные критерии
+### 🔬 Hypothesis 3: Logarithmic inductance growth with group size
+```
+Prediction: L_social ∝ log(group_size)
+Test: Measure decision time in groups of 2-200 people
+Expected result: Logarithmic dependency of consensus time
+```
 
-### Количественные метрики:
-1. **Корреляция G_social с скоростью распространения**: r > 0.6
-2. **Корреляция R_social с временем обдумывания**: r > 0.5  
-3. **Предсказательная способность модели**: R² > 0.4
+## Validation Criteria
 
-### Качественные критерии:
-1. Соответствие наблюдаемым социальным феноменам
-2. Практическая применимость в дизайне платформ
-3. Интегрируемость с существующими социальными теориями
+### Quantitative metrics:
+1. **G_social correlation with propagation speed**: r > 0.6
+2. **R_social correlation with reflection time**: r > 0.5  
+3. **Model predictive power**: R² > 0.4
 
-## Как создать диаграмму
+### Qualitative criteria:
+1. Correspondence with observed social phenomena
+2. Practical applicability in platform design
+3. Integration with existing social theories
 
-1. Скопируйте код из блока Mermaid
-2. Вставьте в любой редактор, поддерживающий Mermaid
-3. Или используйте онлайн-редактор: https://mermaid.live/
-4. Для экспорта в SVG: используйте функцию экспорта в Mermaid Live Editor
+## How to Create the Diagram
 
-## Файлы проекта
-- **Связанный литературный обзор**: `research/literature_review_1.2.2.md`
-- **Теоретические модели**: `theory/formal_model_conductivity.md`, `theory/formal_model_resistance.md`
-- **Основной закон**: `theory/ohms_law_information.md` 
+1. Copy code from the Mermaid block
+2. Paste into any Mermaid-supporting editor
+3. Or use online editor: https://mermaid.live/
+4. For SVG export: use export function in Mermaid Live Editor
+
+## Related Project Files
+- **Related literature review**: `research/literature_review_1.2.2.md`
+- **Theoretical models**: `theory/formal_model_conductivity.md`, `theory/formal_model_resistance.md`
+- **Core law**: `theory/ohms_law_information.md` 

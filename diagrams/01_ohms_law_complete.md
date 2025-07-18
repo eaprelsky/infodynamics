@@ -1,40 +1,40 @@
-# Диаграмма 1: Полный закон Ома для информации
+# Diagram 1: Complete Ohm's Law for Information
 
-## Описание
-Данная диаграмма представляет полную формализацию закона Ома для информационных потоков, интегрируя все разработанные компоненты теории Information Dynamics.
+## Description
+This diagram presents the complete formalization of Ohm's law for information flows, integrating all developed components of Information Dynamics theory.
 
-## Mermaid код для генерации диаграммы
+## Mermaid Code for Diagram Generation
 
 ```mermaid
 graph TD
-    %% Основные компоненты закона Ома для информации
-    U["🔋 U_info<br/>Информационное напряжение<br/>4 компонента:<br/>• Factual (25%)<br/>• Semantic (30%)<br/>• Credibility (30%)<br/>• Temporal (15%)"]
+    %% Core components of Ohm's law for information
+    U["🔋 U_info<br/>Information Voltage<br/>4 components:<br/>• Factual (25%)<br/>• Semantic (30%)<br/>• Credibility (30%)<br/>• Temporal (15%)"]
     
-    R["🚧 R_info<br/>Информационное сопротивление<br/>Когнитивная нагрузка:<br/>• Intrinsic Load<br/>• Extraneous Load<br/>• Germane Load<br/>• Individual Capacity"]
+    R["🚧 R_info<br/>Information Resistance<br/>Cognitive Load:<br/>• Intrinsic Load<br/>• Extraneous Load<br/>• Germane Load<br/>• Individual Capacity"]
     
-    L["🔄 L_info<br/>Информационная индуктивность<br/>Временные задержки:<br/>• L_temporal (RT)<br/>• L_cognitive (beliefs)<br/>• L_systemic (habits)"]
+    L["🔄 L_info<br/>Information Inductance<br/>Temporal Delays:<br/>• L_temporal (RT)<br/>• L_cognitive (beliefs)<br/>• L_systemic (habits)"]
     
-    C["🏪 C_info<br/>Информационная емкость<br/>Накопление информации:<br/>• Memory Capacity<br/>• Motivation<br/>• Organization"]
+    C["🏪 C_info<br/>Information Capacity<br/>Information Storage:<br/>• Memory Capacity<br/>• Motivation<br/>• Organization"]
     
-    G["🌊 G_info<br/>Информационная проводимость<br/>Селективное внимание:<br/>• Selectivity Coefficient<br/>• Capacity Multiplier<br/>• Threshold Modifier"]
+    G["🌊 G_info<br/>Information Conductivity<br/>Selective Attention:<br/>• Selectivity Coefficient<br/>• Capacity Multiplier<br/>• Threshold Modifier"]
     
-    %% Законы и формулы
-    OHM_DC["⚡ Закон Ома (DC)<br/>V_info = U_info / R_info<br/>Статический режим"]
+    %% Laws and formulas
+    OHM_DC["⚡ Ohm's Law (DC)<br/>V_info = U_info / R_info<br/>Static Mode"]
     
-    OHM_AC["🌊 Закон Ома (AC)<br/>V_info(ω) = U_info(ω) / Z_info(ω)<br/>Динамический режим"]
+    OHM_AC["🌊 Ohm's Law (AC)<br/>V_info(ω) = U_info(ω) / Z_info(ω)<br/>Dynamic Mode"]
     
-    Z["⚙️ Импеданс<br/>Z_info(ω) = R_info + jωL_info + 1/(jωC_info)<br/>Комплексное сопротивление"]
+    Z["⚙️ Impedance<br/>Z_info(ω) = R_info + jωL_info + 1/(jωC_info)<br/>Complex Resistance"]
     
-    %% Практические применения
-    APP1["🎓 Образование<br/>Адаптивное обучение<br/>Оптимизация учебных материалов"]
+    %% Practical applications
+    APP1["🎓 Education<br/>Adaptive Learning<br/>Learning Material Optimization"]
     
-    APP2["💻 UX/UI дизайн<br/>Информационная архитектура<br/>Когнитивная нагрузка"]
+    APP2["💻 UX/UI Design<br/>Information Architecture<br/>Cognitive Load"]
     
-    APP3["🏢 Корпоративные<br/>коммуникации<br/>Эффективность передачи"]
+    APP3["🏢 Corporate<br/>Communications<br/>Transmission Efficiency"]
     
-    APP4["📱 Соцсети<br/>Алгоритмы рекомендаций<br/>Борьба с дезинформацией"]
+    APP4["📱 Social Networks<br/>Recommendation Algorithms<br/>Misinformation Combat"]
     
-    %% Связи компонентов
+    %% Component connections
     U --> OHM_DC
     R --> OHM_DC
     
@@ -47,13 +47,13 @@ graph TD
     
     G -.-> R
     
-    %% Связи с применениями
+    %% Application connections
     OHM_DC --> APP1
     OHM_DC --> APP2
     OHM_AC --> APP3
     OHM_AC --> APP4
     
-    %% Стили
+    %% Styles
     classDef component fill:#E6F3FF,stroke:#0066CC,stroke-width:2px
     classDef law fill:#FFE6E6,stroke:#CC0000,stroke-width:2px
     classDef application fill:#E6FFE6,stroke:#006600,stroke-width:2px
@@ -63,97 +63,97 @@ graph TD
     class APP1,APP2,APP3,APP4 application
 ```
 
-## Основные компоненты
+## Core Components
 
-### 🔋 U_info - Информационное напряжение
-- **Определение**: Качество и влиятельность информации, движущая сила информационного потока
-- **Компоненты** (4 измерения):
-  - **Factual (25%)**: Фактическая плотность и достоверность
-  - **Semantic (30%)**: Семантическое богатство и ясность
-  - **Credibility (30%)**: Авторитет источника и доверие
-  - **Temporal (15%)**: Актуальность и своевременность
+### 🔋 U_info - Information Voltage
+- **Definition**: Quality and influence of information, driving force of information flow
+- **Components** (4 dimensions):
+  - **Factual (25%)**: Factual density and accuracy
+  - **Semantic (30%)**: Semantic richness and clarity
+  - **Credibility (30%)**: Source authority and trust
+  - **Temporal (15%)**: Relevance and timeliness
 
-### 🚧 R_info - Информационное сопротивление  
-- **Определение**: Препятствие для прохождения информации, основанное на когнитивной нагрузке
-- **Базируется на Cognitive Load Theory**:
-  - **Intrinsic Load**: Сложность самой информации
-  - **Extraneous Load**: Помехи и отвлекающие факторы
-  - **Germane Load**: Усилия на обработку и интеграцию
-  - **Individual Capacity**: Индивидуальные когнитивные возможности
+### 🚧 R_info - Information Resistance  
+- **Definition**: Obstacle to information passage, based on cognitive load
+- **Based on Cognitive Load Theory**:
+  - **Intrinsic Load**: Complexity of information itself
+  - **Extraneous Load**: Interference and distracting factors
+  - **Germane Load**: Effort on processing and integration
+  - **Individual Capacity**: Individual cognitive capabilities
 
-### 🌊 G_info - Информационная проводимость
-- **Определение**: Способность агента пропускать информацию (G = 1/R)
-- **Базируется на теории селективного внимания**:
-  - **Selectivity Coefficient**: Избирательность восприятия
-  - **Capacity Multiplier**: Множитель пропускной способности  
-  - **Threshold Modifier**: Модификатор порога восприятия
+### 🌊 G_info - Information Conductivity
+- **Definition**: Agent's ability to transmit information (G = 1/R)
+- **Based on selective attention theory**:
+  - **Selectivity Coefficient**: Perceptual selectivity
+  - **Capacity Multiplier**: Throughput multiplier  
+  - **Threshold Modifier**: Perception threshold modifier
 
-### 🔄 L_info - Информационная индуктивность
-- **Определение**: Инерция информационных процессов, сопротивление изменениям
-- **Три компонента**:
-  - **L_temporal**: Временные задержки обработки (reaction time)
-  - **L_cognitive**: Когнитивная инерция (belief persistence)
-  - **L_systemic**: Системная инерция (привычки, традиции)
+### 🔄 L_info - Information Inductance
+- **Definition**: Inertia of information processes, resistance to change
+- **Three components**:
+  - **L_temporal**: Processing temporal delays (reaction time)
+  - **L_cognitive**: Cognitive inertia (belief persistence)
+  - **L_systemic**: Systemic inertia (habits, traditions)
 
-### 🏪 C_info - Информационная емкость
-- **Определение**: Способность накапливать и сохранять информацию
-- **Факторы**:
-  - **Memory Capacity**: Объем памяти
-  - **Motivation**: Мотивация к запоминанию
-  - **Organization**: Организованность хранения
+### 🏪 C_info - Information Capacity
+- **Definition**: Ability to accumulate and store information
+- **Factors**:
+  - **Memory Capacity**: Memory volume
+  - **Motivation**: Motivation to remember
+  - **Organization**: Storage organization
 
-## Законы и формулы
+## Laws and Formulas
 
-### ⚡ Статический режим (DC)
+### ⚡ Static Mode (DC)
 ```
 V_info = U_info / R_info
 ```
-- Применяется для постоянных информационных потоков
-- Простая зависимость скорости от качества и сопротивления
+- Applied to constant information flows
+- Simple dependence of velocity on quality and resistance
 
-### 🌊 Динамический режим (AC)  
+### 🌊 Dynamic Mode (AC)  
 ```
 V_info(ω) = U_info(ω) / Z_info(ω)
 ```
-- Учитывает временные изменения и частотные характеристики
-- Применяется для изменяющихся информационных потоков
+- Accounts for temporal changes and frequency characteristics
+- Applied to changing information flows
 
-### ⚙️ Комплексный импеданс
+### ⚙️ Complex Impedance
 ```
 Z_info(ω) = R_info + jωL_info + 1/(jωC_info)
 ```
-- Полное сопротивление в динамическом режиме
-- Включает активное сопротивление, индуктивное и емкостное
+- Total resistance in dynamic mode
+- Includes active resistance, inductive and capacitive
 
-## Практические применения
+## Practical Applications
 
-### 🎓 Образование
-- Адаптивные обучающие системы
-- Оптимизация учебных материалов по когнитивной нагрузке
-- Персонализация контента под индивидуальные характеристики
+### 🎓 Education
+- Adaptive learning systems
+- Learning material optimization by cognitive load
+- Content personalization for individual characteristics
 
-### 💻 UX/UI дизайн
-- Информационная архитектура интерфейсов
-- Минимизация когнитивной нагрузки
-- Оптимизация пользовательского опыта
+### 💻 UX/UI Design
+- Interface information architecture
+- Cognitive load minimization
+- User experience optimization
 
-### 🏢 Корпоративные коммуникации
-- Эффективность передачи корпоративных сообщений
-- Оптимизация внутренних коммуникационных процессов
-- Измерение качества информационных потоков
+### 🏢 Corporate Communications
+- Corporate message transmission efficiency
+- Internal communication process optimization
+- Information flow quality measurement
 
-### 📱 Социальные сети
-- Алгоритмы рекомендательных систем
-- Борьба с дезинформацией и фейками
-- Оптимизация контент-стратегий
+### 📱 Social Networks
+- Recommendation system algorithms
+- Misinformation and fake news combat
+- Content strategy optimization
 
-## Как создать диаграмму
+## How to Create the Diagram
 
-1. Скопируйте код из блока Mermaid
-2. Вставьте в любой редактор, поддерживающий Mermaid (например, Obsidian, Notion, GitHub)
-3. Или используйте онлайн-редактор: https://mermaid.live/
-4. Для экспорта в SVG: используйте функцию экспорта в Mermaid Live Editor
+1. Copy code from the Mermaid block
+2. Paste into any Mermaid-supporting editor (e.g., Obsidian, Notion, GitHub)
+3. Or use online editor: https://mermaid.live/
+4. For SVG export: use export function in Mermaid Live Editor
 
-## Файлы проекта
-- **Связанные теоретические модели**: `theory/ohms_law_information.md`
-- **Литературный обзор**: `research/literature_review_1.1.1.md`, `research/literature_review_1.1.2.md`, `research/literature_review_1.1.3.md`, `research/literature_review_1.1.4.md` 
+## Related Project Files
+- **Related theoretical models**: `theory/ohms_law_information.md`
+- **Literature review**: `research/literature_review_1.1.1.md`, `research/literature_review_1.1.2.md`, `research/literature_review_1.1.3.md`, `research/literature_review_1.1.4.md` 

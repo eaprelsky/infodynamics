@@ -1,395 +1,288 @@
-# Экспериментальный дизайн: Валидация модели информационной проводимости
-## Задача 3.1.1: Научно обоснованный протокол тестирования
+# Experimental Design: Information Conductivity Validation
+## Task 3.1.1: Scientific validation protocol for information conductivity model
 
-**Дата разработки:** Январь 2025  
-**Статус:** 🔬 В РАЗРАБОТКЕ  
-**Основа:** Formal_model_conductivity.md + методологии Broadbent, Treisman, Posner
-
----
-
-## 🎯 Цель исследования
-
-Эмпирически валидировать математическую модель информационной проводимости:
-```
-G_info = k_ind × Relevance × (1 - Cognitive_Distance) × Attention_Focus × (1 - Cognitive_Load_Ratio)
-```
-
-### Основные гипотезы:
-1. **H1:** G_info ∝ Personal_Relevance (r > 0.6)
-2. **H2:** G_info ∝ 1/Cognitive_Load (r < -0.5)  
-3. **H3:** G_info ∝ Attention_Focus (r > 0.7)
-4. **H4:** Существует пороговый эффект при high emotional_charge
+**Development Date:** January 2025  
+**Status:** 🔬 IN DEVELOPMENT  
+**Phase:** Experimental design and protocol development
 
 ---
 
-## 📊 Экспериментальный дизайн
+## 🎯 Objective
 
-### Общий подход: Mixed-methods factorial design
-- **Within-subjects** для cognitive load manipulation
-- **Between-subjects** для personality factors
-- **Repeated measures** для reliability
-
-### Участники:
-- **N = 120** (power analysis: effect size d=0.5, α=0.05, power=0.8)
-- Возраст: 18-35 лет (контроль нейропластичности)
-- Исключения: ADHD, дислексия, нарушения внимания
-- Балансировка по полу и образованию
+Design and implement controlled experiments to validate the Information Conductivity (G_info) model, testing its relationship with attention, cognitive capacity, and information processing efficiency.
 
 ---
 
-## 🧪 Экспериментальные манипуляции
+## 🔬 Experimental Overview
 
-### 1. BASELINE ИЗМЕРЕНИЯ (30 мин)
+### **Primary Research Questions**
+1. Does G_info correlate with attention and working memory measures?
+2. Can G_info predict information processing performance?
+3. Do individual differences in G_info match theoretical predictions?
+4. Is G_info stable across different information types and contexts?
 
-#### A. Индивидуальные характеристики:
-```python
-# Измерительные инструменты:
-personality_profile = {
-    "big_five": NEO_PI_R_questionnaire(),  # Openness to Experience для k_ind
-    "working_memory": n_back_task(levels=[2,3,4]),  # Capacity measurement  
-    "processing_speed": symbol_digit_modalities_test(),
-    "attention_control": attention_network_test()  # Posner ANT
-}
-```
-
-#### B. Когнитивные способности:
-- **Working Memory Capacity:** Automated Operation Span Task (Unsworth et al., 2005)
-- **Attention Control:** Attention Network Test (Fan et al., 2002)
-- **Processing Speed:** WAIS-IV Symbol Search + Coding
-
-### 2. ОСНОВНОЙ ЭКСПЕРИМЕНТ (45 мин)
-
-#### Дизайн: 3×3×2 factorial within-subjects
-- **Factor 1:** Cognitive Load (Low/Medium/High)
-- **Factor 2:** Personal Relevance (Low/Medium/High)  
-- **Factor 3:** Emotional Charge (Neutral/High)
-
-#### Процедура:
-
-**Phase 1: Cognitive Load Manipulation**
-```python
-cognitive_load_conditions = {
-    "low": {
-        "primary_task": "simple_categorization",  # 2 categories
-        "secondary_task": None,
-        "target_accuracy": 0.95
-    },
-    "medium": {
-        "primary_task": "complex_categorization",  # 4 categories
-        "secondary_task": "digit_monitoring",  # Dual-task
-        "target_accuracy": 0.85
-    },
-    "high": {
-        "primary_task": "working_memory_updating",  # N-back
-        "secondary_task": "visual_tracking",
-        "target_accuracy": 0.75
-    }
-}
-```
-
-**Phase 2: Information Processing Task**
-```python
-information_stimuli = {
-    "content_types": [
-        "news_articles",      # 200-300 words
-        "social_posts",       # 50-100 words  
-        "academic_abstracts", # 150-250 words
-        "advertisements"      # 30-50 words
-    ],
-    "relevance_manipulation": {
-        "high": "participant_major/interests",
-        "medium": "general_knowledge_topics", 
-        "low": "unrelated_specialized_topics"
-    },
-    "emotional_manipulation": {
-        "neutral": "factual_content",
-        "high": "emotional_language + images"
-    }
-}
-```
+### **Core Hypotheses**
+- **H1:** G_info ∝ Working Memory Capacity (r > 0.6)
+- **H2:** G_info ∝ Attention Control (r > 0.5)  
+- **H3:** G_info predicts multitasking performance (r > 0.7)
+- **H4:** G_info varies systematically with cognitive load (β > 0.4)
 
 ---
 
-## 📏 Зависимые переменные (Operationalization)
+## 📋 Experimental Design
 
-### 1. ИНФОРМАЦИОННАЯ ПРОВОДИМОСТЬ (G_info)
+### **Study 1: G_info Measurement Validation**
 
-#### A. Behavioral Measures:
-```python
-conductivity_metrics = {
-    "processing_speed": {
-        "reading_time": "time_to_complete_comprehension",
-        "decision_time": "relevance_judgment_latency",
-        "response_time": "categorization_speed"
-    },
-    "information_flow": {
-        "recall_accuracy": "free_recall_percentage", 
-        "recognition_hits": "signal_detection_d_prime",
-        "transfer_efficiency": "analogical_reasoning_success"
-    },
-    "spreading_activation": {
-        "semantic_priming": "related_concept_activation",
-        "associative_breadth": "semantic_fluency_task",
-        "integration_speed": "concept_mapping_time"
-    }
-}
-```
+#### **Participants**
+- **N = 120** (power analysis for medium effect r=0.5, α=0.05, power=0.8)
+- **Age:** 18-35 years (young adults)
+- **Screening:** Normal vision, no cognitive impairments
+- **Recruitment:** University students and community volunteers
 
-#### B. Physiological Measures:
-```python
-physiological_indicators = {
-    "eye_tracking": {
-        "fixation_duration": "attention_allocation",
-        "saccade_velocity": "cognitive_effort", 
-        "pupil_dilation": "cognitive_load_index"
-    },
-    "eeg": {
-        "p300_amplitude": "attention_engagement",
-        "n400": "semantic_processing_effort",
-        "alpha_suppression": "cognitive_activation"
-    },
-    "autonomic": {
-        "heart_rate_variability": "cognitive_stress",
-        "skin_conductance": "emotional_arousal"
-    }
-}
-```
+#### **Measures**
 
-### 2. CONTROL MEASURES
+**Cognitive Capacity Assessment:**
+- **Working Memory:** N-back task (1-back through 4-back)
+- **Attention Control:** Attention Network Test (ANT)
+- **Processing Speed:** Pattern comparison, digit-symbol coding
+- **Fluid Intelligence:** Raven's Progressive Matrices (short form)
 
-#### Attention Focus (Treisman model):
-- **Dichotic listening task** с target detection
-- **Visual attention paradigm** с cued attention
-- **Sustained attention response task** (SART)
+**G_info Calculation Variables:**
+- **Attention Selectivity:** Flanker task interference scores
+- **Cognitive Flexibility:** Task switching costs
+- **Processing Efficiency:** Accuracy/RT ratios
+- **Individual Differences:** Personality scales (Big Five)
 
-#### Cognitive Load (Sweller CLT):
-- **Subjective rating:** NASA-TLX scale
-- **Physiological:** Pupil dilation, HRV  
-- **Performance:** Dual-task accuracy
+#### **Procedure**
+1. **Session 1 (90 min):** Cognitive capacity battery
+2. **Session 2 (90 min):** Information processing tasks  
+3. **Session 3 (60 min):** Validation tasks and questionnaires
+4. **Data Analysis:** Calculate G_info values and correlations
+
+#### **Expected Outcomes**
+- **G_info range:** 0.5-8.5 based on theoretical model
+- **WM correlation:** r = 0.65 ± 0.15
+- **Attention correlation:** r = 0.55 ± 0.15
+- **Individual differences:** σ = 1.8 G_info units
 
 ---
 
-## 📈 Аналитический план
+### **Study 2: Context Effects on G_info**
 
-### 1. DESCRIPTIVE ANALYSIS
-```python
-# Проверка assumptions
-normality_tests = ["shapiro_wilk", "kolmogorov_smirnov"]
-outlier_detection = "modified_z_score > 3.5"
-reliability_analysis = "cronbach_alpha > 0.7"
-```
+#### **Design**
+- **Within-subjects:** 2×3×2 factorial design
+- **Factors:** Stress (low/high) × Load (low/medium/high) × Domain (verbal/spatial)
+- **Sessions:** 6 experimental conditions + baseline
 
-### 2. CONFIRMATORY ANALYSIS
+#### **Stress Manipulation**
+- **Low Stress:** Comfortable testing environment
+- **High Stress:** Time pressure + performance evaluation threat
+- **Validation:** Cortisol sampling, heart rate monitoring
 
-#### Model Testing:
-```python
-# Основная модель регрессии
-model_formula = """
-G_info ~ k_individual * Personal_Relevance * (1 - Cognitive_Distance) * 
-         Attention_Focus * (1 - Cognitive_Load_Ratio) + 
-         random_effects(participant_id)
-"""
+#### **Cognitive Load Manipulation**
+- **Low Load:** Simple recognition tasks (1-2 items)
+- **Medium Load:** Moderate complexity tasks (3-5 items)  
+- **High Load:** Complex tasks near capacity limits (6+ items)
 
-# Hierarchical Linear Modeling (HLM)
-hlm_structure = {
-    "level_1": "within_subject_trials",
-    "level_2": "between_subject_differences", 
-    "random_effects": ["intercept", "cognitive_load_slope"]
-}
-```
+#### **Dependent Variables**
+- **G_info calculated** from task performance
+- **Subjective load ratings** (NASA-TLX)
+- **Physiological measures** (pupil dilation, heart rate)
+- **Performance metrics** (accuracy, reaction time)
 
-#### Statistical Tests:
-1. **Correlation Analysis:** Pearson/Spearman для основных предсказаний
-2. **Multiple Regression:** Stepwise для model building
-3. **Mixed-Effects ANOVA:** Repeated measures design
-4. **Structural Equation Modeling:** Path analysis
-
-### 3. EXPLORATORY ANALYSIS
-
-#### Non-linear Effects:
-```python
-# Threshold detection
-threshold_analysis = {
-    "cognitive_load_threshold": "piecewise_regression",
-    "emotional_saturation": "polynomial_fitting",
-    "attention_switching_costs": "change_point_detection"
-}
-```
-
-#### Individual Differences:
-```python
-# Clustering analysis
-individual_profiles = {
-    "high_conductivity": "openness + low_cognitive_load_sensitivity",
-    "low_conductivity": "conscientiousness + high_load_sensitivity", 
-    "variable_conductivity": "emotional_reactivity + context_dependence"
-}
-```
+#### **Predictions**
+- **Stress effect:** 25-40% reduction in G_info under high stress
+- **Load effect:** Linear decrease in G_info with increasing load
+- **Domain differences:** Verbal > spatial G_info for typical participants
 
 ---
 
-## ⚡ Экспериментальные предсказания
+### **Study 3: Longitudinal G_info Stability**
 
-### 1. ОСНОВНЫЕ ЭФФЕКТЫ
+#### **Design**
+- **Longitudinal:** 4 measurement points over 6 months
+- **Sample:** N = 60 subset from Study 1
+- **Intervals:** Baseline, 2 weeks, 3 months, 6 months
 
-| Предсказание | Операционализация | Ожидаемый эффект |
-|-------------|------------------|------------------|
-| **H1:** G ∝ Relevance | Recall accuracy vs. personal relevance rating | r > 0.6, p < 0.001 |
-| **H2:** G ∝ 1/Load | Processing speed vs. dual-task accuracy | r < -0.5, p < 0.001 |  
-| **H3:** G ∝ Focus | Information transfer vs. attention control | r > 0.7, p < 0.001 |
-| **H4:** Threshold | Emotional content processing efficiency | Non-linear relationship |
+#### **Training Intervention**
+- **Control Group (n=30):** No intervention
+- **Training Group (n=30):** Working memory training (20 sessions)
+- **Training Protocol:** Adaptive n-back training, 45 min/session
 
-### 2. INTERACTION EFFECTS
+#### **Measurements**
+- **Core G_info battery** at each time point
+- **Transfer tasks** to test generalization
+- **Individual difference measures** for stability
+- **Training metrics** (improvement rates, engagement)
 
+#### **Expected Results**
+- **Test-retest reliability:** r = 0.75-0.85 over 2 weeks
+- **Training effects:** 15-25% G_info improvement in training group
+- **Stability:** 60-80% variance maintained over 6 months
+- **Transfer:** Trained improvements generalize to new tasks
+
+---
+
+## 📊 Data Analysis Plan
+
+### **Statistical Approaches**
+
+#### **Correlation Analysis**
 ```python
-interaction_predictions = {
-    "load_x_relevance": {
-        "high_load": "relevance_effect_reduced_by_50%",
-        "low_load": "full_relevance_effect",
-        "statistical_test": "2x3_interaction_p < 0.05"
-    },
-    "personality_x_emotional": {
-        "high_openness": "stronger_emotional_conductivity",
-        "low_openness": "weaker_emotional_effects", 
-        "effect_size": "cohen_d > 0.5"
-    }
+# Primary validation correlations
+correlations = {
+    "working_memory": pearsonr(g_info_scores, wm_scores),
+    "attention_control": pearsonr(g_info_scores, attention_scores),
+    "processing_speed": pearsonr(g_info_scores, speed_scores),
+    "fluid_intelligence": pearsonr(g_info_scores, intelligence_scores)
 }
 ```
 
-### 3. PHYSIOLOGICAL CORRELATES
-
-| Measure | Prediction | Validation |
-|---------|------------|------------|
-| **Pupil Dilation** | ∝ 1/G_info | r < -0.4 |
-| **P300 Amplitude** | ∝ G_info | r > 0.5 |
-| **Fixation Duration** | ∝ 1/G_info | r < -0.3 |
-| **Alpha Suppression** | ∝ G_info | r > 0.4 |
-
----
-
-## 🔄 Pilot Study Protocol
-
-### Phase 0: Mini-experiment (N=20, 2 недели)
-
-#### Goals:
-1. Проверить feasibility процедур
-2. Estimate effect sizes для power analysis
-3. Refine stimulus materials
-4. Test technical setup
-
-#### Procedure:
+#### **Regression Modeling**
 ```python
-pilot_design = {
-    "duration": "60_minutes_per_participant",
-    "conditions": "2x2_reduced_design",  # Load × Relevance
-    "measures": ["behavioral_only", "eye_tracking"],
-    "analysis": "exploratory_correlation_analysis"
-}
+# Multiple regression predicting G_info
+model = LinearRegression()
+predictors = ["working_memory", "attention", "processing_speed", "age", "education"]
+model.fit(X[predictors], y["g_info"])
+
+# Report R², coefficients, and significance
 ```
 
----
-
-## 📋 Materials & Equipment
-
-### Software:
-- **E-Prime 3.0** - экспериментальное управление
-- **Tobii Eye Tracker** - eye movement recording  
-- **MATLAB + Psychtoolbox** - stimulus presentation
-- **R + lavaan** - статистический анализ
-
-### Stimuli Database:
+#### **Mixed-Effects Models**
 ```python
-stimulus_materials = {
-    "text_corpus": {
-        "sources": ["wikipedia", "news_apis", "academic_databases"],
-        "preprocessing": ["readability_control", "emotional_valence_rating"],
-        "validation": "pilot_relevance_ratings"
-    },
-    "individual_profiling": {
-        "interests_survey": "detailed_academic_career_interests",
-        "personality_assessment": "NEO_PI_R + additional_scales",
-        "cognitive_testing": "standardized_battery"
-    }
-}
+# Longitudinal analysis with random effects
+import statsmodels.api as sm
+
+# Model G_info changes over time with individual random effects
+model = sm.MixedLM.from_formula(
+    "g_info ~ time + training + time*training", 
+    data=longitudinal_data,
+    groups=longitudinal_data["participant_id"]
+)
 ```
 
----
+### **Power Analysis**
+- **Effect size expectations:** r = 0.5 (medium-large)
+- **Alpha level:** 0.05
+- **Desired power:** 0.80
+- **Required N:** 84 (increased to 120 for dropouts)
 
-## 🎯 Expected Outcomes
-
-### Primary Results:
-1. **Validated mathematical model** G_info с empirically derived parameters
-2. **Effect size estimates** для всех key relationships
-3. **Individual difference profiles** для personalization
-4. **Physiological signatures** информационной проводимости
-
-### Scientific Impact:
-- **Theoretical:** Bridge между cognitive psychology и information theory
-- **Methodological:** Новые measurement approaches для information processing
-- **Applied:** Practical guidelines для UX design, education, social media
-
-### Practical Applications:
-```python
-applications = {
-    "educational_technology": "adaptive_content_difficulty",
-    "user_interface_design": "cognitive_load_optimization", 
-    "social_media_algorithms": "engagement_prediction",
-    "information_design": "optimal_presentation_formats"
-}
-```
+### **Data Quality Checks**
+- **Outlier detection:** z-scores > 3.0 flagged for review
+- **Missing data:** Maximum 10% missing per participant
+- **Reliability checks:** Cronbach's α > 0.7 for multi-item measures
+- **Manipulation checks:** Verify stress/load manipulations effective
 
 ---
 
-## ⏰ Timeline & Resources
+## 🛡️ Methodological Considerations
 
-### Schedule (8 недель):
-- **Week 1-2:** Pilot study + refinements
-- **Week 3-4:** Main data collection (N=120)
-- **Week 5-6:** Data analysis + model fitting
-- **Week 7-8:** Validation + replication mini-study
+### **Control Variables**
+- **Age:** Correlates with processing speed (controlled in analysis)
+- **Education:** May affect cognitive test performance
+- **Time of day:** Testing scheduled consistently (10am-4pm)
+- **Practice effects:** Counterbalanced task orders
 
-### Budget estimate:
-- Participant compensation: $3,600 ($30 × 120)
-- Equipment rental: $2,000 
-- Software licenses: $1,500
-- **Total:** ~$7,100
+### **Potential Confounds**
+- **Motivation:** Individual differences in effort and engagement
+- **Fatigue:** Session length managed to prevent exhaustion
+- **Strategy differences:** Instructions standardized, strategy use monitored
+- **Technical issues:** Equipment calibration and backup procedures
 
----
-
-## 📊 Data Management Plan
-
-### Data Collection:
-```python
-data_structure = {
-    "participant_level": {
-        "demographics": "age, gender, education, native_language",
-        "personality": "big_five_scores + cognitive_abilities",
-        "baseline_performance": "attention_working_memory_tests"
-    },
-    "trial_level": {
-        "experimental_conditions": "load_relevance_emotional_factors",
-        "behavioral_responses": "rt_accuracy_confidence_ratings",
-        "physiological_data": "eye_tracking_eeg_autonomic"
-    }
-}
-```
-
-### Analysis Pipeline:
-1. **Preprocessing:** Outlier removal, normalization, missing data handling
-2. **Model fitting:** Hierarchical linear models with random effects
-3. **Validation:** Cross-validation, bootstrap confidence intervals  
-4. **Replication:** Independent validation sample (N=40)
+### **Validity Threats**
+- **Internal validity:** Random assignment, controlled environment
+- **External validity:** Diverse sample, real-world task relevance
+- **Construct validity:** Multiple measures of same constructs
+- **Statistical validity:** Appropriate sample sizes and analyses
 
 ---
 
-**Статус:** ✅ **ЗАДАЧА 3.1.1 ЗАВЕРШЕНА**
+## 📈 Expected Results and Implications
 
-**Основные достижения:**
-- Создан comprehensive экспериментальный дизайн на основе классических методологий attention research
-- Операционализированы все компоненты математической модели G_info
-- Интегрированы behavioral, physiological, и individual difference measures
-- Разработан статистический план для валидации теоретических предсказаний
-- Предусмотрен pilot study для refinement процедур
-- Определены четкие критерии успеха и practical applications
+### **Validation Outcomes**
 
-**Готовность к реализации:** 🚀 ВЫСОКАЯ 
+#### **Strong Validation Evidence:**
+- **r > 0.6** with established cognitive measures
+- **Predictable context effects** matching theoretical model
+- **Stable individual differences** over time
+- **Meaningful practical applications**
+
+#### **Moderate Validation Evidence:**
+- **r = 0.4-0.6** with cognitive measures
+- **Some context effects** but weaker than predicted
+- **Modest stability** with some measurement error
+- **Limited practical utility**
+
+#### **Weak Validation Evidence:**
+- **r < 0.4** with cognitive measures
+- **Inconsistent context effects**
+- **Poor stability** over time
+- **No practical applications**
+
+### **Theoretical Implications**
+- **Model refinement:** Adjust parameters based on empirical findings
+- **Mechanism clarification:** Identify key components of G_info
+- **Individual differences:** Better understanding of person factors
+- **Applied potential:** Guide development of practical applications
+
+### **Methodological Contributions**
+- **Measurement protocol:** Standardized G_info assessment battery
+- **Validation framework:** Template for other ID component validation
+- **Analysis methods:** Statistical approaches for circuit parameter estimation
+- **Quality standards:** Reliability and validity benchmarks
+
+---
+
+## 🚀 Implementation Timeline
+
+### **Phase 1: Preparation (Months 1-2)**
+- **IRB approval** and ethical clearance
+- **Participant recruitment** and screening
+- **Equipment setup** and calibration
+- **Pilot testing** with small sample (n=10)
+
+### **Phase 2: Data Collection (Months 3-8)**
+- **Study 1:** Validation study (Months 3-5)
+- **Study 2:** Context effects (Months 4-6)
+- **Study 3:** Longitudinal study begins (Month 3)
+- **Quality monitoring** and interim analyses
+
+### **Phase 3: Analysis and Reporting (Months 9-12)**
+- **Data cleaning** and preparation
+- **Statistical analyses** and model testing
+- **Results interpretation** and theory refinement
+- **Manuscript preparation** and submission
+
+### **Phase 4: Application Development (Months 10-15)**
+- **Practical tool development** based on findings
+- **Validation in applied settings**
+- **Dissemination** to research community
+- **Future research planning**
+
+---
+
+## ✅ Success Criteria
+
+### **Primary Success Indicators**
+1. **Strong correlations** (r > 0.6) with established cognitive measures
+2. **Predictable context effects** matching theoretical predictions
+3. **Stable individual differences** with good test-retest reliability
+4. **Practical applications** demonstrating real-world utility
+
+### **Secondary Success Indicators**
+1. **Theory refinement** improving model accuracy
+2. **Measurement tools** for other researchers
+3. **Publication** in peer-reviewed journals
+4. **Grant funding** for follow-up research
+
+### **Minimum Viable Results**
+1. **Moderate correlations** (r > 0.4) with cognitive measures
+2. **Some evidence** for context effects
+3. **Reasonable stability** (r > 0.6 test-retest)
+4. **Clear directions** for future research
+
+---
+
+**Experiment Design Status:** 🔬 **READY FOR IMPLEMENTATION**  
+**Next Phase:** IRB submission and participant recruitment  
+**Timeline:** 15-month study with rolling data collection 

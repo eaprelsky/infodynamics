@@ -1,0 +1,230 @@
+# Information Dynamics .gitignore
+
+# ===== LARGE DATA FILES =====
+# Stanford dataset and other large datasets (can be 2GB+)
+data/ds004636*
+data/hcp*
+data/mooc*
+data/social_media*
+data/external*
+data/**/*.nii
+data/**/*.nii.gz
+data/**/*.bval
+data/**/*.bvec
+
+# Data archives
+data/*.zip
+data/*.tar.gz
+data/*.tar.bz2
+*.zip
+*.tar.gz
+*.tar.bz2
+
+# Large result files
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+results/large_analysis/
+analysis/outputs/large*/
+
+# ===== PYTHON =====
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# ===== DATA SCIENCE =====
+# Large model files
+*.model
+*.joblib
+models/pretrained/
+models/checkpoints/
+*.pt
+*.pth
+*.ckpt
+
+# Large output files  
+*.csv
+*.tsv
+*.xlsx
+*.xls
+outputs/
+results/
+figures/
+plots/
+
+# Temporary analysis files
+temp/
+tmp/
+scratch/
+.temp/
+
+# ===== SYSTEM FILES =====
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# ===== EDITORS =====
+# VSCode
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Emacs
+\#*\#
+.\#*
+
+# ===== LOGS =====
+logs/
+*.log
+*.out
+*.err
+
+# ===== CONFIGURATION =====
+# Local configuration files
+config/local/
+.env.local
+secrets.json
+credentials.json
+
+# ===== WANDB / MLflow =====
+wandb/
+mlruns/
+.mlflow/
+
+# ===== SPECIFIC TO PROJECT =====
+# Keep README files but ignore large datasets
+!data/README.md
+!data/*/README.md
+
+# Keep example small files
+!data/examples/
+!demos/data/
+
+# Temporary download files
+downloads/
+
+# Analysis cache
+.analysis_cache/
+cache/
+
+# Generated documentation
+docs/_build/
+docs/build/
+
+# ===== EXCEPTION RULES =====
+# Keep important small config files
+!requirements.txt
+!environment.yml
+!setup.py
+!pyproject.toml
+
+# Keep small test data
+!tests/data/
+!*/test_data/ 
