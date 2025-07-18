@@ -1,0 +1,5 @@
+Model,Formula,R-squared,Sample Size,Effect Size,Improvement
+G_info (Original),$k \times A_{focus} \times (1-L_{cognitive})$,0.078,"1,200",Small,-
+G_info (Optimized),$1.27 \cdot k_{individual} + 1.28 \cdot A_{focus} + 0.34 \cdot (1-L_{cognitive})$,0.785,"1,200",Very Large,+70.6%
+L_info (Optimized),$0.38 \cdot L_{temporal} + 0.49 \cdot L_{cognitive} + 0.17 \cdot L_{systemic}$,0.415,800,Large,+2.3%
+T_eff (Optimized),$0.54 \cdot S_{preservation} + 0.21 \cdot D_{factual} + 0.24 \cdot Q_{enhancement}$,0.732,"1,000",Very Large,+2.8% 
