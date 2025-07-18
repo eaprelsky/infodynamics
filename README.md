@@ -83,6 +83,7 @@ infodynamics/
 ├── 📄 SETUP.md                     # Detailed installation
 ├── 📄 requirements.txt             # Python dependencies
 ├── 📄 environment.yml              # Conda environment
+├── 📄 backlog.md                   # Project roadmap and tasks
 ├── 
 ├── 📁 infodynamics/                # Main Python package
 │   ├── models/                     # Mathematical models (G, R, L, C)
@@ -94,21 +95,23 @@ infodynamics/
 ├── 
 ├── 📁 tools/                       # Ready-to-use tools
 │   ├── data_utils/                 # Data utilities
-│   └── calculators/                # G, R, L, C calculators
+│   └── cli.py                      # Command-line interface
 ├── 
 ├── 📁 demos/                       # Usage examples
-│   └── notebooks/                  # Jupyter notebook demos
+│   └── notebooks/                  # Jupyter notebook demos (development)
 ├── 
 ├── 📁 analysis/                    # Analysis and validation
 │   ├── validation/                 # Empirical validation on data
 │   ├── figures/                    # Charts and visualizations
-│   └── notebooks/                  # Research notebooks
+│   └── notebooks/                  # Research notebooks (development)
 ├── 
 ├── 📁 theory/                      # Theoretical models
 ├── 📁 research/                    # Literature reviews
 ├── 📁 experiments/                 # Experimental designs
+├── 📁 diagrams/                    # Visual documentation and flowcharts
 ├── 📁 docs/                        # Documentation
 ├── 📁 paper/                       # Scientific publications
+├── 📁 planning/                    # Project planning and methodology
 └── 📁 data/                        # Validation data
 ```
 
@@ -126,7 +129,7 @@ The project includes **empirical validation** on open data:
 python analysis/validation/stanford_real_validation.py
 
 # Generate comprehensive validation report
-python tools/generate_validation_report.py
+python tools/cli.py --generate-report
 ```
 
 ## 📊 Results
@@ -163,9 +166,9 @@ Key **validated predictions**:
 
 - [**Detailed Setup**](SETUP.md) - Step-by-step environment setup
 - [**Theoretical Foundations**](theory/) - Mathematical models  
-- [**API Documentation**](docs/api/) - Function descriptions
-- [**Tutorials**](docs/tutorials/) - Step-by-step guides
-- [**Examples**](demos/) - Ready-to-run demos
+- [**Visual Documentation**](diagrams/) - Flowcharts and process diagrams
+- [**Project Planning**](planning/) - Methodology and roadmap
+- [**Glossary**](docs/glossary.md) - Complete terminology reference
 
 ## 📖 Scientific Publications
 
@@ -174,10 +177,20 @@ Core theoretical works:
 - [**Information Transformers**](theory/information_transformers_model.md)
 - [**Kirchhoff's Laws for Information Circuits**](theory/kirchhoff_laws_information.md)
 - [**Energy Model**](theory/information_energy_model.md)
+- [**Information Voltage Model**](theory/information_voltage_model.md)
 
 Empirical studies:
-- [**Stanford Data Validation**](analysis/validation/STANFORD_VALIDATION_REPORT.md)
+- [**Stanford Data Validation**](analysis/validation/validation/STANFORD_VALIDATION_REPORT.md)
 - [**Experimental Designs**](experiments/)
+- [**Literature Reviews**](research/)
+
+## 🔬 Interactive Diagrams
+
+- [**Complete Ohm's Law**](diagrams/01_ohms_law_complete.md) - Core theory visualization
+- [**Cognitive Architecture Integration**](diagrams/02_cognitive_architectures.md) - ACT-R, EPIC, GWT integration
+- [**Social Networks**](diagrams/03_social_networks.md) - Echo chambers and filter bubbles
+- [**Information Transformers**](diagrams/04_information_transformers.md) - Content transformation
+- [**Project Progress**](diagrams/05_progress_overview.md) - Current development status
 
 ## 🤝 Contributing
 
@@ -195,7 +208,7 @@ Empirical studies:
 
 ## 📄 License
 
-MIT License - see [LICENSE](LICENSE) for details.
+MIT License - see LICENSE file for details.
 
 ## 📧 Contact
 
