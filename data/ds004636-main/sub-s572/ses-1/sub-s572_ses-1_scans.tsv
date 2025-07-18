@@ -1,0 +1,12 @@
+filename	notes
+anat/sub-s572_ses-1_T1w.nii.gz	n/a
+func/sub-s572_ses-1_task-motorSelectiveStop_run-1_sbref.nii.gz	n/a
+func/sub-s572_ses-1_task-motorSelectiveStop_run-1_bold.nii.gz	n/a
+func/sub-s572_ses-1_task-DPX_run-1_bold.nii.gz	n/a
+func/sub-s572_ses-1_task-stroop_run-1_bold.nii.gz	n/a
+func/sub-s572_ses-1_task-rest_run-1_bold.nii.gz	n/a
+func/sub-s572_ses-1_task-rest_run-2_bold.nii.gz	n/a
+func/sub-s572_ses-1_task-surveyMedley_run-1_bold.nii.gz	n/a
+func/sub-s572_ses-1_task-rest_run-1_sbref.nii.gz	n/a
+fmap/sub-s572_ses-1_magnitude.nii.gz	n/a
+fmap/sub-s572_ses-1_fieldmap.nii.gz	n/a

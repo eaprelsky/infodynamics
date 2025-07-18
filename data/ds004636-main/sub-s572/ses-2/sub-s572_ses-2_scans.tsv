@@ -1,0 +1,12 @@
+filename	notes
+anat/sub-s572_ses-2_T2w.nii.gz	n/a
+func/sub-s572_ses-2_task-rest_run-1_sbref.nii.gz	n/a
+func/sub-s572_ses-2_task-rest_run-1_bold.nii.gz	n/a
+func/sub-s572_ses-2_task-ANT_run-1_bold.nii.gz	n/a
+func/sub-s572_ses-2_task-CCTHot_run-1_bold.nii.gz	n/a
+func/sub-s572_ses-2_task-twoByTwo_run-1_bold.nii.gz	n/a
+func/sub-s572_ses-2_task-WATT3_run-1_sbref.nii.gz	n/a
+func/sub-s572_ses-2_task-stopSignal_run-1_bold.nii.gz	n/a
+func/sub-s572_ses-2_task-WATT3_run-1_bold.nii.gz	n/a
+fmap/sub-s572_ses-2_fieldmap.nii.gz	n/a
+fmap/sub-s572_ses-2_magnitude.nii.gz	n/a

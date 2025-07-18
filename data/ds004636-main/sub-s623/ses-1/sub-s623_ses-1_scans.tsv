@@ -1,0 +1,16 @@
+filename	notes
+anat/sub-s623_ses-1_T1w.nii.gz	After participant reentered scanner
+anat/sub-s623_ses-1_T2w.nii.gz	After participant reentered scanner
+func/sub-s623_ses-1_task-rest_run-1_sbref.nii.gz	n/a
+func/sub-s623_ses-1_task-motorSelectiveStop_run-2_sbref.nii.gz	Participant pulled out of scanner to adjust glasses before rerunning sbref
+func/sub-s623_ses-1_task-motorSelectiveStop_run-1_sbref.nii.gz	n/a
+func/sub-s623_ses-1_task-discountFix_run-1_bold.nii.gz	n/a
+func/sub-s623_ses-1_task-motorSelectiveStop_run-1_bold.nii.gz	After participant reentered scanner
+func/sub-s623_ses-1_task-rest_run-1_bold.nii.gz	n/a
+func/sub-s623_ses-1_task-surveyMedley_run-1_bold.nii.gz	n/a
+func/sub-s623_ses-1_task-DPX_run-1_bold.nii.gz	After participant reentered scanner
+func/sub-s623_ses-1_task-stroop_run-1_bold.nii.gz	After participant reentered scanner
+fmap/sub-s623_ses-1_run-2_fieldmap.nii.gz	After participant reentered scanner
+fmap/sub-s623_ses-1_run-2_magnitude.nii.gz	After participant reentered scanner
+fmap/sub-s623_ses-1_run-1_magnitude.nii.gz	n/a
+fmap/sub-s623_ses-1_run-1_fieldmap.nii.gz	n/a

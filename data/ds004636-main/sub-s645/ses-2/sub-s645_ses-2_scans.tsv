@@ -1,0 +1,12 @@
+filename	notes
+anat/sub-s645_ses-2_T1w.nii.gz	n/a
+func/sub-s645_ses-2_task-DPX_run-1_bold.nii.gz	n/a
+func/sub-s645_ses-2_task-rest_run-1_bold.nii.gz	n/a
+func/sub-s645_ses-2_task-stroop_run-1_bold.nii.gz	n/a
+func/sub-s645_ses-2_task-DPX_run-1_sbref.nii.gz	n/a
+func/sub-s645_ses-2_task-rest_run-1_sbref.nii.gz	n/a
+func/sub-s645_ses-2_task-surveyMedley_run-1_bold.nii.gz	n/a
+func/sub-s645_ses-2_task-discountFix_run-1_bold.nii.gz	n/a
+func/sub-s645_ses-2_task-motorSelectiveStop_run-1_bold.nii.gz	n/a
+fmap/sub-s645_ses-2_fieldmap.nii.gz	n/a
+fmap/sub-s645_ses-2_magnitude.nii.gz	n/a

@@ -1,0 +1,7 @@
+filename	notes
+func/sub-s618_ses-1_task-rest_run-1_sbref.nii.gz	n/a
+func/sub-s618_ses-1_task-motorSelectiveStop_run-1_bold.nii.gz	"scanner reset before this run, participant waited in scanner"
+func/sub-s618_ses-1_task-stroop_run-1_sbref.nii.gz	"scanner reset before this run, participant waited in scanner"
+func/sub-s618_ses-1_task-DPX_run-1_bold.nii.gz	n/a
+func/sub-s618_ses-1_task-surveyMedley_run-1_bold.nii.gz	n/a
+func/sub-s618_ses-1_task-rest_run-1_bold.nii.gz	n/a

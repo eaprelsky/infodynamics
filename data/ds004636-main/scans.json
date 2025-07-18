@@ -1,0 +1,8 @@
+{
+    "filename": {
+        "Description": "filename in directory"
+    },
+    "notes": {
+        "Description": "notes from scan run, such as participant reentering scanner etc."
+    }
+}
