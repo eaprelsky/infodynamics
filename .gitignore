@@ -1,5 +1,10 @@
 # Information Dynamics .gitignore
 
+# ===== RUSSIAN LANGUAGE ARCHIVE =====
+# Keep Russian language files local only
+ru/
+*.ru.md
+
 # ===== LARGE DATA FILES =====
 # Stanford dataset and other large datasets (can be 2GB+)
 data/ds004636*
