@@ -62,92 +62,92 @@ parts:
           - file: book/04_04_reducing_friction
             title: "Designing Low-Resistance Communication"
             
-      - file: book/05_the_capacity_for_knowledge
-        title: "Chapter 5: Information Capacitance"
+      - file: book/05_cognitive_capacitance
+        title: "Chapter 5: Cognitive Capacitance"
         sections:
-          - file: book/05_01_working_memory_circuits
-            title: "The 7±2 Limit and Circuit Design"
-          - file: book/05_02_chunking_strategies
-            title: "Optimizing Information Storage"
-          - file: book/05_03_expert_capacitance
-            title: "How Experts Expand Their Capacity"
-          - file: book/05_04_overload_prevention
-            title: "Preventing Cognitive Overload"
+          - file: book/05_01_memory_storage_systems
+            title: "The Storage Paradox of Human Memory"
+          - file: book/05_02_capacity_limits
+            title: "When Memory Systems Overflow"
+          - file: book/05_03_optimizing_retention
+            title: "Engineering High-Capacity Memory"
+          - file: book/05_04_individual_differences
+            title: "Individual Memory Architecture Patterns"
             
-      - file: book/06_the_inertia_of_belief
-        title: "Chapter 6: Cognitive Inductance"
+      - file: book/06_information_conductance
+        title: "Chapter 6: Information Conductance"
         sections:
-          - file: book/06_01_belief_energy_storage
-            title: "How Beliefs Store Mental Energy"
-          - file: book/06_02_change_resistance
-            title: "Why Minds Resist New Information"
-          - file: book/06_03_gradual_transformation
-            title: "Overcoming Belief Inductance"
-          - file: book/06_04_identity_circuits
-            title: "Identity as High-Inductance Beliefs"
+          - file: book/06_01_flow_networks
+            title: "Attention Networks as Information Highways"
+          - file: book/06_02_bandwidth_bottlenecks
+            title: "Mathematical Laws of Information Throughput"
+          - file: book/06_03_synchronized_minds
+            title: "Collective Intelligence Through Attention Synchronization"
+          - file: book/06_04_engineering_conductance
+            title: "Building High-Conductance Information Systems"
             
-      - file: book/07_ohms_law_for_ideas
-        title: "Chapter 7: Ohm's Law for Ideas"
+      - file: book/07_cognitive_inductance
+        title: "Chapter 7: Cognitive Inductance"
         sections:
-          - file: book/07_01_the_unified_equation
+          - file: book/07_01_belief_energy_storage
+            title: "How Convictions Accumulate Psychological Power"
+          - file: book/07_02_change_resistance
+            title: "Why Intelligent People Resist Obvious Facts"
+          - file: book/07_03_gradual_transformation
+            title: "Engineering Belief Change That Works"
+          - file: book/07_04_identity_circuits
+            title: "When Beliefs Become Who We Are"
+            
+      - file: book/08_ohms_law_for_ideas
+        title: "Chapter 8: Ohm's Law for Ideas"
+        sections:
+          - file: book/08_01_the_unified_equation
             title: "I = V / R: Information Flow Fundamentals"
-          - file: book/07_02_circuit_analysis
+          - file: book/08_02_circuit_analysis
             title: "Analyzing Cognitive Circuit Performance"
-          - file: book/07_03_optimization_principles
+          - file: book/08_03_optimization_principles
             title: "Maximizing Information Throughput"
-          - file: book/07_04_system_design
+          - file: book/08_04_system_design
             title: "Designing Efficient Cognitive Systems"
 
   - caption: "Empirical Validation"
     numbered: true
     chapters:
-      - file: book/08_testing_the_theory
-        title: "Chapter 8: Testing the Theory" 
+      - file: book/09_testing_the_theory
+        title: "Chapter 9: Testing the Theory" 
         sections:
-          - file: demos/notebooks/stanford_validation
-            title: "🔬 Stanford Study: G_info Validation"
-          - file: demos/notebooks/content_virality
-            title: "🔥 Content Virality Prediction"
-          - file: book/08_01_replication_studies
-            title: "Cross-Cultural Replications"
-          - file: book/08_02_neural_correlates
-            title: "Brain Imaging Confirmations"
+          - file: book/09_01_individual_validation
+            title: "The Stanford Breakthrough: Individual Cognitive Validation"
+          - file: book/09_02_neural_validation
+            title: "Brain's Electrical Architecture: Neural Network Validation"
+          - file: book/09_03_educational_validation
+            title: "Global Learning Laboratory: Educational System Validation"
+          - file: book/09_04_organizational_validation
+            title: "Collective Minds at Scale: Organizational Intelligence Validation"
             
-      - file: book/09_the_mathematics_of_minds
-        title: "Chapter 9: The Mathematics of Minds"
+      - file: book/10_the_mathematics_of_minds
+        title: "Chapter 10: The Mathematics of Minds"
         sections:
-          - file: book/09_01_differential_equations
+          - file: book/10_01_differential_equations
             title: "Information Flow Dynamics"
-          - file: book/09_02_frequency_analysis
+          - file: book/10_02_frequency_analysis
             title: "Cognitive Resonance and Harmonics"
-          - file: book/09_03_chaos_and_complexity
+          - file: book/10_03_chaos_and_complexity
             title: "When Cognitive Circuits Go Nonlinear"
-          - file: book/09_04_network_effects
+          - file: book/10_04_network_effects
             title: "Collective Intelligence as Circuit Networks"
             
-      - file: book/10_the_biological_foundation
-        title: "Chapter 10: The Biological Foundation"
+      - file: book/11_the_biological_foundation
+        title: "Chapter 11: The Biological Foundation"
         sections:
-          - file: book/10_01_neural_circuits
+          - file: book/11_01_neural_circuits
             title: "From Neurons to Information Circuits"
-          - file: book/10_02_metabolic_constraints
+          - file: book/11_02_metabolic_constraints
             title: "Energy Costs of Information Processing"
-          - file: book/10_03_evolutionary_origins
+          - file: book/11_03_evolutionary_origins
             title: "How Evolution Built Information Circuits"
-          - file: book/10_04_individual_differences
+          - file: book/11_04_individual_differences
             title: "Why People Have Different Cognitive Circuits"
-            
-      - file: book/11_what_the_data_reveals
-        title: "Chapter 11: What the Data Reveals"
-        sections:
-          - file: book/11_01_hidden_patterns
-            title: "The 10X Learning Effect"
-          - file: book/11_02_cognitive_resonance
-            title: "When Minds Sync Like Oscillators"
-          - file: book/11_03_information_cascades
-            title: "How Ideas Spread Like Electrical Current"
-          - file: book/11_04_collective_intelligence
-            title: "Group Minds as Parallel Circuits"
 
   - caption: "Applications"
     numbered: true
