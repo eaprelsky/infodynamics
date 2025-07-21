@@ -1,0 +1,82 @@
+# Information Physics: Academic Interactive Book
+# Configuration for Jupyter Book academic publication
+
+title: "Information Physics: How Electrical Circuits Think, Feel, and Shape Reality"
+author: "Information Dynamics Research Team"
+logo: assets/logo.png
+copyright: "2025"
+
+# Book settings
+only_build_toc_files: true
+
+# Execution settings  
+execute:
+  execute_notebooks: force
+  timeout: 300
+  allow_errors: false
+
+# HTML settings
+html:
+  favicon: assets/favicon.ico
+  use_edit_page_button: true
+  use_repository_button: true
+  use_issues_button: true
+  extra_navbar: |
+    <div>
+      📚 Academic Interactive Edition | 🔬 Reproducible Research
+    </div>
+
+# Bibliography settings
+bibtex_bibfiles:
+  - references.bib
+
+# LaTeX settings
+latex:
+  latex_engine: xelatex
+  use_jupyterbook_latex: true
+
+# Repository settings  
+repository:
+  url: https://github.com/infodynamics/book
+  branch: main
+  path_to_book: ""
+
+# Launch button settings
+launch_buttons:
+  notebook_interface: "jupyterlab"
+  binderhub_url: "https://mybinder.org"
+  colab_url: "https://colab.research.google.com"
+  
+# Extensions
+sphinx:
+  extra_extensions:
+    - sphinx.ext.autodoc
+    - sphinx.ext.viewcode
+    - sphinx.ext.mathjax
+    - sphinxcontrib.bibtex
+    - sphinx_design
+    - sphinx_external_toc
+  config:
+    bibtex_default_style: unsrt
+    mathjax_config:
+      TeX:
+        Macros:
+          "R": "\\mathbb{R}"
+          "N": "\\mathbb{N}"
+          "info": "\\text{info}"
+    numfig: true
+    math_numfig: true
+    
+# Advanced features
+parse:
+  myst_enable_extensions:
+    - dollarmath
+    - amsmath
+    - deflist
+    - html_admonition
+    - html_image
+    - colon_fence
+    - smartquotes
+    - replacements
+    - linkify
+    - substitution 

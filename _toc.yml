@@ -1,0 +1,228 @@
+# Information Physics: Academic Table of Contents
+# Jupyter Book structure with narrative storytelling approach
+
+format: jb-book
+root: book/00_introduction
+title: "Information Physics: How Electrical Circuits Think, Feel, and Shape Reality"
+
+defaults:
+  numbered: true
+  
+options:
+  numbered: true
+  show_navbar_depth: 3
+
+parts:
+  - caption: "The Discovery"
+    numbered: true
+    chapters:
+      - file: book/01_the_lightning_bolt_moment
+        title: "Chapter 1: The Lightning Bolt Moment"
+        
+      - file: book/02_the_scattered_clues  
+        title: "Chapter 2: The Scattered Clues"
+        sections:
+          - file: book/02_01_shannon_information
+            title: "Shannon's Information Voltage (1948)"
+          - file: book/02_02_miller_capacity
+            title: "Miller's Cognitive Capacitance (1956)"
+          - file: book/02_03_broadbent_attention
+            title: "Broadbent's Attention Conductance (1958)"
+          - file: book/02_04_sweller_load
+            title: "Sweller's Learning Resistance (1988)"
+          - file: book/02_05_festinger_dissonance
+            title: "Festinger's Belief Inductance (1957)"
+          - file: book/02_06_synthesis
+            title: "The Complete Circuit Revealed"
+
+  - caption: "The Electrical Components"
+    numbered: true
+    chapters:
+      - file: book/03_information_voltage
+        title: "Chapter 3: Information Voltage"
+        sections:
+          - file: book/03_01_surprise_and_attention
+            title: "Why Surprise Creates Mental Energy"
+          - file: book/03_02_emotional_amplification
+            title: "How Emotions Amplify Information Voltage"
+          - file: book/03_03_relevance_multipliers
+            title: "Personal Relevance as Voltage Multiplier"
+          - file: book/03_04_measuring_voltage
+            title: "Measuring Information Voltage in Real Time"
+            
+      - file: book/04_the_resistance_of_minds
+        title: "Chapter 4: Cognitive Resistance"
+        sections:
+          - file: book/04_01_sources_of_resistance
+            title: "The Three Sources of Mental Resistance"
+          - file: book/04_02_overcoming_barriers
+            title: "Engineering Solutions to High Resistance"
+          - file: book/04_03_resistance_patterns
+            title: "Individual Resistance Fingerprints"
+          - file: book/04_04_reducing_friction
+            title: "Designing Low-Resistance Communication"
+            
+      - file: book/05_the_capacity_for_knowledge
+        title: "Chapter 5: Information Capacitance"
+        sections:
+          - file: book/05_01_working_memory_circuits
+            title: "The 7±2 Limit and Circuit Design"
+          - file: book/05_02_chunking_strategies
+            title: "Optimizing Information Storage"
+          - file: book/05_03_expert_capacitance
+            title: "How Experts Expand Their Capacity"
+          - file: book/05_04_overload_prevention
+            title: "Preventing Cognitive Overload"
+            
+      - file: book/06_the_inertia_of_belief
+        title: "Chapter 6: Cognitive Inductance"
+        sections:
+          - file: book/06_01_belief_energy_storage
+            title: "How Beliefs Store Mental Energy"
+          - file: book/06_02_change_resistance
+            title: "Why Minds Resist New Information"
+          - file: book/06_03_gradual_transformation
+            title: "Overcoming Belief Inductance"
+          - file: book/06_04_identity_circuits
+            title: "Identity as High-Inductance Beliefs"
+            
+      - file: book/07_ohms_law_for_ideas
+        title: "Chapter 7: Ohm's Law for Ideas"
+        sections:
+          - file: book/07_01_the_unified_equation
+            title: "I = V / R: Information Flow Fundamentals"
+          - file: book/07_02_circuit_analysis
+            title: "Analyzing Cognitive Circuit Performance"
+          - file: book/07_03_optimization_principles
+            title: "Maximizing Information Throughput"
+          - file: book/07_04_system_design
+            title: "Designing Efficient Cognitive Systems"
+
+  - caption: "Empirical Validation"
+    numbered: true
+    chapters:
+      - file: book/08_testing_the_theory
+        title: "Chapter 8: Testing the Theory" 
+        sections:
+          - file: demos/notebooks/stanford_validation
+            title: "🔬 Stanford Study: G_info Validation"
+          - file: demos/notebooks/content_virality
+            title: "🔥 Content Virality Prediction"
+          - file: book/08_01_replication_studies
+            title: "Cross-Cultural Replications"
+          - file: book/08_02_neural_correlates
+            title: "Brain Imaging Confirmations"
+            
+      - file: book/09_the_mathematics_of_minds
+        title: "Chapter 9: The Mathematics of Minds"
+        sections:
+          - file: book/09_01_differential_equations
+            title: "Information Flow Dynamics"
+          - file: book/09_02_frequency_analysis
+            title: "Cognitive Resonance and Harmonics"
+          - file: book/09_03_chaos_and_complexity
+            title: "When Cognitive Circuits Go Nonlinear"
+          - file: book/09_04_network_effects
+            title: "Collective Intelligence as Circuit Networks"
+            
+      - file: book/10_the_biological_foundation
+        title: "Chapter 10: The Biological Foundation"
+        sections:
+          - file: book/10_01_neural_circuits
+            title: "From Neurons to Information Circuits"
+          - file: book/10_02_metabolic_constraints
+            title: "Energy Costs of Information Processing"
+          - file: book/10_03_evolutionary_origins
+            title: "How Evolution Built Information Circuits"
+          - file: book/10_04_individual_differences
+            title: "Why People Have Different Cognitive Circuits"
+            
+      - file: book/11_what_the_data_reveals
+        title: "Chapter 11: What the Data Reveals"
+        sections:
+          - file: book/11_01_hidden_patterns
+            title: "The 10X Learning Effect"
+          - file: book/11_02_cognitive_resonance
+            title: "When Minds Sync Like Oscillators"
+          - file: book/11_03_information_cascades
+            title: "How Ideas Spread Like Electrical Current"
+          - file: book/11_04_collective_intelligence
+            title: "Group Minds as Parallel Circuits"
+
+  - caption: "Applications"
+    numbered: true
+    chapters:
+      - file: book/12_revolutionary_education
+        title: "Chapter 12: Revolutionary Education"
+        sections:
+          - file: book/12_01_impedance_matching
+            title: "Matching Learning to Cognitive Circuits"
+          - file: book/12_02_adaptive_systems
+            title: "AI Tutors That Understand Resistance"
+          - file: book/12_03_curriculum_engineering
+            title: "Designing Low-Resistance Learning Paths"
+          - file: book/12_04_personalized_voltage
+            title: "Optimizing Motivation for Each Student"
+            
+      - file: book/13_intelligent_interfaces
+        title: "Chapter 13: Intelligent Interfaces"
+        sections:
+          - file: book/13_01_attention_engineering
+            title: "Designing for Cognitive Conductance"
+          - file: book/13_02_information_architecture
+            title: "Circuit-Based User Experience"
+          - file: book/13_03_engagement_optimization
+            title: "Maximizing Information Voltage"
+          - file: book/13_04_cognitive_load_management
+            title: "Preventing Interface Overload"
+            
+      - file: book/14_the_future_of_human_communication
+        title: "Chapter 14: The Future of Communication"
+        sections:
+          - file: book/14_01_information_warfare
+            title: "Defending Against Malicious Circuits"
+          - file: book/14_02_optimal_messaging
+            title: "Engineering Persuasive Communication"
+          - file: book/14_03_collective_cognition
+            title: "Designing Group Intelligence Systems"
+          - file: book/14_04_augmented_thinking
+            title: "Enhancing Human Cognitive Circuits"
+
+  - caption: "The Deeper Implications"
+    numbered: true  
+    chapters:
+      - file: book/15_consciousness_as_electricity
+        title: "Chapter 15: Consciousness as Electricity"
+        sections:
+          - file: book/15_01_the_hard_problem
+            title: "Solving the Mystery of Subjective Experience"
+          - file: book/15_02_free_will_circuits
+            title: "Choice as Electrical Switching"
+          - file: book/15_03_the_self_as_circuit
+            title: "Identity as Stable Current Patterns"
+          - file: book/15_04_death_and_transcendence
+            title: "When the Circuit Finally Stops"
+            
+      - file: book/16_the_information_universe
+        title: "Chapter 16: The Information Universe"
+        sections:
+          - file: book/16_01_cosmic_consciousness
+            title: "Information Processing at Universal Scale"
+          - file: book/16_02_artificial_minds
+            title: "Building Conscious Machines"
+          - file: book/16_03_the_simulation_hypothesis
+            title: "Are We Living in an Information Circuit?"
+          - file: book/16_04_the_future_of_mind
+            title: "What Comes After Human Consciousness"
+
+  - caption: "Interactive Resources"
+    numbered: false
+    chapters:
+      - file: demos/notebooks/README
+        title: "📚 Interactive Notebook Collection"
+      - file: book/appendix_a_formulas
+        title: "Appendix A: Complete Formula Reference"
+      - file: book/appendix_b_experiments
+        title: "Appendix B: Replication Protocols"
+      - file: book/appendix_c_software
+        title: "Appendix C: Cognitive Circuit Analysis Tools" 
