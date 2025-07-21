@@ -17,13 +17,18 @@ data/**/*.nii.gz
 data/**/*.bval
 data/**/*.bvec
 
-# Data archives
+# Data archives  
 data/*.zip
 data/*.tar.gz
 data/*.tar.bz2
 *.zip
 *.tar.gz
 *.tar.bz2
+
+# Temporary data processing files
+data/temp/
+data/cache/
+data/downloads/
 
 # Large result files
 *.h5
@@ -38,6 +43,8 @@ analysis/outputs/large*/
 __pycache__/
 *.py[cod]
 *$py.class
+*.pyc
+*.pyo
 
 # C extensions
 *.so

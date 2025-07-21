@@ -1,5 +1,5 @@
-# 📚 "Information Dynamics: The Hidden Physics of Human Thought"
-*A Journey into the Electrical Nature of Ideas*
+# 📚 "Information Dynamics: The Electrical Metaphor for Human Thought"
+*A Journey into Modeling Ideas Like Energy Flow*
 
 ---
 
@@ -211,4 +211,4 @@
 
 ---
 
-*This interactive book represents the first complete mathematical and biological theory of human information processing, validated through rigorous experimentation (N=4,750+) with reproducible Jupyter notebooks. Readers can verify every claim, test their own ideas, and explore the electrical nature of consciousness hands-on. A revolutionary fusion of science and interactivity.* 
+*This interactive book presents a novel framework for modeling human information processing using electrical circuit analogies. While not a complete scientific theory, it offers practical insights for education, communication, and interface design, supported by exploratory data analysis and interactive notebooks. Readers can test the framework's utility and explore how electrical metaphors might illuminate cognitive processes.* 

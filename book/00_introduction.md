@@ -22,9 +22,9 @@ Not the answer—the connection. The *right* connection.
 
 ## The Spark of an Idea
 
-You know how the best discoveries happen when you're not even looking for them? That moment when two completely different worlds suddenly reveal they're the same world? That's exactly what happened to me, except instead of discovering that lightning is electrical, I discovered that *thinking* is energetic.
+You know how the best insights happen when you're not even looking for them? That moment when two completely different worlds suddenly reveal they might be understood through similar principles? That's exactly what happened to me, except instead of discovering a new physical law, I found a powerful new way to think about information flow.
 
-Well, not literally energetic. But mathematically, behaviorally, predictably energetic.
+*Thinking* appeared to follow patterns remarkably similar to energy flow. Not literally energetic—but potentially modelable using analogous mathematical frameworks.
 
 Stay with me here.
 
@@ -40,9 +40,9 @@ Others hit resistance:
 
 **Notice something?** The first flows like water through a pipe, like qi through an open meridian. The second? It's like trying to push energy through a blocked channel.
 
-Now here's the crazy part: **we can measure this.** We can predict it. We can optimize it.
+Here's the intriguing part: **this pattern might be modelable.** We might be able to understand it better, even optimize it somewhat.
 
-Just like energy flow in martial arts.
+Using principles similar to energy flow guidance in martial arts.
 
 ## The Pattern That Changes Everything
 
@@ -57,30 +57,32 @@ Every time you:
 
 ## What This Book Will Show You
 
-In the pages ahead, we'll discover that:
+In the pages ahead, we'll explore a framework suggesting that:
 
-🔋 **Information has voltage** - some ideas are more "powerful" than others, and we can measure exactly how powerful
+🔋 **Information might have "voltage"** - some ideas seem more compelling than others, and this might be modelable
 
-⚡ **Minds have resistance** - every brain creates barriers to certain types of information, and these barriers follow mathematical laws
+⚡ **Minds might have "resistance"** - every brain creates barriers to certain information, potentially following pattern-like principles
 
-🔌 **Understanding flows like current** - the speed at which you "get" something follows a precise equation: **Flow = Voltage ÷ Resistance**
+🔌 **Understanding might flow like current** - the speed at which you "get" something could relate to a simple ratio: **Engagement ÷ Barriers**
 
-📦 **Memory works like capacitance** - your ability to store and recall information follows the same principles as electrical storage
+📦 **Memory might work like capacitance** - information storage and recall could follow analogous principles to electrical systems
 
-🌊 **Learning has inertia** - changing your mind requires overcoming "informational inductance," just like changing electrical current
+🌊 **Learning might have inertia** - changing beliefs might require overcoming resistance similar to "informational inductance"
 
-🥋 **Flow can be guided** - like a martial arts master directing energy, we can optimize information transmission
+🥋 **Flow might be guided** - like directing energy in martial arts, we might be able to optimize information transmission
 
 ## The Promise
 
-By the end of this book, you'll see the world differently. You'll understand:
+By the end of this book, you might see information differently. You'll explore:
 
-- Why some people learn faster than others (it's not just "intelligence")
-- How to design information that flows effortlessly into minds
-- Why social media is so addictive (and how to fix it)
-- How to optimize your own learning and thinking
-- The mathematical laws governing all human communication
-- How ancient wisdom about energy flow was scientifically correct all along
+- Possible reasons why some people learn faster than others (beyond just "intelligence")
+- Potential strategies for designing more effective information
+- Why social media might be so engaging (and potential improvements)
+- Ways to potentially optimize your own learning and thinking
+- Mathematical frameworks that might apply to human communication
+- How ancient wisdom about energy flow might offer useful insights for modern information design
+
+**Important Note:** This book presents a theoretical framework and practical applications. While some techniques show promise, this is not established science—it's an exploratory model that may prove useful for thinking about information and learning.
 
 ## A Warning (The Good Kind)
 

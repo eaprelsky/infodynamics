@@ -28,13 +28,13 @@ I was working through a flowing sequence, feeling the energy move through the fo
 
 In that moment, something incredible happened.
 
-**I realized he wasn't just describing energy flow in the human body. He was describing information flow in human minds—and potentially in AI systems too.**
+**I realized he might not just be describing energy flow in the human body. He could be describing patterns that appear in information flow through human minds—and potentially in AI systems too.**
 
 ## The Eureka Moment
 
-Standing there in horse stance, I saw it clearly:
+Standing there in horse stance, I had what felt like a clear insight:
 
-**Information flows through minds exactly like energy flows through bodies, exactly like electricity flows through circuits.**
+**Information might flow through minds in patterns remarkably similar to how energy flows through bodies, or electricity flows through circuits.**
 
 Think about it:
 - Information (like qi, like electricity) follows the path of least resistance
@@ -87,19 +87,19 @@ But the real breakthrough came when I realized: **this isn't just an Eastern met
 
 ## The Mathematics of Understanding
 
-What I had discovered that changed everything:
+What I had stumbled upon that felt significant:
 
-Information flow through human minds follows the same precise equations that govern electrical flow through circuits—and potentially through AI neural networks:
+Information flow through human minds might be modelable using equations analogous to those that govern electrical flow through circuits:
 
-$$\text{Information Flow} = \frac{\text{Information Voltage}}{\text{Information Resistance}}$$
+$$\text{Information Flow} ≈ \frac{\text{Information "Voltage"}}{\text{Information "Resistance"}}$$
 
 Or more simply:
 
-$$I_{info} = \frac{U_{info}}{R_{info}}$$
+$$I_{info} ≈ \frac{U_{info}}{R_{info}}$$
 
-This isn't philosophy or metaphor. It's physics. **Actual, measurable, predictable physics.**
+This isn't literal physics—it's a potentially useful mathematical metaphor. **A framework that might help us understand and optimize information transfer.**
 
-The ancient wisdom of energy cultivation had intuited what modern science was ready to prove mathematically—and what AI development was rediscovering through neural network optimization.
+The ancient wisdom of energy cultivation had perhaps intuited patterns that we might now be able to model mathematically—patterns that might also apply to AI development and neural network optimization.
 
 ## What This Means
 
