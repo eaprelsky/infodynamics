@@ -27,7 +27,7 @@ Where:
 
 The UNICEF study provides compelling evidence of this amplification. Using neuroimaging, researchers found that:
 
-- **High-arousal emotions** (surprise, awe, anxiety) increased brain electrical activity by factors of 2-4x
+- **High-arousal emotions** (surprise, awe, anxiety) increased brain electrical activity by factors of 2-4x, consistent with Russell's (1980) arousal dimension of affect
 - **Participants without children** (the target demographic) showed even stronger amplification effects
 - **Visual identification** with the donor in campaign materials significantly increased both emotional response and behavioral outcomes
 

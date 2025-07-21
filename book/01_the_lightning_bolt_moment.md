@@ -97,7 +97,7 @@ Or more simply:
 
 $$I_{info} ≈ \frac{U_{info}}{R_{info}}$$
 
-This isn't literal physics—it's a potentially useful mathematical metaphor. **A framework that might help us understand and optimize information transfer.**
+This isn't literal physics—it's information dynamics. **A potentially useful mathematical framework that might help us understand and optimize information transfer.**
 
 The ancient wisdom of energy cultivation had perhaps intuited patterns that we might now be able to model mathematically—patterns that might also apply to AI development and neural network optimization.
 
@@ -128,7 +128,7 @@ What we've stumbled upon bridges ancient wisdom and modern science:
 
 ## The Wider Pattern
 
-Once I saw this pattern, I couldn't unsee it. Information physics operates everywhere:
+Once I saw this pattern, I couldn't unsee it. Information dynamics operates everywhere:
 
 - **Learning difficulties** are really energy blockages that can be diagnosed and cleared
 - **Communication failures** happen when voltage is too low or resistance is too high
@@ -183,6 +183,6 @@ Before moving on, think about your own experience reading this chapter:
 - How did your understanding "flow" through the concepts?
 - Did the Eastern-Western connection resonate with you?
 
-**You've just experienced information physics guided by energy flow principles.**
+**You've just experienced information dynamics guided by energy flow principles.**
 
 Welcome to a new way of seeing the world. 

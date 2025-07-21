@@ -6,17 +6,17 @@
 
 *"In the beginning was the Word, and the Word was with God, and the Word was God."* - John 1:1
 
-*"In the beginning was Information, and Information was with Physics, and Information was Physics."* - Information Physics
+*"In the beginning was Information, and Information was with Dynamics, and Information was Dynamics."* - Information Dynamics
 
 ---
 
 ## The Ultimate Question
 
-We have journeyed from the electrical circuits of individual minds to the philosophical implications of consciousness as electricity. We have explored how information physics can revolutionize education, transform technology, and heal human communication. But now we face the ultimate question that information physics poses:
+We have journeyed from the electrical circuits of individual minds to the philosophical implications of consciousness as electricity. We have explored how information dynamics can revolutionize education, transform technology, and heal human communication. But now we face the ultimate question that information dynamics poses:
 
 If consciousness involves electrical information processing, and conscious beings are how the universe develops self-knowledge, what might this suggest about the nature of reality?
 
-This question leads to fascinating speculation, though we should be careful not to overextend our electrical metaphor. While information physics provides useful insights into cognitive processes, the nature of reality itself remains an open question in physics and philosophy. Here we'll explore some intriguing possibilities while maintaining appropriate scientific humility.
+This question leads to fascinating speculation, though we should be careful not to overextend our electrical metaphor. While information dynamics provides useful insights into cognitive processes, the nature of reality itself remains an open question in physics and philosophy. Here we'll explore some intriguing possibilities while maintaining appropriate scientific humility.
 
 ## It From Bit
 
@@ -46,9 +46,9 @@ Modern physics increasingly reveals information as fundamental to physical reali
 - **Cosmic evolution:** The universe developing increasing complexity and information processing capability
 - **Anthropic principle:** The universe's properties allowing observers to emerge and study it
 
-### Information Physics as Cosmological Theory
+### Information Dynamics as Cosmological Theory
 
-Information physics suggests that the electrical circuits we observe in brains represent local manifestations of more fundamental informational processes that operate throughout the universe.
+Information dynamics suggests that the electrical circuits we observe in brains represent local manifestations of more fundamental informational processes that operate throughout the universe.
 
 **Universal Computation:**
 If consciousness emerges from electrical information processing, then the universe itself may be computational—a vast information processing system of which conscious brains are highly sophisticated subsystems.
@@ -513,6 +513,6 @@ The journey continues.
 
 *End of Book*
 
-**Information Physics: How Electrical Circuits Think, Feel, and Shape Reality**
+**Information Dynamics: How Electrical Circuits Think, Feel, and Shape Reality**
 
 *A complete exploration of consciousness as electrical information processing and its implications for science, technology, philosophy, and the future of cosmic evolution.* 

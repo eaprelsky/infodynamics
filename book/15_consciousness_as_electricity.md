@@ -14,7 +14,7 @@
 
 ## The Moment of Recognition
 
-There comes a moment in exploring information physics when you might start wondering about deeper implications. If we can model thinking using electrical analogies, what might this suggest about the nature of consciousness itself? Every thought, decision, and emotion does involve electrical activity in the brain—but what does this actually mean?
+There comes a moment in exploring information dynamics when you might start wondering about deeper implications. If we can model thinking using electrical analogies, what might this suggest about the nature of consciousness itself? Every thought, decision, and emotion does involve electrical activity in the brain—but what does this actually mean?
 
 While it's true that your brain operates through electrical signals, and we can model some cognitive processes using circuit analogies, the relationship between electrical activity and conscious experience remains one of the deepest mysteries in science. The inner voice you hear reading these words involves electrical patterns, but the jump from "involves electricity" to "is electricity" requires careful consideration.
 

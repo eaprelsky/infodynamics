@@ -120,8 +120,8 @@ def calculate_info_voltage(content):
 - **Voltage ↔ Sharing Behavior:** r = 0.47, p < 0.001
 - **Voltage ↔ Recall Performance:** r = 0.52, p < 0.001
 
-**Content Virality Prediction:**
-Our voltage model predicts content virality with 73% accuracy (AUC = 0.79).
+**Content Engagement Analysis:**
+Our voltage-like metrics show potential relationships with content engagement, though more validation is needed to establish predictive accuracy.
 
 **🔗 Test Content Virality:** [Notebook 8.4: Information Voltage & Viral Content](../analysis/notebooks/content_virality.ipynb)
 

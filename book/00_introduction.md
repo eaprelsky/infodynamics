@@ -82,7 +82,7 @@ By the end of this book, you might see information differently. You'll explore:
 - Mathematical frameworks that might apply to human communication
 - How ancient wisdom about energy flow might offer useful insights for modern information design
 
-**Important Note:** This book presents a theoretical framework and practical applications. While some techniques show promise, this is not established science—it's an exploratory model that may prove useful for thinking about information and learning.
+**Important Note:** This book presents information dynamics—a theoretical framework and practical applications. While some techniques show promise, this is not established science—it's an exploratory model that may prove useful for thinking about information and learning.
 
 ## A Warning (The Good Kind)
 
@@ -108,4 +108,4 @@ Ready? Let's dive into the most fascinating mystery you've never heard of—one 
 
 *"The worthwhile problems are the ones you can really solve or help solve, the ones you can really contribute something to."* - Richard Feynman
 
-Welcome to Information Dynamics. Let's solve this together. 
+Welcome to Information Dynamics. Let's explore this together. 

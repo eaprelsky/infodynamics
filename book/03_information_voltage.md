@@ -42,4 +42,10 @@ A team of engineers set out to build the impossible: a system that could measure
 
 ---
 
+## Academic Foundation
+
+**Note for Researchers:** The information voltage framework builds on established psychological research, particularly Russell's (1980) circumplex model of affect for emotional components, Berger and Milkman's (2012) empirical research on viral content, and Shannon's (1948) information theory for surprise calculations. See Appendix C: Literature Review for complete academic grounding and citations.
+
+---
+
 *Information voltage isn't just a metaphor. It's the measurable electrical pressure that determines whether your message will be ignored, noticed, or impossible to forget...* 

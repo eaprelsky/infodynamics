@@ -1,6 +1,6 @@
 # Chapter 14: The Future of Human Communication
 
-*How information physics can heal our fractured world*
+*How information dynamics can heal our fractured world*
 
 ---
 
