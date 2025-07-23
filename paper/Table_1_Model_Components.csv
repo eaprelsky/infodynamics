@@ -1,0 +1,10 @@
+Model Component,Theoretical Basis,Correlation with Outcome,Optimized Weight
+G_info: Individual Differences,"Intelligence, Working Memory",0.587***,1.27
+G_info: Attention Focus,"Sustained Attention, Vigilance",0.471***,1.28
+G_info: Cognitive Load,"Task Complexity, Multitasking",-0.274***,0.34
+L_info: Temporal Inductance,"Mental Chronometry, Processing Speed",0.787***,0.38
+L_info: Cognitive Inductance,"Belief Persistence, Cognitive Rigidity",0.711***,0.49
+L_info: Systemic Inductance,Organizational Inertia,0.774***,0.17
+T_eff: Semantic Preservation,"Meaning Retention, Comprehension",0.769***,0.54
+T_eff: Factual Density,"Information Content, Density",0.270***,0.21
+T_eff: Quality Enhancement,"Readability, Usability",0.523***,0.24

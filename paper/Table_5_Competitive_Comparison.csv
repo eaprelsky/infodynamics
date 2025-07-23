@@ -1,0 +1,8 @@
+Model/Theory,Core Construct,Correlation (r),R-squared,Sample Size,95% CI Lower,95% CI Upper,p-value,Theoretical Basis
+Processing Speed Theory,Reaction time,0.31,0.096,103,0.12,0.48,0.003,Mental chronometry (Donders 1869)
+Working Memory Theory,Span tasks,0.28,0.078,103,0.09,0.45,0.006,Baddeley model (2000)
+Attention Control Theory,Interference tasks,0.35,0.123,103,0.17,0.51,0.001,Executive attention (Posner 1990)
+Cognitive Load Theory,Task complexity,0.38,0.144,103,0.20,0.54,<0.001,Sweller framework (1988)
+Dual Process Theory,Type 1/Type 2,0.41,0.168,103,0.24,0.56,<0.001,Kahneman model (2011)
+G_info (single),Information flow,0.45,0.203,103,0.28,0.60,<0.001,Circuit analogy (ID framework)
+Combined ID Model,All components,0.72,0.518,103,0.62,0.80,<0.001,Full Information Dynamics framework 

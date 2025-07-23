@@ -148,6 +148,9 @@ results/
 figures/
 plots/
 
+# Exception: Keep CSV files in paper folder (they are small tables for publication)
+!paper/*.csv
+
 # Temporary analysis files
 temp/
 tmp/

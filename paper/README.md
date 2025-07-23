@@ -27,6 +27,7 @@ This folder contains the complete, submission-ready materials for the Informatio
 - `Table_2_Model_Performance_LaTeX.csv` - LaTeX formatted version
 - `Table_3_Applications.csv` - Practical applications and benefits
 - `Table_4_Statistical_Summary.csv` - Overall validation statistics
+- `Table_5_Competitive_Comparison.csv` - Systematic comparison with established theories
 
 ## 🎨 Figures and Formatting
 
