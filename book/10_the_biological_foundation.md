@@ -4,21 +4,21 @@
 
 ---
 
-## The Question That Changes Everything
+## The Critical Question
 
-The most critical question about information dynamics is one that any skeptical neuroscientist would rightfully ask:
+Any rigorous examination of information dynamics must address a fundamental challenge that skeptical neuroscientists would rightfully raise:
 
 *"Your equations are elegant, but where exactly in a living neuron would we find these information resistors and capacitors? Are you describing genuine biological phenomena, or have you created a sophisticated metaphor that sounds scientific but lacks real substance?"*
 
-This fundamental challenge drove us to examine whether our mathematical framework truly describes biological reality, or whether we had built an elegant theoretical castle in the air.
+This question drove us to examine whether our mathematical framework truly describes biological reality, or whether we had built an elegant theoretical structure without empirical foundation.
 
-Detailed analysis of existing neuroscience literature revealed something extraordinary. Not only do our mathematical components correspond to measurable biological phenomena—they describe the actual electrical and chemical mechanisms that make consciousness possible. The brain doesn't just behave like an electrical circuit; it literally **is** an electrical circuit operating according to the same fundamental laws that govern all electrical systems.
+Analysis of existing neuroscience literature revealed something remarkable. Our mathematical components correspond directly to measurable biological phenomena—they describe the actual electrical and chemical mechanisms that make consciousness possible. The brain doesn't just behave like an electrical circuit; it operates as an electrical circuit following the same fundamental laws that govern all electrical systems.
 
-Understanding this biological foundation transformed information dynamics from abstract theory into concrete neuroscience, revealing consciousness as an emergent property of sophisticated biological electrical networks.
+Understanding this biological foundation grounds information dynamics in concrete neuroscience, revealing consciousness as an emergent property of sophisticated biological electrical networks.
 
-## Neurons as Living Electrical Devices
+## Neurons as Electrical Devices
 
-Understanding how individual neurons function reveals the same sense of awe that engineers feel when they first understand how transistors work. These biological devices operate according to precisely the same electrical principles described in our mathematical framework.
+Individual neurons function according to the same electrical principles described in our mathematical framework, operating with the precision of engineered electrical components.
 
 **The Living Battery:**
 Every neuron maintains an electrical potential of approximately -70 millivolts across its cell membrane. This voltage exists because the membrane functions as a biological battery, using energy to pump sodium ions out and potassium ions in, creating a charge separation that stores electrical energy.
@@ -34,16 +34,10 @@ The neuronal membrane behaves as a capacitor, storing electrical charge through 
 
 This biological capacitance directly implements the information storage properties we had derived mathematically. Large neurons with extensive membrane surface area possess higher capacitance and can integrate information over longer time periods. Small neurons with lower capacitance respond rapidly to changing inputs but have limited storage capacity.
 
-The charging dynamics follow the exponential relationship we predicted:
-
-$$V(t) = V_{final} \times (1 - e^{-t/\tau})$$
-
-Where the time constant τ = R × C depends on both the membrane resistance and capacitance. Neurons with high capacitance "charge" slowly when receiving sustained input, while low-capacitance neurons reach their final voltage quickly.
-
 **Dynamic Resistance:**
-Perhaps most remarkably, neuronal resistance changes dynamically based on the intensity and type of information being processed. Neuroscience literature demonstrates that when neurons receive different patterns of synaptic input, dramatic changes in membrane resistance occur.
+Neuronal resistance changes dynamically based on the intensity and type of information being processed. When neurons receive different patterns of synaptic input, significant changes in membrane resistance occur.
 
-During periods of high cognitive load (simulated by intense, complex stimulation patterns), many voltage-gated ion channels opened simultaneously, reducing membrane resistance and making the neuron more difficult to control precisely. This biological mechanism directly implements the cognitive resistance we observe behaviorally when people struggle with complex or conflicting information.
+During periods of high cognitive load, many voltage-gated ion channels open simultaneously, reducing membrane resistance and making the neuron more responsive but less precise. This biological mechanism directly implements the cognitive resistance we observe behaviorally when people struggle with complex or conflicting information.
 
 ## Synapses as Information Processing Elements
 

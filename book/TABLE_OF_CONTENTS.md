@@ -6,8 +6,8 @@
 ## 📋 Complete Table of Contents
 
 ### **Introduction: The Day Information Became Electric** ✅ *COMPLETED*
-*How I accidentally discovered the physics of thought during morning martial arts practice*
-- The qi that flows through minds
+*How I accidentally discovered the physics of thought through systems thinking*
+- The patterns that flow through minds
 - Why information behaves like electricity
 - What this book will reveal about consciousness
 - The promise and the scientific revolution ahead
@@ -17,10 +17,10 @@
 ## **Part I: The Theory**
 
 ### **Chapter 1: The Lightning Bolt Moment** ✅ *COMPLETED*
-*How a CTO's morning breakthrough revealed the hidden physics of human understanding*
+*How a simple observation revealed the hidden patterns of human understanding*
 - The problem of unequal comprehension
-- The revelation during ushū practice (July 17th)
-- The first validation and dramatic results
+- The breakthrough insight about flow patterns
+- The first validation and significant results
 - The mathematics of understanding: $I_{info} = \frac{U_{info}}{R_{info}}$
 - The scope of the discovery
 

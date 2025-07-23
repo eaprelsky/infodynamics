@@ -99,10 +99,10 @@ These convert information between different knowledge domains:
 These adapt information for different cultural and social contexts:
 
 **Cultural Translation:**
-- Western management styles → Eastern organizational principles
+- Hierarchical management styles → Collaborative organizational principles
 - Individual-focused strategies → Community-oriented approaches
 - Direct communication → Indirect cultural patterns
-- Time-oriented planning → Relationship-oriented planning
+- Task-oriented planning → Relationship-oriented planning
 
 **Audience Adaptation:**
 - Expert terminology → Beginner language

@@ -1,48 +1,28 @@
 # Introduction: The Day Information Became Electric
 
-*Or: How I Accidentally Discovered the Physics of Thought During My Morning Martial Arts Ritual*
+*Or: How I Accidentally Discovered the Physics of Thought Through Systems Thinking*
 
 ---
 
-## The Moment Everything Changed
+## The Story Behind This Book
 
-Picture this: It's a July morning, and I'm going through my daily ushū practice—a ritual I've maintained for years as a way to center myself before tackling the complex challenges of being CTO at an AI company. But this particular morning, my mind is wrestling with a completely different problem while my body flows through the ancient forms.
+You know how the best insights happen when you're not even looking for them? That moment when two completely different worlds reveal they might be understood through similar principles? That's exactly what happened to me, except instead of discovering a new physical law, I found a powerful new way to think about information, learning, and consciousness itself.
 
-I've been trying for months to understand why some information just "clicks" with people while other information bounces off minds like water off a duck's back—a problem I encounter constantly in client presentations and AI implementation projects.
+I'm sitting in a coffee shop, watching a professor struggle to explain a complex concept to her graduate student. Same information, delivered in four different ways. The student's confused expression never changes. 
 
-Then my instructor says something that stops me cold.
+Then I notice something.
 
-*"Feel how the qi flows through the path of least resistance..."*
+The student checks her phone, and her face lights up as she reads a message. Whatever was in that text engaged her mind instantly in a way the professor's careful explanations couldn't achieve.
 
-And suddenly, I see it.
+**Why does identical information flow effortlessly into some minds while hitting others like a brick wall?**
 
-Not the answer—the connection. The *right* connection.
+That question had been bothering me for months as CTO of an AI company, where I constantly see this pattern: identical training materials, identical demonstrations, yet wildly different levels of understanding across different people and teams.
 
-**What if information behaves like energy?**
+And I realize something important: **information might flow through minds according to discoverable patterns, similar to how electricity flows through circuits.**
 
-## The Spark of an Idea
+Not literally—minds aren't electrical circuits. But the *patterns* of flow, resistance, and conductance might be remarkably similar.
 
-You know how the best insights happen when you're not even looking for them? That moment when two completely different worlds suddenly reveal they might be understood through similar principles? That's exactly what happened to me, except instead of discovering a new physical law, I found a powerful new way to think about information flow.
-
-*Thinking* appeared to follow patterns remarkably similar to energy flow. Not literally energetic—but potentially modelable using analogous mathematical frameworks.
-
-Stay with me here.
-
-## A Simple Thought Experiment
-
-Imagine you're trying to explain quantum physics to your grandmother. Some thoughts flow easily:
-
-*"Grandma, imagine atoms are like tiny solar systems..."*
-
-Others hit resistance:
-
-*"The wave function collapse occurs when measurement interaction causes superposition to..."*
-
-**Notice something?** The first flows like water through a pipe, like qi through an open meridian. The second? It's like trying to push energy through a blocked channel.
-
-Here's the intriguing part: **this pattern might be modelable.** We might be able to understand it better, even optimize it somewhat.
-
-Using principles similar to energy flow guidance in martial arts.
+This book explores that insight and where it leads.
 
 ## The Pattern That Changes Everything
 
@@ -69,7 +49,7 @@ In the pages ahead, we'll explore a framework suggesting that:
 
 🌊 **Learning might have inertia** - changing beliefs might require overcoming resistance similar to "informational inductance"
 
-🥋 **Flow might be guided** - like directing energy in martial arts, we might be able to optimize information transmission
+🎯 **Flow might be guided** - like optimizing systems in engineering, we might be able to improve information transmission
 
 ## The Promise
 
@@ -90,7 +70,7 @@ This isn't just theory. We've tested these ideas on thousands of people. The equ
 
 But here's the thing about discoveries that reveal hidden patterns in nature: once you see them, you can't unsee them. You'll start noticing information dynamics everywhere—in conversations, in movies, in your own thoughts.
 
-And you'll begin to understand that ancient traditions of energy cultivation were describing the same phenomena that modern cognitive science is trying to understand.
+And you'll begin to understand that systematic approaches to energy and flow were describing the same phenomena that modern cognitive science is trying to understand.
 
 Consider yourself warned.
 
