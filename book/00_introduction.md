@@ -88,7 +88,7 @@ By the end of this book, you might see information differently. You'll explore:
 
 This isn't just theory. We've tested these ideas on thousands of people. The equations work. The predictions come true. The applications are already changing how we teach, design technology, and communicate.
 
-But here's the thing about discoveries that reveal hidden patterns in nature: once you see them, you can't unsee them. You'll start noticing information physics everywhere—in conversations, in movies, in your own thoughts.
+But here's the thing about discoveries that reveal hidden patterns in nature: once you see them, you can't unsee them. You'll start noticing information dynamics everywhere—in conversations, in movies, in your own thoughts.
 
 And you'll begin to understand that ancient traditions of energy cultivation were describing the same phenomena that modern cognitive science is trying to understand.
 

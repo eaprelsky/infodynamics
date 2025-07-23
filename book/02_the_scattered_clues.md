@@ -13,14 +13,14 @@
 ```{epigraph}
 "The giants whose shoulders we stand on had glimpsed the electrical nature of cognition, but lacked the theoretical framework to unify their discoveries."
 
--- Information Physics
+-- Information Dynamics
 ```
 
 ---
 
 The history of cognitive science reads like a detective story. For decades, brilliant researchers made discoveries that seemed unrelated at the time, but which we now recognize as pieces of a much larger puzzle. Each breakthrough identified a component of what we now understand as cognitive electrical circuits—voltage, resistance, capacitance, and inductance—without anyone realizing they were mapping the electrical architecture of the mind.
 
-This chapter traces the scattered clues that led to information physics. We'll meet the scientists who discovered the mathematical laws governing how information flows through cognitive systems, and see how their seemingly unconnected insights actually reveal the electrical nature of consciousness itself.
+This chapter traces the scattered clues that led to information dynamics. We'll meet the scientists who discovered the mathematical laws governing how information flows through cognitive systems, and see how their seemingly unconnected insights actually reveal the electrical nature of consciousness itself.
 
 What emerges is a remarkable story: generation after generation of researchers independently discovered the same electrical principles that govern electronic circuits, but found them operating in the realm of human thought and emotion.
 

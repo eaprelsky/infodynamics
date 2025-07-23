@@ -3,7 +3,7 @@
 
 *"The moment of truth for any scientific theory comes when you feed real data into your beautiful equations and discover whether the universe actually works the way you think it does."*
 
-In developing our information physics framework, we faced an important challenge: testing whether electrical circuit analogies could provide useful insights into cognitive performance patterns. We had developed mathematical equations describing information "voltage," cognitive "resistance," and mental "conductance." But would these metaphorical models offer any practical value for understanding how people think, learn, and perform?
+In developing our information dynamics framework, we faced an important challenge: testing whether electrical circuit analogies could provide useful insights into cognitive performance patterns. We had developed mathematical equations describing information "voltage," cognitive "resistance," and mental "conductance." But would these metaphorical models offer any practical value for understanding how people think, learn, and perform?
 
 After developing the theoretical framework, we wanted to explore whether it could generate useful predictions. Our goal was modest—to see if circuit-based thinking might reveal interesting patterns in existing cognitive data, not to prove a fundamental law of consciousness.
 
@@ -13,7 +13,7 @@ We analyzed several publicly available cognitive datasets to explore correlation
 
 ### Why We Wanted to Test the Framework
 
-Our information physics framework generated several testable hypotheses about human cognition:
+Our information dynamics framework generated several testable hypotheses about human cognition:
 
 1. **Individual differences in information "conductance"** might correlate with performance across cognitive domains
 2. **Information "voltage"** from surprise, relevance, and engagement might relate to cognitive engagement
@@ -75,11 +75,11 @@ The Stanford Self-Regulation Study dataset includes data from 1,247 participants
 - **Error patterns**: Types and frequencies of cognitive mistakes
 - **Individual differences**: Stable patterns across tasks and conditions
 
-Each task provided multiple dependent variables, giving us dozens of opportunities to test whether our information physics equations could predict real cognitive performance.
+Each task provided multiple dependent variables, giving us dozens of opportunities to test whether our information dynamics equations could predict real cognitive performance.
 
 ### Our Calculation Logic: From Theory to Measurement
 
-Converting our theoretical framework into empirical predictions required developing operational definitions for each information physics component:
+Converting our theoretical framework into empirical predictions required developing operational definitions for each information dynamics component:
 
 **Information Conductance (G_info) Calculation**:
 ```python
@@ -154,7 +154,7 @@ def estimate_V_info(participant_data, task_characteristics):
 
 ### Our Validation Results: Theory Meets Reality
 
-When we applied our information physics equations to the Stanford dataset, the results provided strong empirical support for our theoretical framework:
+When we applied our information dynamics equations to the Stanford dataset, the results provided strong empirical support for our theoretical framework:
 
 **Primary Validation Results**:
 
@@ -236,7 +236,7 @@ Building on our Stanford success, we extended validation to the **Human Connecto
 
 ### Educational Dataset Analysis (In Progress)
 
-We are currently analyzing large-scale educational datasets to test whether information physics principles predict learning outcomes:
+We are currently analyzing large-scale educational datasets to test whether information dynamics principles predict learning outcomes:
 
 **PISA International Assessment Data**:
 - **Sample**: 600,000+ students across 79 countries
@@ -252,7 +252,7 @@ We are currently analyzing large-scale educational datasets to test whether info
 
 ### Corporate Performance Prediction
 
-We analyzed communication patterns in 47 Fortune 500 companies to test organizational information physics:
+We analyzed communication patterns in 47 Fortune 500 companies to test organizational information dynamics:
 
 **Organizational Results**:
 - **Information flow efficiency**: Predicted financial performance with r = 0.67
@@ -268,9 +268,9 @@ Preliminary clinical validation shows promise for diagnostic applications:
 - **Depression**: Voltage regulation deficits in emotional information processing
 - **Cognitive rehabilitation**: G_info predicts treatment response with 73% accuracy
 
-## Implications: Information Physics as Validated Science
+## Implications: Information Dynamics as Validated Science
 
-Our comprehensive empirical validation demonstrates that information physics represents more than elegant theory—it describes measurable, universal properties of human consciousness that can be:
+Our comprehensive empirical validation demonstrates that information dynamics represents more than elegant theory—it describes measurable, universal properties of human consciousness that can be:
 
 **Quantified**: Information conductance, resistance, and voltage can be measured reliably from behavioral data
 
@@ -280,7 +280,7 @@ Our comprehensive empirical validation demonstrates that information physics rep
 
 **Applied**: Principles guide practical interventions in education, organizations, and clinical settings
 
-The validation results establish information physics as an empirically supported framework for understanding and optimizing human cognitive performance.
+The validation results establish information dynamics as an empirically supported framework for understanding and optimizing human cognitive performance.
 
 ## Chapter Sections: Our Complete Validation Journey
 
@@ -288,11 +288,11 @@ This chapter details our systematic approach to empirical validation through fou
 
 **[9.1 Stanford Dataset Analysis](09_01_individual_validation.md)**: Detailed methodology and results from our primary validation using the Stanford Self-Regulation Study, including calculation logic, statistical analyses, and interpretation of findings.
 
-**[9.2 Neural Correlates Validation](09_02_neural_validation.md)**: Brain imaging validation using Human Connectome Project data, showing how information physics principles correspond to measurable neural mechanisms and network properties.
+**[9.2 Neural Correlates Validation](09_02_neural_validation.md)**: Brain imaging validation using Human Connectome Project data, showing how information dynamics principles correspond to measurable neural mechanisms and network properties.
 
 **[9.3 Educational Systems Validation](09_03_educational_validation.md)**: Large-scale validation across educational datasets including PISA, Khan Academy, and university learning analytics, demonstrating universal learning principles.
 
-**[9.4 Organizational Intelligence Validation](09_04_organizational_validation.md)**: Corporate and team performance studies showing how information physics principles scale from individual minds to collective intelligence systems.
+**[9.4 Organizational Intelligence Validation](09_04_organizational_validation.md)**: Corporate and team performance studies showing how information dynamics principles scale from individual minds to collective intelligence systems.
 
 ## The Scientific Foundation
 

@@ -8,7 +8,7 @@
 
 We live in an age of unprecedented connectivity yet profound misunderstanding. Despite having instant access to global communication networks, human societies seem increasingly polarized, fragmented, and unable to reach consensus on even basic facts. Political discourse has devolved into tribalistic warfare. Organizations struggle with chronic miscommunication. Families argue over information they consume from different sources.
 
-Information physics reveals that our communication crisis stems from a fundamental misunderstanding of how information flows through human cognitive circuits. We've built massive information distribution systems without considering the electrical characteristics of the minds receiving that information. We've created echo chambers, filter bubbles, and amplification networks that exploit rather than optimize cognitive circuit behavior.
+Information dynamics reveals that our communication crisis stems from a fundamental misunderstanding of how information flows through human cognitive circuits. We've built massive information distribution systems without considering the electrical characteristics of the minds receiving that information. We've created echo chambers, filter bubbles, and amplification networks that exploit rather than optimize cognitive circuit behavior.
 
 But the same principles that explain our current dysfunction also point toward solutions. When we understand human communication as electrical circuits operating according to mathematical laws, we can engineer better outcomes. We can design information environments that promote understanding rather than division. We can create communication protocols that bridge rather than widen cognitive differences.
 
@@ -136,7 +136,7 @@ Technology designed to support healthy collective decision-making:
 
 ## Organizational Communication Evolution
 
-Information physics enables a complete reimagining of how organizations share knowledge, make decisions, and coordinate action.
+Information dynamics enables a complete reimagining of how organizations share knowledge, make decisions, and coordinate action.
 
 ### Impedance-Matched Corporate Communication
 
@@ -156,7 +156,7 @@ Redesigning group communication based on cognitive circuit principles:
 - **Follow-up optimization:** Post-meeting communication designed to ensure understanding and retention
 
 **Knowledge Transfer Engineering:**
-Systematic approaches to organizational learning based on information physics:
+Systematic approaches to organizational learning based on information dynamics:
 - **Expertise impedance mapping:** Understanding how knowledge flows between different types of specialists
 - **Learning pathway optimization:** Designing training programs based on individual cognitive circuit characteristics
 - **Institutional memory preservation:** Systems that capture and transfer knowledge in cognitively optimal formats
@@ -180,11 +180,11 @@ Information flow architectures optimized for long-term organizational success:
 
 ## The Global Communication Revolution
 
-Information physics principles can be scaled to address humanity's greatest communication challenges, from international diplomacy to global crisis response.
+Information dynamics principles can be scaled to address humanity's greatest communication challenges, from international diplomacy to global crisis response.
 
 ### International Cognitive Diplomacy
 
-Traditional diplomacy assumes that logical argument and mutual benefit recognition will lead to agreement. Information physics reveals why this often fails and suggests better approaches.
+Traditional diplomacy assumes that logical argument and mutual benefit recognition will lead to agreement. Information dynamics reveals why this often fails and suggests better approaches.
 
 **Cultural Impedance Analysis:**
 Understanding how different cultures process information differently:
@@ -209,7 +209,7 @@ Systematic approaches to international dispute resolution based on cognitive cir
 
 ### Global Crisis Communication
 
-Major global challenges—pandemics, climate change, economic instability—require unprecedented levels of international coordination. Information physics can help design communication systems capable of supporting such coordination.
+Major global challenges—pandemics, climate change, economic instability—require unprecedented levels of international coordination. Information dynamics can help design communication systems capable of supporting such coordination.
 
 **Emergency Information Networks:**
 Communication systems optimized for rapid, accurate information dissemination during crises:
@@ -286,7 +286,7 @@ Cognitive engineering should promote human flourishing at both individual and so
 
 ## Building the Understanding Society
 
-The ultimate goal of information physics is not just better communication technology, but a fundamental transformation in how humans understand and relate to each other.
+The ultimate goal of information dynamics is not just better communication technology, but a fundamental transformation in how humans understand and relate to each other.
 
 ### Educational Transformation
 
@@ -338,16 +338,16 @@ The possibility of creating collective human intelligence that transcends indivi
 
 ## The Choice Before Us
 
-Information physics gives humanity unprecedented power to shape how we think, communicate, and understand each other. Like all powerful technologies, it can be used for either human flourishing or exploitation.
+Information dynamics gives humanity unprecedented power to shape how we think, communicate, and understand each other. Like all powerful technologies, it can be used for either human flourishing or exploitation.
 
 **The Dystopian Path:**
-- **Cognitive manipulation:** Using information physics to exploit rather than enhance human thinking
+- **Cognitive manipulation:** Using information dynamics to exploit rather than enhance human thinking
 - **Social fragmentation:** Creating isolated echo chambers that prevent collective understanding
 - **Democratic degradation:** Undermining the cognitive foundations of self-governance
 - **Human diminishment:** Replacing human thinking with artificial systems rather than augmenting it
 
 **The Flourishing Path:**
-- **Cognitive enhancement:** Using information physics to help people think more clearly and effectively
+- **Cognitive enhancement:** Using information dynamics to help people think more clearly and effectively
 - **Social connection:** Creating communication systems that bridge differences and build understanding
 - **Democratic strengthening:** Improving collective decision-making and citizen participation
 - **Human augmentation:** Enhancing natural human capabilities while preserving autonomy and dignity
@@ -364,7 +364,7 @@ We need:
 
 ## The Communication Revolution Begins
 
-The transformation of human communication through information physics will not happen overnight, but it has already begun. Every time someone designs an interface with cognitive principles in mind, every time an organization adopts communication protocols based on cognitive diversity, every time a community creates information systems that bring people together rather than driving them apart—the revolution advances.
+The transformation of human communication through information dynamics will not happen overnight, but it has already begun. Every time someone designs an interface with cognitive principles in mind, every time an organization adopts communication protocols based on cognitive diversity, every time a community creates information systems that bring people together rather than driving them apart—the revolution advances.
 
 **What You Can Do:**
 - **Learn cognitive communication:** Develop skills for adapting your communication style to different cognitive preferences
@@ -385,7 +385,7 @@ If we make wise choices about cognitive engineering, we can create a world where
 
 *"The single biggest problem in communication is the illusion that it has taken place."* - George Bernard Shaw
 
-*"Information physics turns communication from illusion into engineering, from accident into intention, from division into connection."* - The Future of Understanding
+*"Information dynamics turns communication from illusion into engineering, from accident into intention, from division into connection."* - The Future of Understanding
 
 ---
 
@@ -395,14 +395,14 @@ As you navigate your daily communication—in person, online, and through media�
 
 You are living through the early stages of a communication revolution that will transform human civilization. The choices you make about how to communicate, what information to share, and which communication systems to support will help determine whether this transformation enhances human flourishing or undermines it.
 
-The future of human communication—and perhaps the future of humanity itself—depends on our collective wisdom in applying the insights of information physics to build a more understanding world.
+The future of human communication—and perhaps the future of humanity itself—depends on our collective wisdom in applying the insights of information dynamics to build a more understanding world.
 
-We have now explored the complete practical landscape of information physics: how it can revolutionize education, transform technology interfaces, and heal human communication. But these applications raise profound questions about the nature of consciousness, reality, and human existence itself. 
+We have now explored the complete practical landscape of information dynamics: how it can revolutionize education, transform technology interfaces, and heal human communication. But these applications raise profound questions about the nature of consciousness, reality, and human existence itself. 
 
-In our final section, we turn to these deeper philosophical implications. What does it mean for human consciousness to follow electrical laws? How does information physics change our understanding of free will, identity, and the nature of reality? If consciousness is electricity, what happens to human meaning, dignity, and purpose? These are the ultimate questions that information physics forces us to confront—questions that may reshape not just how we think about minds, but how we think about existence itself.
+In our final section, we turn to these deeper philosophical implications. What does it mean for human consciousness to follow electrical laws? How does information dynamics change our understanding of free will, identity, and the nature of reality? If consciousness is electricity, what happens to human meaning, dignity, and purpose? These are the ultimate questions that information dynamics forces us to confront—questions that may reshape not just how we think about minds, but how we think about existence itself.
 
 ---
 
 ## Implementation Note
 
-The communication transformation approaches described in this chapter represent theoretical applications of information physics principles rather than implemented systems. While research in cognitive science and communication supports many of these concepts, practical development requires careful attention to ethical considerations, democratic values, and human autonomy. Communication system design should prioritize human agency, cultural diversity, and truth-seeking while preventing manipulation and exploitation. The goal is enhancing rather than replacing human judgment and understanding. 
+The communication transformation approaches described in this chapter represent theoretical applications of information dynamics principles rather than implemented systems. While research in cognitive science and communication supports many of these concepts, practical development requires careful attention to ethical considerations, democratic values, and human autonomy. Communication system design should prioritize human agency, cultural diversity, and truth-seeking while preventing manipulation and exploitation. The goal is enhancing rather than replacing human judgment and understanding. 

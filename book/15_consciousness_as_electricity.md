@@ -8,7 +8,7 @@
 
 *"The most incomprehensible thing about the universe is that it is comprehensible."* - Albert Einstein
 
-*"The most incomprehensible thing about consciousness is that it follows the same laws as the rest of the universe."* - Information Physics
+*"The most incomprehensible thing about consciousness is that it follows the same laws as the rest of the universe."* - Information Dynamics
 
 ---
 
@@ -43,14 +43,14 @@ This isn't just a philosophical curiosity—it has practical implications for ho
 **The Explanatory Gap:**
 Even with complete knowledge of brain electrical activity, a fundamental question remains: why should there be any subjective experience at all? Why doesn't information processing happen "in the dark" without consciousness?
 
-Information physics provides mathematical descriptions of cognitive processes but doesn't fully explain why those processes feel like anything from the inside. The transition from electrical activity to subjective experience remains one of the deepest mysteries in science.
+Information dynamics provides mathematical descriptions of cognitive processes but doesn't fully explain why those processes feel like anything from the inside. The transition from electrical activity to subjective experience remains one of the deepest mysteries in science.
 
 ### The Unity Problem
 
 Consciousness feels unified and coherent despite emerging from billions of separate electrical processes occurring simultaneously across the brain. How does this distributed electrical activity create the singular experience of being a conscious self?
 
 **Electrical Binding Theory:**
-Information physics suggests that conscious unity emerges from synchronized electrical oscillations that bind distributed brain activity into coherent patterns. Different aspects of experience—visual, auditory, emotional, conceptual—are processed by separate brain regions but unified through synchronized electrical rhythms.
+Information dynamics suggests that conscious unity emerges from synchronized electrical oscillations that bind distributed brain activity into coherent patterns. Different aspects of experience—visual, auditory, emotional, conceptual—are processed by separate brain regions but unified through synchronized electrical rhythms.
 
 The mathematical framework predicts:
 $$\text{Conscious Unity} = f(\text{Synchronization}, \text{Integration}, \text{Coherence})$$
@@ -68,7 +68,7 @@ If consciousness follows electrical laws, and electrical laws are deterministic,
 
 ### The Determinism Challenge
 
-Information physics reveals that cognitive processes follow mathematical relationships as precise as those governing planetary motion or chemical reactions. Given sufficient knowledge of initial conditions and circuit parameters, the theory suggests that thoughts, decisions, and behaviors should be predictable in principle.
+Information dynamics reveals that cognitive processes follow mathematical relationships as precise as those governing planetary motion or chemical reactions. Given sufficient knowledge of initial conditions and circuit parameters, the theory suggests that thoughts, decisions, and behaviors should be predictable in principle.
 
 **The Mathematical Expression:**
 At any moment, the next state of consciousness can theoretically be calculated from current electrical conditions:
@@ -82,7 +82,7 @@ If decisions emerge from electrical activity, and electrical activity follows ph
 
 ### Emergent Freedom
 
-However, information physics also suggests a more nuanced understanding of freedom that transcends the simple determinism vs. free will dichotomy.
+However, information dynamics also suggests a more nuanced understanding of freedom that transcends the simple determinism vs. free will dichotomy.
 
 **Levels of Description:**
 While consciousness may be deterministic at the electrical level, it exhibits genuinely emergent properties at higher levels of organization. Just as fluid dynamics emerges from but cannot be reduced to molecular motion, conscious choice emerges from but cannot be reduced to electrical activity.
@@ -97,7 +97,7 @@ Conscious systems have the unique property of being able to observe and modify t
 
 ### Compatibilist Freedom
 
-Information physics suggests a compatibilist understanding of free will: freedom is not the absence of causation but the right kind of causation flowing through the right kind of system.
+Information dynamics suggests a compatibilist understanding of free will: freedom is not the absence of causation but the right kind of causation flowing through the right kind of system.
 
 **Authentic Choice:**
 A choice is free when it emerges from electrical processes that:
@@ -119,7 +119,7 @@ If consciousness is electrical activity, what makes you "you" over time? How doe
 
 ### The Ship of Theseus Problem
 
-Traditional philosophy asks: if a ship has all its parts gradually replaced, is it still the same ship? Information physics poses an analogous question: if your brain's electrical patterns are constantly changing, are you still the same person?
+Traditional philosophy asks: if a ship has all its parts gradually replaced, is it still the same ship? Information dynamics poses an analogous question: if your brain's electrical patterns are constantly changing, are you still the same person?
 
 **Electrical Continuity Theory:**
 One answer is that personal identity consists in the continuity of electrical patterns. You are the same person because your current electrical activity is causally connected to your past electrical activity through an unbroken chain of electrical state transitions.
@@ -137,7 +137,7 @@ Perhaps the most robust account is that identity emerges from the electrical sys
 
 ### The Multiple Selves Problem
 
-Information physics reveals that what we call "self" may actually be multiple electrical subsystems operating with varying degrees of coordination and sometimes conflicting goals.
+Information dynamics reveals that what we call "self" may actually be multiple electrical subsystems operating with varying degrees of coordination and sometimes conflicting goals.
 
 **Competing Neural Networks:**
 Different brain networks implement different aspects of selfhood:
@@ -161,10 +161,10 @@ Even with complete understanding of the electrical basis of consciousness, we fa
 
 ### The Phenomenal Question
 
-Information physics can explain the functional aspects of consciousness—how electrical circuits process information, make decisions, and control behavior. But it doesn't immediately explain why there should be qualitative, subjective experience (qualia) associated with these electrical processes.
+Information dynamics can explain the functional aspects of consciousness—how electrical circuits process information, make decisions, and control behavior. But it doesn't immediately explain why there should be qualitative, subjective experience (qualia) associated with these electrical processes.
 
 **Why Experience Exists:**
-Several possibilities emerge from information physics:
+Several possibilities emerge from information dynamics:
 
 **Integrated Information Theory:** Consciousness may be identical to integrated information—the amount of information generated by a system above and beyond its parts. Electrical circuits that integrate information in complex ways may necessarily generate subjective experience.
 
@@ -197,7 +197,7 @@ This gap might be:
 
 ## Consciousness in the Physical Universe
 
-Information physics places consciousness squarely within the natural world, suggesting that conscious experience is as much a part of physical reality as gravity, electromagnetism, or chemical reactions.
+Information dynamics places consciousness squarely within the natural world, suggesting that conscious experience is as much a part of physical reality as gravity, electromagnetism, or chemical reactions.
 
 ### The Emergence Hierarchy
 
@@ -223,7 +223,7 @@ Multiple conscious systems interacting and sharing information. Potential for co
 
 ### The Continuity Principle
 
-Information physics suggests consciousness exists on a continuum rather than being an all-or-nothing property. Different electrical systems may possess different degrees and types of conscious experience.
+Information dynamics suggests consciousness exists on a continuum rather than being an all-or-nothing property. Different electrical systems may possess different degrees and types of conscious experience.
 
 **Minimal Consciousness:**
 Simple electrical systems with limited integration might possess minimal conscious experience—perhaps single sensations or emotions without complex thought or self-awareness.
@@ -267,7 +267,7 @@ Reality operates at multiple levels simultaneously. The electrical level provide
 You are simultaneously:
 - A collection of atoms following quantum mechanical laws
 - A biological organism following evolutionary principles
-- An electrical system following information physics principles
+- An electrical system following information dynamics principles
 - A psychological agent with beliefs, desires, and emotions
 - A social being embedded in cultural relationships
 - A conscious entity capable of love, creativity, and meaning
@@ -297,7 +297,7 @@ With understanding comes responsibility. If consciousness is the most complex an
 
 ## The Future of Conscious Existence
 
-Information physics opens new possibilities for the future evolution of consciousness that extend far beyond current human limitations.
+Information dynamics opens new possibilities for the future evolution of consciousness that extend far beyond current human limitations.
 
 ### Technological Enhancement
 
@@ -366,7 +366,7 @@ These developments require new ethical frameworks for:
 
 ## The Philosophical Revolution
 
-Information physics doesn't just change how we understand consciousness—it potentially transforms fundamental philosophical questions about reality, knowledge, and existence.
+Information dynamics doesn't just change how we understand consciousness—it potentially transforms fundamental philosophical questions about reality, knowledge, and existence.
 
 ### The Mind-Body Problem
 
@@ -455,7 +455,7 @@ Understanding consciousness as electricity creates obligations for how we use ou
 
 *"What we observe is not nature itself, but nature exposed to our method of questioning."* - Werner Heisenberg
 
-*"What we discover is not consciousness itself, but consciousness exposed to our method of understanding. And what we find is that consciousness is nature's most sophisticated electrical creation—including the very electrical activity that enables this discovery."* - Information Physics
+*"What we discover is not consciousness itself, but consciousness exposed to our method of understanding. And what we find is that consciousness is nature's most sophisticated electrical creation—including the very electrical activity that enables this discovery."* - Information Dynamics
 
 ---
 
@@ -467,10 +467,10 @@ Yet this understanding doesn't diminish the reality of your experience. If anyth
 
 You are both a deterministic electrical system and a free agent, both a biological machine and a conscious being, both a collection of circuits and a unified self. These are not contradictions but different levels of description of the same remarkable reality.
 
-In our final chapter, we'll explore how information physics fits into the largest questions about reality, information, and the ultimate nature of existence itself.
+In our final chapter, we'll explore how information dynamics fits into the largest questions about reality, information, and the ultimate nature of existence itself.
 
 ---
 
 ## Philosophical Note
 
-The philosophical implications discussed in this chapter represent one perspective on the deep questions raised by information physics. These are complex issues with long histories in philosophy, neuroscience, and cognitive science. The electrical understanding of consciousness provides new tools for thinking about these questions, but it doesn't resolve all philosophical debates. Critical engagement with these ideas, including skeptical examination of their assumptions and implications, is essential for making progress on these fundamental questions about the nature of mind and reality. 
+The philosophical implications discussed in this chapter represent one perspective on the deep questions raised by information dynamics. These are complex issues with long histories in philosophy, neuroscience, and cognitive science. The electrical understanding of consciousness provides new tools for thinking about these questions, but it doesn't resolve all philosophical debates. Critical engagement with these ideas, including skeptical examination of their assumptions and implications, is essential for making progress on these fundamental questions about the nature of mind and reality. 

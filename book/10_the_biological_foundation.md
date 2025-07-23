@@ -6,7 +6,7 @@
 
 ## The Question That Changes Everything
 
-The most critical question about information physics is one that any skeptical neuroscientist would rightfully ask:
+The most critical question about information dynamics is one that any skeptical neuroscientist would rightfully ask:
 
 *"Your equations are elegant, but where exactly in a living neuron would we find these information resistors and capacitors? Are you describing genuine biological phenomena, or have you created a sophisticated metaphor that sounds scientific but lacks real substance?"*
 
@@ -14,7 +14,7 @@ This fundamental challenge drove us to examine whether our mathematical framewor
 
 Detailed analysis of existing neuroscience literature revealed something extraordinary. Not only do our mathematical components correspond to measurable biological phenomena—they describe the actual electrical and chemical mechanisms that make consciousness possible. The brain doesn't just behave like an electrical circuit; it literally **is** an electrical circuit operating according to the same fundamental laws that govern all electrical systems.
 
-Understanding this biological foundation transformed information physics from abstract theory into concrete neuroscience, revealing consciousness as an emergent property of sophisticated biological electrical networks.
+Understanding this biological foundation transformed information dynamics from abstract theory into concrete neuroscience, revealing consciousness as an emergent property of sophisticated biological electrical networks.
 
 ## Neurons as Living Electrical Devices
 
@@ -196,7 +196,7 @@ $$\frac{d}{dt}(R, L, C) = f(\text{Activity}, \text{Neuromodulation}, \text{Gene 
 
 ## Clinical Validation: When Circuits Fail
 
-Understanding information physics as biological electrical phenomena helps explain various neurological and psychiatric conditions as circuit dysfunctions.
+Understanding information dynamics as biological electrical phenomena helps explain various neurological and psychiatric conditions as circuit dysfunctions.
 
 **Depression: Voltage Regulation Failure:**
 Major depression involves reduced dopamine and serotonin signaling, which decreases the voltage of information related to reward and pleasure. PET scans show reduced metabolic activity in reward circuits, confirming the biological basis of reduced information voltage.
@@ -217,7 +217,7 @@ Every equation in our theoretical framework has direct biological correlates:
 - Information capacitance reflects membrane properties and vesicle pool dynamics  
 - Neural inductance emerges from network connectivity and oscillatory dynamics
 
-This biological foundation provides confidence that information physics captures fundamental principles governing consciousness rather than superficial analogies. The equations describing information flow through minds are the same equations describing electrical flow through the living circuits of neural networks.
+This biological foundation provides confidence that information dynamics captures fundamental principles governing consciousness rather than superficial analogies. The equations describing information flow through minds are the same equations describing electrical flow through the living circuits of neural networks.
 
 Understanding consciousness as an electrical phenomenon opens extraordinary possibilities. We can design interventions that optimize biological circuit parameters. We can develop technologies that interface directly with neural electrical systems. We can understand mental phenomena as emergent properties of sophisticated biological computers operating according to fundamental electrical laws.
 

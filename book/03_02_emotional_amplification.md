@@ -10,9 +10,9 @@ The UNICEF study examined how 70 participants (aged 65-79) responded to differen
 
 Their findings showed that participants who experienced high emotional arousal demonstrated significantly increased Approach-Withdrawal Index (AWI) values and skin conductance responses. Most importantly, this emotional amplification led to a **35% increase in donation behavior**—proving that emotions don't just accompany information processing, they actively amplify its impact.
 
-## The Information Physics Behind Emotional Amplification
+## The Information Dynamics Behind Emotional Amplification
 
-The UNICEF research demonstrates what we theorize in information physics: emotions act as voltage amplifiers in the human cognitive circuit. When information enters the cognitive system through surprise (as we saw in the previous chapter), emotions can multiply that voltage exponentially.
+The UNICEF research demonstrates what we theorize in information dynamics: emotions act as voltage amplifiers in the human cognitive circuit. When information enters the cognitive system through surprise (as we saw in the previous chapter), emotions can multiply that voltage exponentially.
 
 The mathematical relationship follows the amplification principle:
 

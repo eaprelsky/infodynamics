@@ -2,13 +2,13 @@
 
 *"The best designs are not just functional—they are elegant, efficient, and achieve breakthrough performance through deep understanding of fundamental principles."*
 
-The highest level of information physics mastery involves designing complete cognitive systems that integrate all five electrical principles—voltage, resistance, capacitance, conductance, and inductance—into architectures that achieve breakthrough performance. Rather than optimizing individual components in isolation, master designers engineer the information flow dynamics of entire systems.
+The highest level of information dynamics mastery involves designing complete cognitive systems that integrate all five electrical principles—voltage, resistance, capacitance, conductance, and inductance—into architectures that achieve breakthrough performance. Rather than optimizing individual components in isolation, master designers engineer the information flow dynamics of entire systems.
 
 This represents a fundamental shift from traditional approaches that focus on content, methods, or technology. Instead, complete cognitive architecture design treats every learning environment, communication system, or organizational structure as a sophisticated electrical information processing network that can be systematically optimized for maximum effectiveness.
 
 ## Revolutionary Educational Architecture
 
-**Stanford's Human-Centered AI Institute** exemplifies how complete cognitive system design can transform educational outcomes. Rather than adding new courses to existing curricula, the institute designed an integrated learning ecosystem based on information physics principles that achieved learning outcomes exceeding traditional approaches by 300-400%.
+**Stanford's Human-Centered AI Institute** exemplifies how complete cognitive system design can transform educational outcomes. Rather than adding new courses to existing curricula, the institute designed an integrated learning ecosystem based on information dynamics principles that achieved learning outcomes exceeding traditional approaches by 300-400%.
 
 **The integrated electrical design** treated the entire educational experience as a sophisticated information processing circuit with five synchronized components working in harmony. **Voltage systems** created sustained high-energy information environments through real-world challenges that directly impacted student career goals (maximum relevance), breakthrough research discoveries that surprised even faculty experts (continuous surprise), and emotional engagement through technology's potential to solve humanity's greatest challenges (deep motivation).
 
@@ -26,7 +26,7 @@ As Li documented: "We discovered that educational breakthrough doesn't come from
 
 ## The Netflix Recommendation Revolution: Cognitive Architecture at Scale
 
-**Netflix's recommendation system** represents perhaps the most successful application of complete cognitive architecture design to information processing at global scale. **Dr. Carlos Gomez-Uribe**, Netflix's former VP of Product Innovation, led the team that transformed Netflix from a DVD rental service into the world's most successful streaming platform through systematic application of information physics principles.
+**Netflix's recommendation system** represents perhaps the most successful application of complete cognitive architecture design to information processing at global scale. **Dr. Carlos Gomez-Uribe**, Netflix's former VP of Product Innovation, led the team that transformed Netflix from a DVD rental service into the world's most successful streaming platform through systematic application of information dynamics principles.
 
 [Netflix's engineering approach, documented in ACM Transactions on Management Information Systems](https://dl.acm.org/doi/10.1145/3449142), demonstrated how complete cognitive system design could create user experiences that achieve unprecedented engagement and satisfaction levels.
 
@@ -48,7 +48,7 @@ More importantly, Netflix's cognitive architecture approach became the template 
 
 **NASA's Apollo Program** provided perhaps the most demanding test of complete cognitive system design under life-and-death pressure. **Dr. Christopher Kraft**, NASA's first flight director, faced the unprecedented challenge of coordinating thousands of engineers, scientists, and technicians in real-time decision-making that would determine astronaut survival and mission success.
 
-[Kraft's cognitive architecture approach, analyzed in IEEE Aerospace and Electronic Systems Magazine](https://ieeexplore.ieee.org/document/7927234), demonstrated how information physics principles could create cognitive systems capable of processing enormous complexity while maintaining perfect reliability.
+[Kraft's cognitive architecture approach, analyzed in IEEE Aerospace and Electronic Systems Magazine](https://ieeexplore.ieee.org/document/7927234), demonstrated how information dynamics principles could create cognitive systems capable of processing enormous complexity while maintaining perfect reliability.
 
 **Apollo's Voltage Design** created maximum information energy through mission-critical relevance where every decision directly impacted astronaut safety and national objectives (ultimate relevance), continuous surprising discoveries about spacecraft performance and space environment (high surprise), and intense emotional engagement through shared commitment to human space exploration (maximum motivation).
 
@@ -66,7 +66,7 @@ The Apollo cognitive architecture achieved perfect mission success under conditi
 
 The same principles that create breakthrough organizational performance can be applied to individual cognitive system design. **Dr. Anders Ericsson's research at Florida State University** on deliberate practice provided the foundation for personal cognitive architecture optimization.
 
-[Ericsson's framework, published in Psychological Review](https://psycnet.apa.org/record/1993-40718-001), demonstrated how individuals could engineer their own cognitive systems to achieve expert-level performance in any domain through systematic application of information physics principles.
+[Ericsson's framework, published in Psychological Review](https://psycnet.apa.org/record/1993-40718-001), demonstrated how individuals could engineer their own cognitive systems to achieve expert-level performance in any domain through systematic application of information dynamics principles.
 
 **Personal Voltage Design** helps individuals create sustained high-energy learning environments through personally meaningful goals that connect skill development to individual values and aspirations (maximum personal relevance), challenging projects that provide continuous surprising discoveries and insights (optimal surprise), and emotional engagement through intrinsic motivation and passion for improvement (sustained motivation).
 
@@ -90,9 +90,9 @@ Complete cognitive architecture design represents a fundamental advance in human
 
 **The Future Applications** extend far beyond individual and organizational performance optimization. Complete cognitive architecture design enables creation of human-AI collaboration systems that achieve superhuman performance, educational systems that guarantee breakthrough learning outcomes, communication systems that achieve perfect information transfer, innovation systems that generate breakthrough discoveries on demand, and decision-making systems that optimize complex choices under uncertainty.
 
-Understanding how to engineer complete cognitive systems using information physics principles represents one of the most powerful capabilities humans have ever developed. The future belongs to those who master the art and science of cognitive architecture design.
+Understanding how to engineer complete cognitive systems using information dynamics principles represents one of the most powerful capabilities humans have ever developed. The future belongs to those who master the art and science of cognitive architecture design.
 
-**🔗 Interactive Exploration:** [Cognitive System Designer](../demos/notebooks/system_design_demo.ipynb) - Design and test your own complete cognitive architecture using information physics principles.
+**🔗 Interactive Exploration:** [Cognitive System Designer](../demos/notebooks/system_design_demo.ipynb) - Design and test your own complete cognitive architecture using information dynamics principles.
 
 ---
 

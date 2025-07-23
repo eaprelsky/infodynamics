@@ -4,11 +4,11 @@
 
 Complex systems—whether manufacturing lines, organizations, or human minds—all face the same fundamental challenge: how to maximize information throughput while maintaining quality and stability. Traditional approaches focus on individual components, but breakthrough performance requires understanding the electrical properties that govern information flow through entire systems.
 
-The most successful optimization strategies don't just improve individual elements—they engineer the information physics of the complete system. This means balancing information voltage that drives performance against cognitive resistance that impedes flow, while optimizing the capacitance, conductance, and inductance that determine overall system efficiency.
+The most successful optimization strategies don't just improve individual elements—they engineer the information dynamics of the complete system. This means balancing information voltage that drives performance against cognitive resistance that impedes flow, while optimizing the capacitance, conductance, and inductance that determine overall system efficiency.
 
 ## Revolutionary Manufacturing: Information Flow Optimization
 
-**Tesla's production breakthrough** exemplifies how information physics principles can transform seemingly mechanical processes. Rather than viewing car manufacturing as primarily a mechanical challenge, Tesla's team analyzed production as an information processing system where knowledge, decisions, and coordination flow through human and automated networks.
+**Tesla's production breakthrough** exemplifies how information dynamics principles can transform seemingly mechanical processes. Rather than viewing car manufacturing as primarily a mechanical challenge, Tesla's team analyzed production as an information processing system where knowledge, decisions, and coordination flow through human and automated networks.
 
 **Tesla's manufacturing optimization team**, led by **Peter Hochholdinger** (former Audi production expert), made a radical decision to treat production problems as information flow bottlenecks rather than mechanical inefficiencies. Working with **MIT's Computer Science and Artificial Intelligence Laboratory**, they applied electrical engineering optimization principles to identify and eliminate information resistance throughout the production system.
 
@@ -44,7 +44,7 @@ Kim found that teams using electrical optimization principles achieved 187% bett
 
 ## Real-World Optimization: The SpaceX Mission Control Revolution
 
-**SpaceX's mission control optimization** provided another dramatic example of information physics principles applied to life-and-death decision-making. **Hans Koenigsmann**, SpaceX's former VP of Build and Flight Reliability, faced a fundamental challenge: NASA's traditional mission control approaches required extensive hierarchies and lengthy decision-making processes that were incompatible with SpaceX's rapid iteration philosophy.
+**SpaceX's mission control optimization** provided another dramatic example of information dynamics principles applied to life-and-death decision-making. **Hans Koenigsmann**, SpaceX's former VP of Build and Flight Reliability, faced a fundamental challenge: NASA's traditional mission control approaches required extensive hierarchies and lengthy decision-making processes that were incompatible with SpaceX's rapid iteration philosophy.
 
 Working with **Dr. Michael Chen** from Stanford's electrical engineering department, Koenigsmann redesigned mission control as an optimized information processing circuit. [Their approach, documented in IEEE Aerospace and Electronic Systems Magazine](https://ieeexplore.ieee.org/document/8945123), applied optimization principles to create mission control systems capable of faster, more accurate decision-making than traditional aerospace approaches.
 
@@ -78,7 +78,7 @@ The optimization results were remarkable: Singapore consistently ranks #1 worldw
 
 ## Personal Performance Optimization
 
-The same optimization principles that transform organizational systems can be applied to individual cognitive performance. **Dr. James Williams' research at Oxford University** developed personal optimization frameworks based on information physics principles.
+The same optimization principles that transform organizational systems can be applied to individual cognitive performance. **Dr. James Williams' research at Oxford University** developed personal optimization frameworks based on information dynamics principles.
 
 [Williams' approach, published in Cognition](https://www.sciencedirect.com/science/article/pii/S0010027720301578), enables individuals to engineer their own cognitive systems for breakthrough performance by applying electrical optimization principles to personal learning, creativity, and decision-making.
 
@@ -108,13 +108,13 @@ The most successful individuals and organizations master dynamic optimization—
 
 ## Implications for System Design
 
-Information physics optimization provides a systematic framework for engineering breakthrough performance in any cognitive system. Rather than relying on intuition or trial-and-error approaches, we can use electrical engineering principles to predict optimal configurations and engineer precise performance improvements.
+Information dynamics optimization provides a systematic framework for engineering breakthrough performance in any cognitive system. Rather than relying on intuition or trial-and-error approaches, we can use electrical engineering principles to predict optimal configurations and engineer precise performance improvements.
 
 The key insight is that optimization is always multidimensional—success requires balancing competing electrical properties rather than maximizing any single factor. This requires sophisticated understanding of system dynamics and careful attention to trade-offs between different performance objectives.
 
 The most effective optimization approaches combine systematic measurement of current electrical properties, mathematical modeling of optimal configurations, gradual implementation of optimization changes, and continuous monitoring and adjustment based on system response.
 
-Understanding optimization as an electrical engineering challenge opens unprecedented possibilities for creating cognitive systems that achieve performance levels previously thought impossible. The future belongs to those who master the art and science of information physics optimization.
+Understanding optimization as an electrical engineering challenge opens unprecedented possibilities for creating cognitive systems that achieve performance levels previously thought impossible. The future belongs to those who master the art and science of information dynamics optimization.
 
 **🔗 Interactive Exploration:** [Performance Optimization Simulator](../demos/notebooks/optimization_demo.ipynb) - Model and test different optimization strategies for cognitive systems.
 

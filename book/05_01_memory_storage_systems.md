@@ -36,7 +36,7 @@ Yet their long-term memory storage systems appeared to be fundamentally flawed.
 
 ## The Electrical Circuit Model
 
-In Information Physics terms, human memory operates like a complex electrical storage system with three components:
+In Information Dynamics terms, human memory operates like a complex electrical storage system with three components:
 
 ### 1. **Working Memory (Active Storage)**
 - **Capacity:** 7±2 information chunks

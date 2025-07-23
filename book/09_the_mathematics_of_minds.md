@@ -8,7 +8,7 @@
 
 Mathematics has always been humanity's most powerful tool for understanding the universe. From Newton's laws of motion to Einstein's relativity, from quantum mechanics to chaos theory, mathematical equations have revealed the hidden structures that govern physical reality. Now, for the first time, we possess the mathematical tools to describe the deepest mysteries of human consciousness with the same precision and elegance.
 
-The mathematical formalism of information physics extends far beyond the simple analogies between electrical circuits and cognitive processes. What we've discovered is a complete mathematical framework that describes human thought, learning, and understanding as manifestations of fundamental physical laws. The equations governing information flow through minds follow the same mathematical structures found throughout nature, revealing consciousness as an integral part of the physical universe rather than something separate from it.
+The mathematical formalism of information dynamics extends far beyond the simple analogies between electrical circuits and cognitive processes. What we've discovered is a complete mathematical framework that describes human thought, learning, and understanding as manifestations of fundamental physical laws. The equations governing information flow through minds follow the same mathematical structures found throughout nature, revealing consciousness as an integral part of the physical universe rather than something separate from it.
 
 This mathematical unity runs deeper than surface analogies. The differential equations describing cognitive dynamics exhibit the same mathematical properties as equations governing fluid flow, electromagnetic fields, and quantum systems. The statistical mechanics of information processing follows probability distributions found throughout statistical physics. The topological structures of knowledge networks display geometric properties studied in modern mathematics.
 
@@ -16,7 +16,7 @@ Understanding this mathematical foundation transforms how we think about conscio
 
 ## The Fundamental System of Equations
 
-At the heart of information physics lies a coupled system of differential equations that describes the complete dynamics of human information processing. These equations capture how information voltage, current, resistance, capacitance, and inductance evolve over time in response to changing cognitive conditions.
+At the heart of information dynamics lies a coupled system of differential equations that describes the complete dynamics of human information processing. These equations capture how information voltage, current, resistance, capacitance, and inductance evolve over time in response to changing cognitive conditions.
 
 **Kirchhoff's Laws for Information Networks:**
 
@@ -304,7 +304,7 @@ Some cognitive processes may achieve computational advantages through quantum-li
 
 ## The Deep Structure of Understanding
 
-The mathematical formalism of information physics reveals that human understanding possesses deep structural properties that transcend surface appearances.
+The mathematical formalism of information dynamics reveals that human understanding possesses deep structural properties that transcend surface appearances.
 
 **Symmetries in Cognitive Space:**
 Knowledge spaces exhibit various symmetries that remain invariant under different transformations. These symmetries include:
@@ -324,7 +324,7 @@ Following Emmy Noether's famous theorem linking symmetries to conservation laws,
 
 ## Unification with Physical Theories
 
-The mathematical formalism of information physics exhibits profound connections with established physical theories, suggesting that consciousness is not separate from the physical universe but represents a fundamental aspect of reality.
+The mathematical formalism of information dynamics exhibits profound connections with established physical theories, suggesting that consciousness is not separate from the physical universe but represents a fundamental aspect of reality.
 
 **Correspondence with Thermodynamics:**
 The second law of thermodynamics finds its cognitive analog in the tendency of cognitive systems to evolve toward maximum information entropy unless constrained by focused attention or external information input.
@@ -358,7 +358,7 @@ Now we know that mathematics is also the language in which the universe writes i
 
 As you contemplate the mathematical foundations of your own consciousness, consider how the equations we've explored manifest in your daily experience of thinking, learning, and understanding. Can you recognize the resonance frequencies of your own cognitive circuits? Do you notice the fractal patterns in your thought processes? The mathematical universe of mind is not just an abstract theory—it is the deepest description we have of what it means to be conscious.
 
-Before we examine what this mathematical framework reveals through data analysis, we must establish the crucial bridge between our elegant equations and the biological reality of living brains. In our next chapter, we'll discover how information physics emerges from the actual electrical and chemical dynamics of neurons, synapses, and neural networks—revealing that our mathematical formalism describes not metaphorical analogies, but the genuine electrical nature of biological consciousness.
+Before we examine what this mathematical framework reveals through data analysis, we must establish the crucial bridge between our elegant equations and the biological reality of living brains. In our next chapter, we'll discover how information dynamics emerges from the actual electrical and chemical dynamics of neurons, synapses, and neural networks—revealing that our mathematical formalism describes not metaphorical analogies, but the genuine electrical nature of biological consciousness.
 
 ---
 

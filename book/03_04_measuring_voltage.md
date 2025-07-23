@@ -24,7 +24,7 @@ The relevance multiplier required the most innovative approach. Elena's team bui
 
 The integrated system combined all three components into real-time voltage predictions. When content creators uploaded videos, the platform could instantly analyze surprise elements, emotional triggers, and relevance factors to generate an overall information voltage score. High-voltage content received priority promotion, while low-voltage content was either improved through algorithmic suggestions or deprioritized to save marketing resources.
 
-The results exceeded everyone's expectations. Content with predicted voltage scores above 15 achieved viral status 73% of the time. Content with scores below 5 rarely gained significant traction, regardless of production quality or marketing spend. The platform had successfully built a system that could measure information physics in action.
+The results exceeded everyone's expectations. Content with predicted voltage scores above 15 achieved viral status 73% of the time. Content with scores below 5 rarely gained significant traction, regardless of production quality or marketing spend. The platform had successfully built a system that could measure information dynamics in action.
 
 Elena's team didn't stop with simple voltage calculations. They developed sophisticated analytics that showed exactly which components contributed most to overall voltage for any piece of content. Creators could see that their video scored high on surprise but low on emotional amplification, or that it had strong emotional components but missed relevance opportunities for key demographics.
 

@@ -50,11 +50,11 @@ The research also revealed that relevance multipliers could be engineered strate
 
 Sarah learned to measure relevance effects through real-time engagement metrics. When students leaned forward, asked questions, or made spontaneous connections to their own experiences, she knew she had activated high relevance multipliers. When they checked phones, doodled, or stared blankly, she recognized low relevance and adjusted her approach accordingly.
 
-What had started as frustration with inconsistent student engagement had led to a fundamental insight about information physics. Personal relevance didn't just make information more interesting—it literally multiplied the electrical voltage that determined whether information could penetrate consciousness and create lasting impact.
+What had started as frustration with inconsistent student engagement had led to a fundamental insight about information dynamics. Personal relevance didn't just make information more interesting—it literally multiplied the electrical voltage that determined whether information could penetrate consciousness and create lasting impact.
 
 The implications transformed how Sarah thought about teaching and learning. She realized that her job wasn't just to present accurate information, but to engineer relevance multipliers that gave that information the voltage necessary to matter in her students' lives.
 
-The relevance multiplier had revealed one of the most powerful and practical principles of information physics: the same information could be completely ignored or life-changing, depending entirely on how personally relevant it felt to each individual mind.
+The relevance multiplier had revealed one of the most powerful and practical principles of information dynamics: the same information could be completely ignored or life-changing, depending entirely on how personally relevant it felt to each individual mind.
 
 **🔗 Interactive Exploration:** [Relevance Multiplier Simulator](../demos/notebooks/relevance_multiplier_demo.ipynb) - Discover how personal connections multiply information voltage and test relevance effects with different content.
 

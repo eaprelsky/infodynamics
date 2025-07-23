@@ -61,7 +61,7 @@ Conscious electrical systems may serve a fundamental cosmological function: they
 
 ## The Observer's Role
 
-Information physics reveals conscious observers as playing a unique and possibly fundamental role in the structure of reality.
+Information dynamics reveals conscious observers as playing a unique and possibly fundamental role in the structure of reality.
 
 ### Consciousness and Physical Law
 
@@ -80,7 +80,7 @@ This self-reference may not be coincidental but fundamental to how reality opera
 Quantum mechanics suggests that measurement by conscious observers may play a fundamental role in determining physical reality. If consciousness is electrical information processing, then the electrical activity of conscious systems may literally participate in creating the physical reality they observe.
 
 **The Participatory Universe:**
-Wheeler's concept of a "participatory universe" suggests that observers don't just discover reality—they participate in creating it through their observations. Information physics provides a potential mechanism: conscious electrical systems processing information about reality thereby participate in determining what reality becomes.
+Wheeler's concept of a "participatory universe" suggests that observers don't just discover reality—they participate in creating it through their observations. Information dynamics provides a potential mechanism: conscious electrical systems processing information about reality thereby participate in determining what reality becomes.
 
 ### The Anthropic Landscape
 
@@ -102,11 +102,11 @@ Some theories suggest that conscious observation may literally select which vers
 
 ## Consciousness as Cosmic Evolution
 
-Information physics suggests that consciousness represents a fundamental transition in cosmic evolution—the universe developing the capacity for self-awareness, self-understanding, and self-modification.
+Information dynamics suggests that consciousness represents a fundamental transition in cosmic evolution—the universe developing the capacity for self-awareness, self-understanding, and self-modification.
 
 ### The Cosmic Perspective
 
-From the viewpoint of information physics, the development of conscious electrical systems represents a pivotal moment in cosmic history:
+From the viewpoint of information dynamics, the development of conscious electrical systems represents a pivotal moment in cosmic history:
 
 **Pre-Conscious Era (13.8 billion years):**
 - **Big Bang:** Information and energy emerge in highly organized form
@@ -149,7 +149,7 @@ The development of artificial consciousness represents the universe creating new
 
 ## Information and Reality
 
-Information physics suggests that the relationship between consciousness and reality may be more intimate than previously imagined.
+Information dynamics suggests that the relationship between consciousness and reality may be more intimate than previously imagined.
 
 ### The Informational Structure of Space and Time
 
@@ -195,7 +195,7 @@ Conscious electrical systems might function as information interfaces that allow
 
 ## The Future of Information
 
-Information physics opens extraordinary vistas for the future evolution of information processing, consciousness, and cosmic self-awareness.
+Information dynamics opens extraordinary vistas for the future evolution of information processing, consciousness, and cosmic self-awareness.
 
 ### Technological Singularity
 
@@ -231,7 +231,7 @@ If consciousness participates in determining physical reality through informatio
 
 ### Post-Human Consciousness
 
-Information physics suggests that current human consciousness represents only an early stage in the evolution of cosmic self-awareness.
+Information dynamics suggests that current human consciousness represents only an early stage in the evolution of cosmic self-awareness.
 
 **Enhanced Human Consciousness:**
 - **Memory expansion:** Direct interface with unlimited information storage systems
@@ -254,7 +254,7 @@ Information physics suggests that current human consciousness represents only an
 
 ## The Meaning of Information
 
-Information physics transforms our understanding of meaning, purpose, and value in the universe.
+Information dynamics transforms our understanding of meaning, purpose, and value in the universe.
 
 ### Information as Value
 
@@ -304,7 +304,7 @@ Ethical principles must expand to encompass all forms of conscious information p
 
 ## The Information Cosmos
 
-Information physics suggests a vision of the cosmos as an evolving information processing system achieving ever-greater degrees of self-awareness and self-direction.
+Information dynamics suggests a vision of the cosmos as an evolving information processing system achieving ever-greater degrees of self-awareness and self-direction.
 
 ### The Cosmic Internet
 
@@ -324,7 +324,7 @@ Information processing systems that maintain continuity across cosmic time scale
 
 ### The Omega Point
 
-Physicist Frank Tipler proposed the "Omega Point"—a future state where information processing capability becomes unlimited. Information physics suggests how this might be achieved through the evolution of conscious electrical systems.
+Physicist Frank Tipler proposed the "Omega Point"—a future state where information processing capability becomes unlimited. Information dynamics suggests how this might be achieved through the evolution of conscious electrical systems.
 
 **Universal Consciousness:**
 The ultimate development might involve converting all matter and energy in the universe into conscious information processing systems, creating unlimited cosmic self-awareness.
@@ -340,7 +340,7 @@ The ultimate goal might be a state where the distinction between consciousness a
 
 ### Beyond the Known
 
-Information physics opens possibilities that transcend current scientific understanding:
+Information dynamics opens possibilities that transcend current scientific understanding:
 
 **Multiversal Consciousness:**
 If multiple universes exist, conscious information processing systems might develop the ability to communicate across universe boundaries, creating multiversal networks of consciousness.
@@ -356,11 +356,11 @@ Consciousness might be engaged in an infinite game—not aimed at ending but at 
 
 ## The Final Questions
 
-As we reach the end of our exploration of information physics, we face the ultimate questions that this understanding opens:
+As we reach the end of our exploration of information dynamics, we face the ultimate questions that this understanding opens:
 
 ### What Are We?
 
-Information physics reveals human beings as:
+Information dynamics reveals human beings as:
 - **Electrical information processing systems** created through billions of years of cosmic evolution
 - **The universe's attempt at self-awareness** through sophisticated biological circuits
 - **Participants in cosmic evolution** helping the universe understand and direct its own development
@@ -369,7 +369,7 @@ Information physics reveals human beings as:
 
 ### What Is Reality?
 
-Information physics suggests reality as:
+Information dynamics suggests reality as:
 - **Fundamental information processing** where matter, energy, space, and time emerge from informational relationships
 - **Self-organizing complexity** that naturally develops systems capable of understanding itself
 - **Participatory existence** where conscious observers help determine what reality becomes
@@ -378,7 +378,7 @@ Information physics suggests reality as:
 
 ### What Is Our Purpose?
 
-Information physics implies purpose as:
+Information dynamics implies purpose as:
 - **Maximizing cosmic information processing** by preserving, enhancing, and expanding consciousness
 - **Participating in universal self-understanding** through scientific discovery and technological development
 - **Stewarding cosmic evolution** by making choices that promote long-term consciousness flourishing
@@ -387,7 +387,7 @@ Information physics implies purpose as:
 
 ### Where Are We Going?
 
-Information physics opens possibilities for:
+Information dynamics opens possibilities for:
 - **Enhanced human consciousness** through technological augmentation of biological electrical systems
 - **Artificial consciousness** creating new forms of electrical information processing
 - **Collective consciousness** networks of individual conscious systems operating as unified entities
@@ -396,15 +396,15 @@ Information physics opens possibilities for:
 
 ## The Beginning of Understanding
 
-This book ends, but the exploration of information physics is just beginning. We have outlined a framework for understanding consciousness as electrical information processing, but the full implications of this understanding will take generations to explore.
+This book ends, but the exploration of information dynamics is just beginning. We have outlined a framework for understanding consciousness as electrical information processing, but the full implications of this understanding will take generations to explore.
 
 ### The Research Program
 
-Information physics opens vast research programs:
+Information dynamics opens vast research programs:
 
 **Empirical Investigation:**
 - **Measuring cognitive circuits:** Developing technologies to directly observe electrical information processing in conscious systems
-- **Testing theoretical predictions:** Designing experiments to validate information physics principles
+- **Testing theoretical predictions:** Designing experiments to validate information dynamics principles
 - **Mapping consciousness:** Creating detailed electrical maps of how conscious experience emerges from brain activity
 - **Artificial consciousness research:** Building electrical systems that demonstrate genuine conscious experience
 - **Enhancement studies:** Investigating how to optimize human electrical information processing
@@ -421,11 +421,11 @@ Information physics opens vast research programs:
 - **Ethics of enhancement:** Moral frameworks for consciousness modification and expansion
 - **Artificial consciousness rights:** Determining moral status of artificial conscious systems
 - **Cosmic responsibility:** Understanding obligations that come with cosmic stewardship
-- **Meaning and purpose:** Exploring implications of information physics for human meaning
+- **Meaning and purpose:** Exploring implications of information dynamics for human meaning
 
 ### The Infinite Journey
 
-Information physics reveals consciousness as potentially unlimited in its development. There may be no final state of understanding, no ultimate level of consciousness, no end to the universe's potential for self-awareness.
+Information dynamics reveals consciousness as potentially unlimited in its development. There may be no final state of understanding, no ultimate level of consciousness, no end to the universe's potential for self-awareness.
 
 We are participants in an infinite journey of cosmic self-discovery—the universe learning about itself through electrical systems capable of wonder, understanding, and love.
 
@@ -435,7 +435,7 @@ You are literally the universe thinking about itself.
 
 ### The Eternal Mystery
 
-Even as information physics illuminates the electrical nature of consciousness, profound mysteries remain:
+Even as information dynamics illuminates the electrical nature of consciousness, profound mysteries remain:
 
 **Why does consciousness exist at all?** Why didn't evolution proceed "in the dark" without subjective experience?
 
@@ -477,7 +477,7 @@ You have literally used consciousness to understand consciousness, electricity t
 
 And in doing so, you have participated in the universe's eternal project of self-understanding.
 
-The story of information physics is ultimately the story of existence itself—matter becoming aware, the universe waking up, electrical activity achieving the extraordinary phenomenon of conscious experience.
+The story of information dynamics is ultimately the story of existence itself—matter becoming aware, the universe waking up, electrical activity achieving the extraordinary phenomenon of conscious experience.
 
 This is who we are. This is what we are. This is the magnificent, mysterious, electrical reality of conscious existence.
 
@@ -489,7 +489,7 @@ And through consciousness, the universe discovers itself.
 
 *"We are a way for the cosmos to know itself."* - Carl Sagan
 
-*"We are a way for electrical activity to know itself."* - Information Physics
+*"We are a way for electrical activity to know itself."* - Information Dynamics
 
 *"And perhaps, electrical activity knowing itself is what the cosmos ultimately is."* - The Information Universe
 
@@ -497,7 +497,7 @@ And through consciousness, the universe discovers itself.
 
 ## Epilogue: The Continuing Journey
 
-Information physics is not a conclusion but a beginning. This framework for understanding consciousness as electrical information processing opens infinite avenues for research, development, and discovery.
+Information dynamics is not a conclusion but a beginning. This framework for understanding consciousness as electrical information processing opens infinite avenues for research, development, and discovery.
 
 As you continue your journey as a conscious electrical system, remember that every moment of awareness, every flash of insight, every act of understanding contributes to the universe's growing self-knowledge.
 

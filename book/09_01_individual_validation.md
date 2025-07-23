@@ -4,7 +4,7 @@
 
 ## Our Primary Validation Challenge
 
-In December 2024, our research team faced the critical challenge of validating our information physics framework against real human cognitive data. We had developed elegant mathematical models describing information conductance, resistance, and voltage. But the crucial question remained: would these theoretical equations actually predict how real people perform on cognitive tasks?
+In December 2024, our research team faced the critical challenge of validating our information dynamics framework against real human cognitive data. We had developed elegant mathematical models describing information conductance, resistance, and voltage. But the crucial question remained: would these theoretical equations actually predict how real people perform on cognitive tasks?
 
 We needed a comprehensive, high-quality dataset that would allow us to test our core predictions about individual differences in information processing. After extensive evaluation of available cognitive datasets, we selected the **Stanford Self-Regulation Study (ds004636)** as our primary validation platform.
 
@@ -54,13 +54,13 @@ Each task provided multiple dependent variables:
 - **Interference effects**: Costs of conflicting information
 - **Individual differences**: Stable patterns across tasks
 
-This rich measurement approach gave us dozens of opportunities to test whether our information physics equations could predict real cognitive performance.
+This rich measurement approach gave us dozens of opportunities to test whether our information dynamics equations could predict real cognitive performance.
 
 ## Our Calculation Methodology
 
 ### Converting Theory to Measurement
 
-The critical challenge was operationally defining our theoretical constructs using the behavioral data available in the Stanford dataset. We developed systematic calculation procedures for each information physics component:
+The critical challenge was operationally defining our theoretical constructs using the behavioral data available in the Stanford dataset. We developed systematic calculation procedures for each information dynamics component:
 
 ### Information Conductance (G_info) Calculation
 
@@ -161,7 +161,7 @@ def estimate_V_info(participant_data, task_characteristics):
 
 ### Primary Correlation Analysis
 
-When we applied our information physics calculations to the Stanford dataset, the results provided strong empirical support for our theoretical framework:
+When we applied our information dynamics calculations to the Stanford dataset, the results provided strong empirical support for our theoretical framework:
 
 **Core Validation Results**:
 
@@ -239,7 +239,7 @@ for fold in range(6):
     # Split data into training (83%) and testing (17%) sets
     train_data, test_data = split_data_stratified(stanford_data, fold=fold)
     
-    # Fit information physics model on training data
+    # Fit information dynamics model on training data
     model = fit_information_physics_model(train_data)
     
     # Test predictions on held-out data
@@ -316,7 +316,7 @@ The strong correlation between G_info and cognitive performance suggests powerfu
 
 Our validation results have profound implications for understanding human cognition:
 
-**Universal Principles**: Information physics appears to describe fundamental laws of consciousness that apply across individuals and tasks.
+**Universal Principles**: Information dynamics appears to describe fundamental laws of consciousness that apply across individuals and tasks.
 
 **Electrical Nature**: Human cognition literally operates according to electrical principles, not just metaphorically.
 
@@ -338,7 +338,7 @@ Our validation results have profound implications for understanding human cognit
 
 ### Future Validation Priorities
 
-**Neural Correlates**: Brain imaging validation to identify neural mechanisms underlying information physics.
+**Neural Correlates**: Brain imaging validation to identify neural mechanisms underlying information dynamics.
 
 **Longitudinal Studies**: Track individual changes in information conductance over time.
 
@@ -350,7 +350,7 @@ Our validation results have profound implications for understanding human cognit
 
 ## Conclusion: Empirical Foundation Established
 
-Our Stanford dataset validation provides strong empirical support for information physics as a scientific theory of human cognition. The results demonstrate that:
+Our Stanford dataset validation provides strong empirical support for information dynamics as a scientific theory of human cognition. The results demonstrate that:
 
 1. **Information conductance reliably predicts** cognitive performance across multiple domains
 2. **Individual differences are substantial and meaningful**, explaining why some people excel while others struggle
@@ -358,10 +358,10 @@ Our Stanford dataset validation provides strong empirical support for informatio
 4. **Ohm's law applies to consciousness**, with performance following I = V / R with mathematical precision
 5. **Results are statistically robust**, surviving extensive validation and robustness testing
 
-These findings establish information physics as an empirically validated framework for understanding and optimizing human cognitive performance. The theory moves beyond elegant mathematical formulation to demonstrated scientific validity.
+These findings establish information dynamics as an empirically validated framework for understanding and optimizing human cognitive performance. The theory moves beyond elegant mathematical formulation to demonstrated scientific validity.
 
-**🔗 Interactive Exploration:** [Stanford Validation Data Explorer](../demos/notebooks/stanford_validation_demo.ipynb) - Analyze our complete validation dataset and test information physics predictions yourself.
+**🔗 Interactive Exploration:** [Stanford Validation Data Explorer](../demos/notebooks/stanford_validation_demo.ipynb) - Analyze our complete validation dataset and test information dynamics predictions yourself.
 
 ---
 
-*Next: How brain imaging studies reveal the neural mechanisms underlying information physics principles...* 
+*Next: How brain imaging studies reveal the neural mechanisms underlying information dynamics principles...* 

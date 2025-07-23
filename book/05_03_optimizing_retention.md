@@ -15,7 +15,7 @@ His research documented:
 
 As D'Eon explained: "The medical school curriculum is not designed for long-term retention: we should stop being alarmed when our learners forget."
 
-## The Information Physics of Memory Engineering
+## The Information Dynamics of Memory Engineering
 
 D'Eon's research reveals that traditional medical education creates **cognitive capacitance overload**—too much information stored inefficiently, leading to rapid discharge and knowledge loss.
 

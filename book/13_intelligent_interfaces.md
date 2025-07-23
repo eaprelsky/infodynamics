@@ -10,17 +10,17 @@ Every day, billions of people struggle with technology that fights against their
 
 The result is what I call **cognitive friction**—the unnecessary mental effort required to extract information from poorly designed systems. When interfaces mismatch our cognitive impedance characteristics, simple tasks become exhausting. Clear information becomes confusing. Useful features remain undiscovered.
 
-Information physics reveals this friction for what it really is: **impedance mismatch between human cognitive circuits and technological information delivery systems**. Just as electrical impedance mismatch causes power loss and signal distortion in circuits, cognitive impedance mismatch causes comprehension loss and mental fatigue in human-computer interaction.
+Information dynamics reveals this friction for what it really is: **impedance mismatch between human cognitive circuits and technological information delivery systems**. Just as electrical impedance mismatch causes power loss and signal distortion in circuits, cognitive impedance mismatch causes comprehension loss and mental fatigue in human-computer interaction.
 
 The solution isn't teaching people to think more like computers. It's designing technology that works with the natural electrical characteristics of human consciousness.
 
 ## Content Engineering: The Science of Information Design
 
-Before we can create intelligent interfaces, we must understand why some information "clicks" instantly while other information bounces off minds like signals hitting a mismatched antenna. The answer lies in what I call **content engineering**—the systematic application of information physics principles to design content that flows effortlessly into cognitive circuits.
+Before we can create intelligent interfaces, we must understand why some information "clicks" instantly while other information bounces off minds like signals hitting a mismatched antenna. The answer lies in what I call **content engineering**—the systematic application of information dynamics principles to design content that flows effortlessly into cognitive circuits.
 
 ### The Viral Content Equation
 
-Why do some posts explode across social networks while others, despite apparent merit, sink into obscurity? Information physics reveals that viral content achieves optimal impedance matching with the collective cognitive characteristics of social networks.
+Why do some posts explode across social networks while others, despite apparent merit, sink into obscurity? Information dynamics reveals that viral content achieves optimal impedance matching with the collective cognitive characteristics of social networks.
 
 **The Mathematical Framework:**
 Viral potential depends on the relationship between information characteristics and network cognitive parameters:
@@ -99,7 +99,7 @@ Why do some explanations make complex concepts crystal clear while others leave 
 
 ### The Boredom vs. Engagement Spectrum
 
-Information physics reveals why some content captivates while other content induces mental fatigue, regardless of objective importance or quality.
+Information dynamics reveals why some content captivates while other content induces mental fatigue, regardless of objective importance or quality.
 
 **Low-Voltage Content (Boring):**
 - **Predictable information:** High probability, low surprise value
@@ -335,7 +335,7 @@ Emerging brain-computer interface technologies will enable direct electrical cou
 
 ## Design Principles for Cognitive Compatibility
 
-Based on information physics principles, we can establish fundamental design guidelines for creating interfaces that work harmoniously with human cognitive circuits.
+Based on information dynamics principles, we can establish fundamental design guidelines for creating interfaces that work harmoniously with human cognitive circuits.
 
 ### The Seven Principles of Cognitive Interface Design
 
@@ -390,7 +390,7 @@ Prevent cognitive overload and fatigue through protective design:
 
 ## The Future of Human-Computer Symbiosis
 
-Information physics points toward a future where the boundary between human and artificial intelligence becomes permeable, creating hybrid cognitive systems that leverage the strengths of both biological and digital information processing.
+Information dynamics points toward a future where the boundary between human and artificial intelligence becomes permeable, creating hybrid cognitive systems that leverage the strengths of both biological and digital information processing.
 
 ### Augmented Cognition Systems
 
@@ -424,7 +424,7 @@ The ultimate evolution of intelligent interfaces involves creating networks of e
 - **Emergent intelligence:** Network-level insights that no individual member could achieve
 - **Adaptive organization:** Dynamic restructuring based on task requirements and participant capabilities
 
-**Information Physics at Scale:**
+**Information Dynamics at Scale:**
 - **Network impedance matching:** Optimizing information flow across diverse cognitive styles
 - **Collective resonance:** Creating network-wide conditions for enhanced thinking
 - **Distributed load balancing:** Managing cognitive effort across network participants
@@ -434,7 +434,7 @@ The ultimate evolution of intelligent interfaces involves creating networks of e
 
 *"The best interface is no interface."* - Golden Krishna
 
-*"The best interface matches your cognitive interface so perfectly that technology and mind become one seamless information processing system."* - Information Physics
+*"The best interface matches your cognitive interface so perfectly that technology and mind become one seamless information processing system."* - Information Dynamics
 
 ---
 
@@ -445,7 +445,7 @@ Creating truly intelligent interfaces requires systematic development across mul
 **Phase 1: Cognitive Assessment Integration (Years 1-2)**
 - Development of real-time cognitive state monitoring tools
 - Integration of cognitive circuit analysis into design workflows
-- Training programs for designers and developers in information physics principles
+- Training programs for designers and developers in information dynamics principles
 - Pilot implementations with adaptive interface elements
 
 **Phase 2: Personalization Infrastructure (Years 3-5)**
@@ -468,10 +468,10 @@ As you interact with technology throughout your day, notice the cognitive fricti
 
 The future of human-computer interaction lies not in forcing humans to think like machines, but in creating machines that work harmoniously with the electrical characteristics of human consciousness. When we achieve this symbiosis, technology will amplify rather than obstruct human potential.
 
-In our final chapter on applications, we'll explore how information physics can transform human communication itself—from defending against information warfare to healing societal divisions, from revolutionizing organizational communication to building global understanding. The ultimate promise of information physics lies not just in better technology, but in the possibility of creating a more empathetic, understanding, and collaborative human civilization.
+In our final chapter on applications, we'll explore how information dynamics can transform human communication itself—from defending against information warfare to healing societal divisions, from revolutionizing organizational communication to building global understanding. The ultimate promise of information dynamics lies not just in better technology, but in the possibility of creating a more empathetic, understanding, and collaborative human civilization.
 
 ---
 
 ## Implementation Note
 
-The interface design principles and AI integration approaches described in this chapter represent theoretical applications of information physics rather than tested technologies. While the cognitive science underlying these concepts shows promise, practical implementation requires careful development, testing, and iteration. Interface design should proceed through user-centered experimentation that validates theoretical predictions against real user needs and behaviors. The goal is not just technological sophistication, but genuine improvement in human-computer collaboration and cognitive enhancement. 
+The interface design principles and AI integration approaches described in this chapter represent theoretical applications of information dynamics rather than tested technologies. While the cognitive science underlying these concepts shows promise, practical implementation requires careful development, testing, and iteration. Interface design should proceed through user-centered experimentation that validates theoretical predictions against real user needs and behaviors. The goal is not just technological sophistication, but genuine improvement in human-computer collaboration and cognitive enhancement. 

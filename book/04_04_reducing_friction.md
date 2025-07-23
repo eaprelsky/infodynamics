@@ -14,7 +14,7 @@ D'Eon's study tracked 29 second-year medical students as they attempted to retai
 
 As D'Eon documented: "The popular notion that most of basic science knowledge is forgotten shortly after graduation is not supported by our findings... However, when rehearsal during the retention interval is controlled for, it appears that little knowledge is lost for 1.5-2 years after it was last used; from then on, retention is best described by a negatively accelerated (logarithmic) forgetting curve."
 
-This research reveals the **information physics problem**: medical knowledge faces massive cognitive resistance due to overcrowded curricula and inadequate reinforcement systems.
+This research reveals the **information dynamics problem**: medical knowledge faces massive cognitive resistance due to overcrowded curricula and inadequate reinforcement systems.
 
 ## Engineering Ultra-Low-Resistance Solutions
 
@@ -39,7 +39,7 @@ Medical institutions implementing ultra-low-resistance communication protocols r
 - **Improved patient comprehension** of critical instructions  
 - **Better adherence** to treatment protocols
 
-## The Information Physics of Medical Communication
+## The Information Dynamics of Medical Communication
 
 The key insight from D'Eon's research is that **cognitive resistance in medical settings isn't just about individual capacity**—it's about systemic information design. When medical curricula are designed like "drinking from a water cannon" (as D'Eon describes), even the most capable minds will experience high resistance.
 

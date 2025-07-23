@@ -331,7 +331,7 @@ $$P(\theta | data) \propto P(data | \theta) \cdot P(\theta)$$
 
 ## Conclusion
 
-These mathematical derivations provide a formal foundation for the information physics framework. While the equations are mathematically sound, their utility for understanding real cognitive processes requires extensive empirical validation.
+These mathematical derivations provide a formal foundation for the information dynamics framework. While the equations are mathematically sound, their utility for understanding real cognitive processes requires extensive empirical validation.
 
 The framework offers:
 - **Predictive Models** for cognitive performance

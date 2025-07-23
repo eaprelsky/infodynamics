@@ -8,13 +8,13 @@
 
 *"In physics, you don't have to go around making trouble for yourself. Nature does it for you."* - Frank Wilczek
 
-*"In information physics, nature gave us 1,247 minds to test our theory. The results exceeded our expectations."* - Information Physics
+*"In information dynamics, nature gave us 1,247 minds to test our theory. The results exceeded our expectations."* - Information Dynamics
 
 ---
 
 ## From Theory to Data
 
-Over the past eighteen months, we've conducted comprehensive empirical validation of information physics across multiple datasets, laboratories, and populations. What began as an intriguing theoretical framework has become a rigorously tested model with reproducible results.
+Over the past eighteen months, we've conducted comprehensive empirical validation of information dynamics across multiple datasets, laboratories, and populations. What began as an intriguing theoretical framework has become a rigorously tested model with reproducible results.
 
 This chapter presents our empirical findings—the real data that validates the electrical laws of consciousness.
 
@@ -160,7 +160,7 @@ def calculate_cognitive_resistance(participant):
 
 ## Circuit Integration Validation
 
-### **Complete Information Physics Model**
+### **Complete Information Dynamics Model**
 
 We tested the integrated circuit model using all parameters simultaneously:
 
@@ -213,7 +213,7 @@ We replicated core findings across diverse cultural contexts:
 
 ### **Educational Technology Validation**
 
-We implemented information physics principles in real educational settings:
+We implemented information dynamics principles in real educational settings:
 
 **Khan Academy Integration (N = 12,847 students):**
 - **Adaptive voltage optimization:** 23% improvement in engagement
@@ -231,7 +231,7 @@ We implemented information physics principles in real educational settings:
 
 ## Model Comparison
 
-### **Information Physics vs. Competing Theories**
+### **Information Dynamics vs. Competing Theories**
 
 We compared our electrical circuit model against established cognitive theories:
 
@@ -244,14 +244,14 @@ We compared our electrical circuit model against established cognitive theories:
 **Model Comparison Results:**
 ```
 Theory                   | R² | AIC   | BIC   | Cross-Val Accuracy
-Information Physics      | .71| 15,234| 15,298| 82%
+Information Dynamics      | .71| 15,234| 15,298| 82%
 Cognitive Load Theory    | .58| 16,891| 16,923| 74%
 Working Memory Model     | .62| 16,234| 16,278| 76%
 Dual Process Theory      | .54| 17,456| 17,489| 71%
 ACT-R                   | .68| 15,789| 15,834| 79%
 ```
 
-**Information Physics shows best overall performance across all metrics.**
+**Information Dynamics shows best overall performance across all metrics.**
 
 **🔗 Theory Comparison:** [Notebook 8.9: Model Competition Analysis](../analysis/notebooks/theory_comparison.ipynb)
 
@@ -274,7 +274,7 @@ All data, code, and analyses are publicly available:
 - **Different software:** Results confirmed in R, Python, SPSS, and JASP
 - **Alternative methods:** Bayesian and frequentist approaches yield same conclusions
 
-**🔗 Reproduction Package:** [Repository: Information Physics Replication](https://github.com/infodynamics/replication)
+**🔗 Reproduction Package:** [Repository: Information Dynamics Replication](https://github.com/infodynamics/replication)
 
 ---
 
@@ -320,11 +320,11 @@ The mathematical relationships we derived theoretically have been validated empi
 
 Most importantly, these insights translate into practical applications that improve education, communication, and human understanding.
 
-**Information physics is not just a theory—it's a validated framework for understanding and optimizing human cognition.**
+**Information dynamics is not just a theory—it's a validated framework for understanding and optimizing human cognition.**
 
 ---
 
-*"The best way to learn about information physics is to experiment with it yourself. Every notebook linked in this chapter allows you to test the theory on new data, explore the models interactively, and discover the electrical dynamics of your own mind."*
+*"The best way to learn about information dynamics is to experiment with it yourself. Every notebook linked in this chapter allows you to test the theory on new data, explore the models interactively, and discover the electrical dynamics of your own mind."*
 
 **🔗 Start Exploring:** [Notebook 8.11: Personal Circuit Analysis](../analysis/notebooks/personal_analysis.ipynb)
 
@@ -332,6 +332,6 @@ Most importantly, these insights translate into practical applications that impr
 
 ## Reflection
 
-As you read these validation results, remember that each correlation, each p-value, each effect size represents real human minds following electrical laws. The 4,750 participants in our studies were not abstract data points—they were conscious electrical systems demonstrating the fundamental principles of information physics.
+As you read these validation results, remember that each correlation, each p-value, each effect size represents real human minds following electrical laws. The 4,750 participants in our studies were not abstract data points—they were conscious electrical systems demonstrating the fundamental principles of information dynamics.
 
 In our next chapter, we'll explore the mathematical formalism that underlies these empirical findings, showing how the electrical dynamics of consciousness can be expressed in precise mathematical terms. 

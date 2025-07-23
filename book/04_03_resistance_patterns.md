@@ -15,9 +15,9 @@ The results were striking:
 
 As Batubara documented: "Students who have the cognitive style of independent fields obtain higher Mathematical Subject outcomes than Mathematic Subject outcomes students who have the cognitive style of field dependent."
 
-## The Information Physics of Resistance Fingerprints
+## The Information Dynamics of Resistance Fingerprints
 
-This research reveals a fundamental principle of information physics: **cognitive resistance is not uniform**. Different individuals have different resistance profiles based on their information processing architecture.
+This research reveals a fundamental principle of information dynamics: **cognitive resistance is not uniform**. Different individuals have different resistance profiles based on their information processing architecture.
 
 **Field Independent Resistance Pattern:**
 - **Low resistance** to abstract, analytical information

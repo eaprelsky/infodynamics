@@ -36,7 +36,7 @@ Again, these factors multiply their effects. Simple information that contradicts
 
 **Salman Khan's analysis of learning patterns** on the Khan Academy platform provided unprecedented validation of the information equation at massive scale. With over 100 million registered learners worldwide, Khan Academy generates enormous amounts of data about how people actually acquire knowledge.
 
-**Dr. Candace Thille's research team at Stanford**, analyzing Khan Academy data in collaboration with the platform's data science team, [published their findings in Learning Analytics](https://www.tandfonline.com/doi/full/10.1080/21922885.2021.1946572). They found that successful learning sessions consistently showed the voltage-to-resistance relationship predicted by information physics.
+**Dr. Candace Thille's research team at Stanford**, analyzing Khan Academy data in collaboration with the platform's data science team, [published their findings in Learning Analytics](https://www.tandfonline.com/doi/full/10.1080/21922885.2021.1946572). They found that successful learning sessions consistently showed the voltage-to-resistance relationship predicted by information dynamics.
 
 Students who completed lessons successfully showed consistent patterns: they chose topics personally relevant to their goals (high relevance voltage), encountered concepts slightly beyond their current understanding (optimal surprise voltage), and maintained strong engagement throughout (sustained motivation voltage). Meanwhile, cognitive resistance remained manageable through careful lesson design that minimized complexity, avoided contradicting prior knowledge unnecessarily, and respected working memory limitations.
 

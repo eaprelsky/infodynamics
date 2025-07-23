@@ -17,7 +17,7 @@ Individuals show variations in fundamental cognitive modules:
 - **Spatial processing:** Individual differences in navigation and geometric reasoning emerge early
 - **Language systems:** Variations in phonological and grammatical processing capacity
 
-## The Information Physics of Individual Differences
+## The Information Dynamics of Individual Differences
 
 Research by Rahman, Juniati, and Manuharawati on cognitive independence confirms these architectural differences. Their [2022 study](https://un-pub.eu/ojs/index.php/cjes/article/download/8200/9223) with 155 high school students found:
 

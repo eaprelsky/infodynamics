@@ -1,12 +1,12 @@
 # Appendix D: Practical Applications
 
-*Tools and techniques for applying information physics in education, communication, and design*
+*Tools and techniques for applying information dynamics in education, communication, and design*
 
 ---
 
 ## How to Use This Appendix
 
-This appendix provides practical, actionable tools for implementing information physics principles in real-world situations. Each section includes:
+This appendix provides practical, actionable tools for implementing information dynamics principles in real-world situations. Each section includes:
 
 - **Step-by-step procedures**
 - **Checklists and templates**
@@ -331,7 +331,7 @@ Total Cognitive Load: _____/50
 - [ ] Offline functionality is provided where needed
 - [ ] Accessibility requirements are met
 
-### **D.3.4 A/B Testing Framework for Information Physics**
+### **D.3.4 A/B Testing Framework for Information Dynamics**
 
 **Test Variables:**
 1. **Information Voltage Variations:**
@@ -481,7 +481,7 @@ Quality control process: _______________
 
 ## D.5 Measurement and Assessment Tools
 
-### **D.5.1 Information Physics Metrics Dashboard**
+### **D.5.1 Information Dynamics Metrics Dashboard**
 
 **Content Performance Metrics:**
 ```
@@ -642,7 +642,7 @@ Support Ticket Rate: _____ per user
 5. Compare results
 
 **Team Application:**
-1. Conduct team training on information physics basics
+1. Conduct team training on information dynamics basics
 2. Select one team communication or training process
 3. Apply audience impedance profiling (Section D.4.1)
 4. Design improved approach using frameworks
@@ -652,7 +652,7 @@ Support Ticket Rate: _____ per user
 
 **Organizational Implementation:**
 1. Identify high-impact communication/learning processes
-2. Train key personnel in information physics principles
+2. Train key personnel in information dynamics principles
 3. Implement measurement systems (Section D.5)
 4. Begin systematic optimization across multiple areas
 5. Establish regular review and improvement cycles
@@ -662,7 +662,7 @@ Support Ticket Rate: _____ per user
 **System-Wide Optimization:**
 1. Develop organization-specific tools and templates
 2. Create feedback loops between different applications
-3. Build information physics principles into standard procedures
+3. Build information dynamics principles into standard procedures
 4. Train additional personnel as internal consultants
 5. Establish center of excellence for continued development
 
@@ -670,7 +670,7 @@ Support Ticket Rate: _____ per user
 
 ## Conclusion
 
-These practical tools provide a starting point for applying information physics principles in real-world situations. Remember that this is an experimental framework—adapt the tools to your specific context and continue refining based on your results.
+These practical tools provide a starting point for applying information dynamics principles in real-world situations. Remember that this is an experimental framework—adapt the tools to your specific context and continue refining based on your results.
 
 **Key Success Factors:**
 1. **Start Small:** Begin with one application and learn from experience
@@ -683,4 +683,4 @@ The goal is not perfect implementation but continuous improvement in how informa
 
 ---
 
-**Note:** These tools are based on the theoretical framework presented in the book. While many show promise in practice, continue to validate their effectiveness in your specific context and contribute to the growing understanding of information physics applications. 
+**Note:** These tools are based on the theoretical framework presented in the book. While many show promise in practice, continue to validate their effectiveness in your specific context and contribute to the growing understanding of information dynamics applications. 

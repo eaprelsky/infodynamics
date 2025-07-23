@@ -26,7 +26,7 @@ Shannon used base-2 logarithms because they naturally measure information in "bi
 
 What Shannon didn't realize at the time was that he had stumbled upon something much deeper than telecommunications theory. His formula describes how our brains actually process information. When something unexpected happens—like hearing surprising news or encountering an unusual situation—our cognitive systems respond more strongly. The rare, unexpected events demand more mental energy and attention, just as Shannon's formula predicts they should carry more information.
 
-This connection between mathematical information theory and human cognition became one of the first clues that our minds might operate according to electrical principles. In our information physics framework, Shannon's formula becomes the foundation for what we call "information voltage"—the driving force that pushes information through cognitive circuits.
+This connection between mathematical information theory and human cognition became one of the first clues that our minds might operate according to electrical principles. In our information dynamics framework, Shannon's formula becomes the foundation for what we call "information voltage"—the driving force that pushes information through cognitive circuits.
 
 The surprise component of information voltage follows exactly the same mathematical relationship Shannon discovered:
 

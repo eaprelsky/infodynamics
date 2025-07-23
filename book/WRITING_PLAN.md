@@ -273,7 +273,7 @@
 
 This book should be **the "Feynman Lectures" of information science**—accessible to intelligent laypeople, rigorous enough for experts, and practical enough to immediately improve readers' lives.
 
-**Core Promise:** By the end, readers will **see information physics everywhere** and have the tools to optimize their own learning, teaching, and communication.
+**Core Promise:** By the end, readers will **see information dynamics everywhere** and have the tools to optimize their own learning, teaching, and communication.
 
 **Ultimate Goal:** Establish Information Dynamics as a new field while making complex science beautifully accessible to everyone.
 

@@ -6,7 +6,7 @@
 
 ## The Moment of Integration
 
-Three years ago, I found myself standing in front of a whiteboard covered with equations, diagrams, and scattered notes from months of research into information physics. Each component we had discovered—voltage, resistance, capacitance, inductance—had revealed fascinating insights about human cognition. But as I stared at the accumulated knowledge, I realized we were still missing something crucial: **the unified equation that would tie everything together**.
+Three years ago, I found myself standing in front of a whiteboard covered with equations, diagrams, and scattered notes from months of research into information dynamics. Each component we had discovered—voltage, resistance, capacitance, inductance—had revealed fascinating insights about human cognition. But as I stared at the accumulated knowledge, I realized we were still missing something crucial: **the unified equation that would tie everything together**.
 
 The individual components explained specific phenomena beautifully. Information voltage helped us understand why some content captivates while other content bores. Resistance revealed why minds sometimes block even beneficial information. Capacitance illuminated the mysterious patterns of cognitive saturation and recovery. Inductance explained why belief change requires patience and persistence rather than logical force.
 
@@ -122,7 +122,7 @@ Why do some ideas spread virally through social networks while others, despite a
 
 ## Looking Forward
 
-The complete mathematical framework of information physics opens up possibilities that extend far beyond current applications. We can envision educational systems that automatically optimize information delivery based on real-time analysis of individual cognitive impedance characteristics. Communication technologies could implement dynamic impedance matching to ensure efficient information transfer between people with different cognitive styles. Organizational designs might incorporate explicit consideration of information flow optimization to enhance collective intelligence and decision-making capabilities.
+The complete mathematical framework of information dynamics opens up possibilities that extend far beyond current applications. We can envision educational systems that automatically optimize information delivery based on real-time analysis of individual cognitive impedance characteristics. Communication technologies could implement dynamic impedance matching to ensure efficient information transfer between people with different cognitive styles. Organizational designs might incorporate explicit consideration of information flow optimization to enhance collective intelligence and decision-making capabilities.
 
 Most importantly, understanding the electrical nature of human cognition provides individuals with tools for consciously optimizing their own information processing systems. By recognizing their cognitive impedance characteristics—resistance patterns, inductance behaviors, capacitance limitations—people can design learning strategies, communication approaches, and work environments that maximize their intellectual effectiveness.
 
@@ -134,12 +134,12 @@ This understanding transforms not only how we approach education, communication,
 
 *"The universe is not only stranger than we imagine, it is stranger than we can imagine."* - J.B.S. Haldane
 
-We've now completed our exploration of the fundamental components of information physics. In the next part of our journey, we'll examine the empirical evidence that validates these theoretical predictions and discover how information physics is already being applied to solve real-world challenges in education, technology, and human communication.
+We've now completed our exploration of the fundamental components of information dynamics. In the next part of our journey, we'll examine the empirical evidence that validates these theoretical predictions and discover how information dynamics is already being applied to solve real-world challenges in education, technology, and human communication.
 
 ---
 
 ## Reflection
 
-As you consider the complete framework of information physics, think about your own cognitive circuit characteristics. Do you recognize patterns of impedance in your own information processing? Can you identify situations where impedance matching difficulties have created communication challenges? Understanding your own electrical cognitive characteristics is the first step toward optimizing your information processing for more effective learning, thinking, and communicating.
+As you consider the complete framework of information dynamics, think about your own cognitive circuit characteristics. Do you recognize patterns of impedance in your own information processing? Can you identify situations where impedance matching difficulties have created communication challenges? Understanding your own electrical cognitive characteristics is the first step toward optimizing your information processing for more effective learning, thinking, and communicating.
 
 The physics of your mind follows precise mathematical laws. Now you have the tools to work with those laws rather than against them. 

@@ -87,7 +87,7 @@ However, significant challenges remain:
 - **Gaming vulnerability** - Bad actors could learn to mimic high-quality timbre characteristics
 - **Cultural variations** - Quality signals may vary across communities and contexts
 
-## Integration with Information Physics
+## Integration with Information Dynamics
 
 Information timbre connects to our electrical framework by suggesting that the "voltage" of information might depend not just on content characteristics (surprise, relevance, emotion) but also on quality characteristics (source credibility, processing history, authenticity signals).
 

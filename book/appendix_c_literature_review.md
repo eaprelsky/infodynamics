@@ -16,9 +16,9 @@ This literature review situates the information dynamics framework within existi
 
 ### **Claude Shannon's Mathematical Framework**
 
-The mathematical foundation of information physics begins with Shannon's groundbreaking work on information theory (Shannon, 1948; Shannon & Weaver, 1949). Shannon established that information can be quantified mathematically and that information transmission follows mathematical principles analogous to physical systems.
+The mathematical foundation of information dynamics begins with Shannon's groundbreaking work on information theory (Shannon, 1948; Shannon & Weaver, 1949). Shannon established that information can be quantified mathematically and that information transmission follows mathematical principles analogous to physical systems.
 
-**Key Insights for Information Physics:**
+**Key Insights for Information Dynamics:**
 - Information content is inversely related to probability: $I = -\log_2 P(\text{event})$
 - Information channels have capacity limits
 - Information transmission can be optimized through coding and signal processing
@@ -44,7 +44,7 @@ Miller's (1956) discovery of the "magical number seven, plus or minus two" estab
 - Chunking strategies can effectively increase functional capacity
 - Individual differences exist in memory span capabilities
 
-**Connection to Information Physics:** Miller's work provides empirical foundation for modeling cognitive systems as having quantifiable storage capacity, analogous to electrical capacitance. The mathematical relationship $Q = C \times V$ (charge = capacitance × voltage) maps directly onto information storage dynamics.
+**Connection to Information Dynamics:** Miller's work provides empirical foundation for modeling cognitive systems as having quantifiable storage capacity, analogous to electrical capacitance. The mathematical relationship $Q = C \times V$ (charge = capacitance × voltage) maps directly onto information storage dynamics.
 
 **Modern Developments:** Cowan (2001) refined Miller's estimates, suggesting working memory capacity is closer to 4±1 items, which doesn't change the underlying principle but provides more accurate parameter values for practical applications.
 
@@ -52,7 +52,7 @@ Miller's (1956) discovery of the "magical number seven, plus or minus two" estab
 
 Baddeley and Hitch (1974) decomposed working memory into multiple subsystems, providing a more sophisticated understanding of information storage and processing. Their model reveals that "information capacitance" is actually composed of multiple, specialized storage systems.
 
-**Implications for Information Physics:**
+**Implications for Information Dynamics:**
 - Different types of information have different storage characteristics
 - Multiple parallel storage systems can operate simultaneously
 - Storage capacity varies by information type and individual characteristics
@@ -72,7 +72,7 @@ Broadbent's (1958) filter theory of attention established that attention acts as
 - Selection occurs early in information processing
 - Unattended information is largely blocked from further processing
 
-**Connection to Information Physics:** Broadbent's filter model maps directly onto electrical conductance concepts. High conductance = low resistance to information flow; low conductance = high resistance. Individual differences in attention capabilities correspond to different baseline conductance values.
+**Connection to Information Dynamics:** Broadbent's filter model maps directly onto electrical conductance concepts. High conductance = low resistance to information flow; low conductance = high resistance. Individual differences in attention capabilities correspond to different baseline conductance values.
 
 ### **Modern Attention Research**
 
@@ -95,7 +95,7 @@ Sweller's (1988) cognitive load theory provides the most direct empirical founda
 - **Extraneous load:** Poor design that increases processing difficulty
 - **Germane load:** Productive processing that builds understanding
 
-**Connection to Information Physics:** Cognitive load maps directly onto information resistance:
+**Connection to Information Dynamics:** Cognitive load maps directly onto information resistance:
 - High cognitive load = high information resistance
 - Load reduction strategies = resistance reduction techniques
 - Individual differences in load tolerance = different resistance characteristics
@@ -166,7 +166,7 @@ Festinger's (1957) cognitive dissonance theory provides the foundation for under
 - Belief change is slow and requires substantial evidence
 - Individual differences exist in tolerance for belief contradiction
 
-**Connection to Information Physics:** Cognitive dissonance maps onto electrical inductance:
+**Connection to Information Dynamics:** Cognitive dissonance maps onto electrical inductance:
 - Strong beliefs create "informational inertia"
 - Changing belief-based processing requires overcoming inductance
 - Sudden belief changes create "cognitive voltage spikes"
@@ -192,7 +192,7 @@ Berger and Milkman's (2012) empirical analysis of viral content provides direct 
 - Personal relevance and practical utility enhance information spread
 - Content that evokes awe, anger, or anxiety spreads faster than neutral content
 
-**Connection to Information Physics:** These findings directly support our voltage components:
+**Connection to Information Dynamics:** These findings directly support our voltage components:
 - Arousal effects confirm emotional voltage importance
 - Surprise effects validate surprise voltage calculations
 - Relevance effects support relevance voltage concepts
@@ -223,7 +223,7 @@ The Nobel Prize-winning work of Hodgkin and Huxley (1952) established that neura
 - Information processing requires metabolic energy
 - Neural activity can be modeled using electrical equations
 
-**Connection to Information Physics:** The Hodgkin-Huxley model provides biological validation that brains literally are electrical circuits, making our electrical analogies more than metaphorical.
+**Connection to Information Dynamics:** The Hodgkin-Huxley model provides biological validation that brains literally are electrical circuits, making our electrical analogies more than metaphorical.
 
 ### **Modern Neuroscience**
 
@@ -249,9 +249,9 @@ The Nobel Prize-winning work of Hodgkin and Huxley (1952) established that neura
 
 ## Synthesis and Novel Contributions
 
-### **What Information Physics Adds**
+### **What Information Dynamics Adds**
 
-While building on established research, our information physics framework provides several novel contributions:
+While building on established research, our information dynamics framework provides several novel contributions:
 
 1. **Mathematical Integration:** First unified mathematical framework combining emotion, attention, memory, and belief research into circuit equations
 
@@ -277,9 +277,9 @@ While building on established research, our information physics framework provid
 
 ## Conclusion
 
-The information physics framework represents a novel synthesis of established psychological research rather than a replacement for existing theories. By grounding our concepts in decades of empirical research—particularly Russell's arousal-valence model for emotional voltage, Miller's capacity research for information capacitance, Broadbent's attention research for information conductance, and Sweller's cognitive load research for information resistance—we provide a scientifically grounded foundation for practical applications.
+The information dynamics framework represents a novel synthesis of established psychological research rather than a replacement for existing theories. By grounding our concepts in decades of empirical research—particularly Russell's arousal-valence model for emotional voltage, Miller's capacity research for information capacitance, Broadbent's attention research for information conductance, and Sweller's cognitive load research for information resistance—we provide a scientifically grounded foundation for practical applications.
 
-The value of information physics lies not in overturning established psychology, but in providing:
+The value of information dynamics lies not in overturning established psychology, but in providing:
 - **Mathematical precision** for previously qualitative concepts
 - **Practical tools** for applying research in real-world contexts  
 - **Systems integration** across traditionally separate research domains
