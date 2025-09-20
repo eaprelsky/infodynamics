@@ -243,3 +243,6 @@ docs/build/
 # Keep small test data
 !tests/data/
 !*/test_data/ 
+
+# Simulation files are tracked - they contain important example code
+# simulation/ folder is included in version control 

@@ -150,7 +150,7 @@ conda install scikit-learn statsmodels
 conda activate info-dynamics
 
 # Запустить валидацию модели проводимости
-python analysis/hcp_conductivity_analysis.py
+python simulation/analysis/hcp_conductivity_analysis_simulated.py
 
 # Запустить JupyterLab для интерактивной работы
 jupyter lab

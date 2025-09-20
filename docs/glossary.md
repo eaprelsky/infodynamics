@@ -24,7 +24,7 @@ This dictionary contains all key terms of Information Dynamics theory with their
 - Quantitative models enable prediction and optimization of information processes
 
 **Related Terms:** G_info, R_info, L_info, C_info, U_info, Ohm's Law for Information
-
+ 
 ---
 
 ## ⚡ ELECTRICAL ANALOGIES
