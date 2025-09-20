@@ -216,8 +216,7 @@ MIT License - see LICENSE file for details.
 - **Email**: [your email] for collaborations
 - **ResearchGate**: [your profile] for scientific discussions
 
----
-This is a dummy, please ignore
+
 
 > **"Information Dynamics: Making the invisible patterns of human cognition visible and quantifiable"**
 
