@@ -217,9 +217,11 @@ MIT License - see LICENSE file for details.
 - **ResearchGate**: [your profile] for scientific discussions
 
 ---
+This is a dummy, please ignore
 
 > **"Information Dynamics: Making the invisible patterns of human cognition visible and quantifiable"**
 
 **Project Status**: 🔬 Active research phase  
 **Version**: 1.0.0-alpha  
+
 **Last Updated**: January 2025 
