@@ -1,9 +1,0 @@
-Statistic,Value,Interpretation
-Total Sample Size,"3,000 subjects",Large-scale validation
-Number of Models,3 validated models,Comprehensive framework
-Average R-squared,0.644,Strong overall effect
-Best Performance,G_info: R² = 0.785,Exceptional predictive power
-Weakest Performance,L_info: R² = 0.415,Large effect size
-Average Improvement,+25.2%,Substantial optimization
-Literature Reviews,8 comprehensive reviews,Thorough theoretical base
-Theoretical Concepts,120+ definitions,Complete formalization
